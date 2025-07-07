@@ -1,0 +1,116 @@
+FILE_TYPE=LIBRARY_PARTS;
+{ Using PSTWRITER 17.4.0 d001Jun-03-2025 at 19:08:35}
+primitive 'BCS-104-T-D-TE_4_SAMTEC_BCS-104-T-D-TE_2*4P 2.54MM 21MM PINS';
+  pin
+    'SDA':
+      PIN_NUMBER='(01)';
+      PINUSE='UNSPEC';
+    'ARGB_DATA_0':
+      PIN_NUMBER='(02)';
+      PINUSE='UNSPEC';
+    'SCL':
+      PIN_NUMBER='(03)';
+      PINUSE='UNSPEC';
+    'ARGB_DATA_1':
+      PIN_NUMBER='(04)';
+      PINUSE='UNSPEC';
+    '3V3':
+      PIN_NUMBER='(05)';
+      PINUSE='POWER';
+    'VDD':
+      PIN_NUMBER='(06)';
+      PINUSE='POWER';
+    'GND#07':
+      PIN_NUMBER='(07)';
+      PINUSE='POWER';
+    'GND#08':
+      PIN_NUMBER='(08)';
+      PINUSE='POWER';
+  end_pin;
+  body
+    PART_NAME='BCS-104-T-D-TE_4';
+    JEDEC_TYPE='SAMTEC_BCS-104-T-D-TE';
+    VALUE='2*4P 2.54mm 21mm pins';
+  end_body;
+end_primitive;
+primitive 'SAMTEC-SMH-104-02-X-SA_0_SAMTEC-SMH-104-02-X-S_RIGHT ANGLE 4P 2.54MM SOCKET';
+  pin
+    'SDA':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+    'SCL':
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+    'VDD':
+      PIN_NUMBER='(3)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+    'GND':
+      PIN_NUMBER='(4)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+  end_pin;
+  body
+    PART_NAME='SAMTEC-SMH-104-02-X-SA_0';
+    JEDEC_TYPE='SAMTEC-SMH-104-02-X-S';
+    VALUE='right angle 4P 2.54mm socket';
+  end_body;
+end_primitive;
+primitive 'SAMTEC-SMH-104-02-X-SA_2_ARGB_HEADER_90_ARGB SOCKET';
+  pin
+    '5V':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(*)';
+    'D':
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+    'GND':
+      PIN_NUMBER='(3)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+  end_pin;
+  body
+    PART_NAME='SAMTEC-SMH-104-02-X-SA_2';
+    JEDEC_TYPE='argb_header_90';
+    VALUE='ARGB socket';
+  end_body;
+end_primitive;
+primitive 'WS2812B-B_1_LED_WS2812B-B_WS2812B-B';
+  pin
+    'VDD':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+    'DOUT':
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+    'VSS':
+      PIN_NUMBER='(3)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+    'DIN':
+      PIN_NUMBER='(4)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+  end_pin;
+  body
+    PART_NAME='WS2812B-B_1';
+    JEDEC_TYPE='LED_WS2812B-B';
+    VALUE='WS2812B-B';
+  end_body;
+end_primitive;
+END.

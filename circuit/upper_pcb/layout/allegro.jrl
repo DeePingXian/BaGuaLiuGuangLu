@@ -1,0 +1,282 @@
+\t (00:00:50) allegro 17.4 S039 Windows SPB 64-bit Edition
+\t (00:00:50)     Journal start - Tue Jun 24 23:17:58 2025
+\t (00:00:50)         Host=DESKTOP-H6QBUE8 User=user Pid=10228 CPUs=6
+\t (00:00:50) CmdLine= c:\cadence\spb_17.4\tools\bin\allegro.exe C:\Users\user\Documents\GitHub\BaGuaLu\circuit\upper_pcb\layout\upper_pcb.brd
+\t (00:00:50) 
+   (00:00:50) Loading axlcore.cxt 
+\t (00:00:51) Opening existing design...
+\i (00:00:51) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "upper_pcb"
+\d (00:00:51) Design opened: C:/Users/user/Documents/GitHub/BaGuaLu/circuit/upper_pcb/layout/upper_pcb.brd
+\t (00:00:52) Grids are drawn 0.8000, 0.8000 apart for enhanced viewing.
+\i (00:00:52) trapsize 5664
+\i (00:00:52) trapsize 5876
+\i (00:00:52) trapsize 6104
+\i (00:00:52) trapsize 5876
+\i (00:00:52) trapsize 5664
+\t (00:00:52) Grids are drawn 0.8000, 0.8000 apart for enhanced viewing.
+\i (00:00:52) trapsize 5664
+\t (00:00:53) > Sending response DoneOpenBoard
+\i (00:00:53) trapsize 5561
+\i (00:00:53) generaledit 
+\i (00:01:05) zoom in 0.500000 
+\i (00:01:05) setwindow pcb
+\i (00:01:05) zoom in -3.1041 35.8241 0.5
+\t (00:01:05) Grids are drawn 0.4000, 0.4000 apart for enhanced viewing.
+\i (00:01:05) trapsize 3707
+\i (00:01:05) zoom in 0.500000 
+\i (00:01:05) setwindow pcb
+\i (00:01:05) zoom in -6.3667 35.7499 0.5
+\t (00:01:05) Grids are drawn 0.2000, 0.2000 apart for enhanced viewing.
+\i (00:01:05) trapsize 2472
+\i (00:01:06) zoom in 0.500000 
+\i (00:01:06) setwindow pcb
+\i (00:01:06) zoom in -6.3667 35.7499 0.5
+\i (00:01:06) trapsize 1648
+\i (00:01:08) pick grid 4.4426 47.8115
+\t (00:01:08) last pick:  4.4000 47.8000
+\i (00:01:09) prepopup 4.4426 47.8115
+\i (00:01:09) pop dyn_option_select @:@Move 
+\i (00:01:09) move 
+\t (00:01:09) last pick:  4.4000 47.8000
+\t (00:01:09) last pick:  4.8000 44.0435
+\t (00:01:10) Moving J3 / SAMTEC-SMH-104-02-X-SA_2_ARGB_HEADER_90_ARGB SOCKET / ARGB_HEADER_90.
+\t (00:01:10) Pick new location for the element(s).
+\i (00:01:14) ipick -1 
+\t (00:01:14) last pick:  3.8000 44.0435
+\i (00:01:14) generaledit 
+\i (00:01:16) undo 
+\i (00:01:16) trapsize 1648
+\i (00:01:16) generaledit 
+\i (00:01:18) prepopup 5.1017 47.6467
+\i (00:01:19) pop dyn_option_select @:@Move 
+\i (00:01:19) move 
+\t (00:01:19) last pick:  5.1000 47.6000
+\t (00:01:19) last pick:  4.8000 44.0435
+\t (00:01:19) Moving J3 / SAMTEC-SMH-104-02-X-SA_2_ARGB_HEADER_90_ARGB SOCKET / ARGB_HEADER_90.
+\t (00:01:19) Pick new location for the element(s).
+\i (00:01:21) ipick -1 
+\t (00:01:21) last pick:  3.8000 44.0435
+\i (00:01:21) generaledit 
+\i (00:01:22) zoom in 0.500000 
+\i (00:01:22) setwindow pcb
+\i (00:01:22) zoom in 3.4209 45.8342 0.5
+\i (00:01:22) trapsize 1099
+\i (00:01:22) zoom in 0.500000 
+\i (00:01:22) setwindow pcb
+\i (00:01:22) zoom in 3.7724 45.8123 0.5
+\i (00:01:22) trapsize 732
+\i (00:01:24) pick grid 5.9401 44.2012
+\t (00:01:24) last pick:  5.9000 44.2000
+\i (00:01:24) prepopup 5.9401 44.2012
+\i (00:01:25) pop dyn_option_select @:@Delete 
+\i (00:01:25) delete 
+\i (00:01:25) generaledit 
+\i (00:01:28) add connect 
+\t (00:01:28) Pick first element.
+\i (00:01:32) setwindow form.mini
+\i (00:01:32) FORM mini acon_line_width 0.1524 
+\i (00:01:34) setwindow pcb
+\i (00:01:34) pick grid 6.6139 43.5714
+\t (00:01:34) last pick:  6.6000 43.6000
+\t (00:01:34) last pick:  6.6000 43.5135
+\t (00:01:34) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:01:34) last pick:  6.6000 43.5135
+\i (00:01:35) mouse_pos 4.1972 44.9189
+\i (00:01:36) mouse_pos 4.8563 44.5674
+\i (00:01:37) pick grid 6.6432 42.5168
+\t (00:01:37) last pick:  6.6000 42.5000
+\t (00:01:37) No DRC errors detected.
+\i (00:01:38) mouse_pos 4.5487 45.0214
+\i (00:01:39) pick grid 3.9482 45.2997
+\t (00:01:39) last pick:  3.9000 45.3000
+\t (00:01:39) No DRC errors detected.
+\t (00:01:39) Pick first element.
+\i (00:01:39) prepopup 6.5699 45.3437
+\i (00:01:40) done 
+\i (00:01:40) generaledit 
+\i (00:01:40) zoom out 0.500000 
+\i (00:01:40) setwindow pcb
+\i (00:01:40) zoom out 7.0679 45.4901 0.5
+\i (00:01:40) trapsize 1099
+\i (00:01:40) zoom out 0.500000 
+\i (00:01:40) setwindow pcb
+\i (00:01:40) zoom out 7.0679 45.4901 0.5
+\i (00:01:40) trapsize 1648
+\i (00:01:41) zoom out 0.500000 
+\i (00:01:41) setwindow pcb
+\i (00:01:41) zoom out 9.3446 45.4901 0.5
+\i (00:01:41) trapsize 2472
+\i (00:01:41) zoom out 0.500000 
+\i (00:01:41) setwindow pcb
+\i (00:01:41) zoom out 19.0170 45.4902 0.5
+\t (00:01:41) Grids are drawn 0.4000, 0.4000 apart for enhanced viewing.
+\i (00:01:41) trapsize 3707
+\i (00:01:41) zoom out 0.500000 
+\i (00:01:41) setwindow pcb
+\i (00:01:41) zoom out 33.5254 45.4902 0.5
+\t (00:01:41) Grids are drawn 0.8000, 0.8000 apart for enhanced viewing.
+\i (00:01:41) trapsize 5561
+\i (00:01:42) zoom in 0.500000 
+\i (00:01:42) setwindow pcb
+\i (00:01:42) zoom in 2.4570 58.7361 0.5
+\t (00:01:42) Grids are drawn 0.4000, 0.4000 apart for enhanced viewing.
+\i (00:01:42) trapsize 3707
+\i (00:01:42) zoom in 0.500000 
+\i (00:01:42) setwindow pcb
+\i (00:01:42) zoom in -3.4007 57.9205 0.5
+\t (00:01:42) Grids are drawn 0.2000, 0.2000 apart for enhanced viewing.
+\i (00:01:42) trapsize 2472
+\i (00:01:43) zoom in 0.500000 
+\i (00:01:43) setwindow pcb
+\i (00:01:43) zoom in -4.2411 57.5745 0.5
+\i (00:01:43) trapsize 1648
+\i (00:01:43) zoom in 0.500000 
+\i (00:01:43) setwindow pcb
+\i (00:01:43) zoom in 2.7784 43.4698 0.5
+\i (00:01:43) trapsize 1099
+\i (00:01:43) zoom in 0.500000 
+\i (00:01:43) setwindow pcb
+\i (00:01:43) zoom in 3.1958 42.8108 0.5
+\i (00:01:43) trapsize 732
+\i (00:01:44) zoom out 0.500000 
+\i (00:01:44) setwindow pcb
+\i (00:01:44) zoom out 8.0732 50.1635 0.5
+\i (00:01:44) trapsize 1099
+\i (00:01:44) zoom out 0.500000 
+\i (00:01:44) setwindow pcb
+\i (00:01:44) zoom out 8.0731 50.1635 0.5
+\i (00:01:44) trapsize 1648
+\i (00:01:44) zoom in 0.500000 
+\i (00:01:44) setwindow pcb
+\i (00:01:44) zoom in 8.9492 45.1874 0.5
+\i (00:01:44) trapsize 1099
+\i (00:01:44) zoom in 0.500000 
+\i (00:01:44) setwindow pcb
+\i (00:01:44) zoom in 6.0931 38.5085 0.5
+\i (00:01:44) trapsize 732
+\i (00:01:44) zoom in 0.500000 
+\i (00:01:44) setwindow pcb
+\i (00:01:44) zoom in 5.6244 39.0505 0.5
+\i (00:01:44) trapsize 488
+\i (00:01:47) zoom out 0.500000 
+\i (00:01:47) setwindow pcb
+\i (00:01:47) zoom out 10.2137 44.6846 0.5
+\i (00:01:47) trapsize 732
+\i (00:01:47) zoom out 0.500000 
+\i (00:01:47) setwindow pcb
+\i (00:01:47) zoom out 9.9939 44.5529 0.5
+\i (00:01:47) trapsize 1099
+\i (00:01:47) zoom out 0.500000 
+\i (00:01:47) setwindow pcb
+\i (00:01:47) zoom out 9.8621 44.4431 0.5
+\i (00:01:47) trapsize 1648
+\i (00:01:48) zoom out 0.500000 
+\i (00:01:48) setwindow pcb
+\i (00:01:48) zoom out 8.3891 44.8714 0.5
+\i (00:01:48) trapsize 2472
+\i (00:01:48) zoom out 0.500000 
+\i (00:01:48) setwindow pcb
+\i (00:01:48) zoom out 18.5229 43.8333 0.5
+\t (00:01:48) Grids are drawn 0.4000, 0.4000 apart for enhanced viewing.
+\i (00:01:48) trapsize 3707
+\i (00:01:48) zoom out 0.500000 
+\i (00:01:48) setwindow pcb
+\i (00:01:48) zoom out 32.9326 47.7626 0.5
+\t (00:01:48) Grids are drawn 0.8000, 0.8000 apart for enhanced viewing.
+\i (00:01:48) trapsize 5561
+\i (00:01:48) zoom out 0.500000 
+\i (00:01:48) setwindow pcb
+\i (00:01:48) zoom out 56.5116 74.0849 0.5
+\i (00:01:48) trapsize 5561
+\i (00:01:49) zoom out 0.500000 
+\i (00:01:49) setwindow pcb
+\i (00:01:49) zoom out 188.7563 72.4166 0.5
+\i (00:01:49) trapsize 5561
+\i (00:01:49) zoom out 0.500000 
+\i (00:01:49) setwindow pcb
+\i (00:01:49) zoom out 100.2225 44.9444 0.5
+\i (00:01:49) trapsize 5561
+\i (00:01:50) setwindow form.mini
+\i (00:01:50) FORM mini subclass TOP 
+\i (00:01:50) setwindow pcb
+\i (00:01:50) updateport CVPane
+\i (00:44:44) zoom in 0.500000 
+\i (00:44:44) setwindow pcb
+\i (00:44:44) zoom in -1.5470 39.2720 0.5
+\t (00:44:44) Grids are drawn 0.4000, 0.4000 apart for enhanced viewing.
+\i (00:44:44) trapsize 3707
+\i (00:44:47) zoom in 0.500000 
+\i (00:44:47) setwindow pcb
+\i (00:44:47) zoom in -3.8456 39.4203 0.5
+\t (00:44:47) Grids are drawn 0.2000, 0.2000 apart for enhanced viewing.
+\i (00:44:47) trapsize 2472
+\i (00:44:49) zoom out 0.500000 
+\i (00:44:49) setwindow pcb
+\i (00:44:49) zoom out 22.2548 39.7663 0.5
+\t (00:44:49) Grids are drawn 0.4000, 0.4000 apart for enhanced viewing.
+\i (00:44:49) trapsize 3707
+\i (00:44:49) zoom out 0.500000 
+\i (00:44:49) setwindow pcb
+\i (00:44:49) zoom out 35.3050 39.7664 0.5
+\t (00:44:49) Grids are drawn 0.8000, 0.8000 apart for enhanced viewing.
+\i (00:44:49) trapsize 5561
+\i (00:44:49) zoom out 0.500000 
+\i (00:44:49) setwindow pcb
+\i (00:44:49) zoom out 57.9575 40.2730 0.5
+\i (00:44:49) trapsize 5561
+\i (00:44:49) zoom out 0.500000 
+\i (00:44:49) setwindow pcb
+\i (00:44:49) zoom out 57.9575 40.2730 0.5
+\i (00:44:49) trapsize 5561
+\i (00:44:49) zoom out 0.500000 
+\i (00:44:49) setwindow pcb
+\i (00:44:49) zoom out 57.9575 40.2730 0.5
+\i (00:44:49) trapsize 5561
+\i (00:44:51) save 
+\i (00:44:52) fillin yes 
+\t (00:44:52) > Sending response DoneOpenBoard
+\i (00:44:52) generaledit 
+\i (00:44:57) artwork 
+\i (00:44:58) setwindow form.film_control
+\i (00:44:58) FORM film_control select_all  
+\i (00:44:59) FORM film_control filmtree  ADT 
+\i (00:44:59) FORM film_control filmtree 'MULTISEL NO' ADT 
+\i (00:44:59) FORM film_control filmtree  ADB 
+\i (00:45:00) FORM film_control filmtree 'MULTISEL NO' ADB 
+\i (00:45:01) FORM film_control create  
+\t (00:45:01) Checking db records
+\t (00:45:01)     checking for orphans...
+\t (00:45:01)     Checked 100 percent
+\w (00:45:01) Run batch DRC to correctly regenerate DRC errs.
+
+\t (00:45:01) Done dbdoctor.
+\t (00:45:01) Starting Create artwork films...
+\w (00:45:02) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (00:45:03) Artwork generated with warnings.
+\i (00:45:04) setwindow text
+\i (00:45:04) close
+\i (00:45:04) setwindow form.film_control
+\i (00:45:04) FORM film_control ok  
+\i (00:45:04) setwindow pcb
+\i (00:45:04) generaledit 
+\i (00:45:08) nctape_full 
+\i (00:45:10) setwindow form.nc_drill
+\i (00:45:10) FORM nc_drill execute  
+\t (00:45:10) Starting Generating NC Drill...
+\i (00:45:12) FORM nc_drill close  
+\i (00:45:12) setwindow pcb
+\i (00:45:12) generaledit 
+\i (00:45:13) save 
+\i (00:45:14) fillin yes 
+   (00:45:14) Loading signal.cxt 
+\t (00:45:15) > Sending response DoneOpenBoard
+\i (00:45:15) generaledit 
+\i (00:45:21) plctxt out 
+\i (00:45:23) setwindow form.plctxt
+\i (00:45:23) FORM plctxt execute  
+\t (00:45:23) Starting Place symbols by text file...
+\i (00:45:25) FORM plctxt cancel  
+\i (00:45:25) setwindow pcb
+\i (00:45:25) generaledit 
+\i (00:45:27) exit 
+\t (00:45:27)     Journal end - Wed Jun 25 00:02:35 2025

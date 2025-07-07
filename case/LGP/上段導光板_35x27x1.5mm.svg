@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_草图1" data-name="草图1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 2048 2048">
+  <!-- Generator: Adobe Illustrator 29.5.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 137)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: .71px;
+      }
+    </style>
+  </defs>
+  <g id="LINE">
+    <line class="st0" x1="1037.73" y1="1006" x2="1011" y2="1006"/>
+  </g>
+  <g id="LINE1" data-name="LINE">
+    <line class="st0" x1="1038" y1="1006" x2="1037.73" y2="1006"/>
+  </g>
+  <g id="LINE2" data-name="LINE">
+    <line class="st0" x1="1011" y1="1041" x2="1011.27" y2="1041"/>
+  </g>
+  <g id="LINE3" data-name="LINE">
+    <line class="st0" x1="1038" y1="1040.65" x2="1038" y2="1006"/>
+  </g>
+  <g id="LINE4" data-name="LINE">
+    <line class="st0" x1="1011" y1="1006" x2="1011" y2="1006.35"/>
+  </g>
+  <g id="LINE5" data-name="LINE">
+    <line class="st0" x1="1011.27" y1="1041" x2="1038" y2="1041"/>
+  </g>
+  <g id="LINE6" data-name="LINE">
+    <line class="st0" x1="1038" y1="1041" x2="1038" y2="1040.65"/>
+  </g>
+  <g id="LINE7" data-name="LINE">
+    <line class="st0" x1="1011" y1="1006.35" x2="1011" y2="1041"/>
+  </g>
+</svg>

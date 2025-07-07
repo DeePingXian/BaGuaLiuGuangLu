@@ -1,0 +1,105 @@
+(ExpressProject "upper_pcb"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "17.4-2019 S039 (4153571)  [11/4/2023]-[06/03/25]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    ("Allegro Netlist Directory" "layout")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    (File ".\upper_pcb.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    ("Allegro Netlist Output Board File" ".\layout\upper_pcb.brd"))
+  (Folder "Layout"
+    (File ".\layout\upper_pcb.brd"
+      (Type "Board File")
+      (OutputBoard ".\layout\upper_pcb.brd")
+      (NetListPath ".\layout")
+      (ActiveBoard "1")))
+  (Folder "Outputs"
+    (File ".\layout\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\layout\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\layout\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs"
+    (File ".\layout\netlist.log"
+      (Type "Log File")
+      (LogFile
+         "c:\users\user\documents\github\bagualu\circuit\dvt\upper_pcb\layout\netlist.log"))
+    (File ".\layout\netrev.lst"
+      (Type "Log File")
+      (LogFile
+         "c:\users\user\documents\github\bagualu\circuit\dvt\upper_pcb\layout\netrev.lst"))
+    (File ".\layout\eco.txt"
+      (Type "Log File")
+      (LogFile
+         "c:\users\user\documents\github\bagualu\circuit\dvt\upper_pcb\layout\eco.txt"))
+    (File ".\layout\genfeed.log"
+      (Type "Log File")
+      (LogFile
+         "c:\users\user\documents\github\bagualu\circuit\dvt\upper_pcb\layout\genfeed.log")))
+  (PartMRUSelector
+    (GND
+      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (WS2812B-B
+      (FullPartName "WS2812B-B.Normal")
+      (LibraryName
+         "C:\USERS\USER\DOCUMENTS\GITHUB\BAGUALU\CIRCUIT\ALLEGRO\PARTS\WS2812B-B\WS2812B-B.OLB")
+      (DeviceIndex "0"))
+    (BCS-104-T-D-TE
+      (FullPartName "BCS-104-T-D-TE.Normal")
+      (LibraryName
+         "C:\USERS\USER\DOCUMENTS\GITHUB\BAGUALU\CIRCUIT\ALLEGRO\PARTS\BCS-104-T-D-TE\BCS-104-T-D-TE.OLB")
+      (DeviceIndex "0"))
+    (SAMTEC-SMH-104-02-X-SA
+      (FullPartName "SAMTEC-SMH-104-02-X-SA.Normal")
+      (LibraryName
+         "C:\USERS\USER\DOCUMENTS\GITHUB\BAGUALU\CIRCUIT\ALLEGRO\PARTS\RIGH_ANGLE_4P_SOCKET\SAMTEC-SMH-104-02-X-S.OLB")
+      (DeviceIndex "0")))
+  (MPSSessionName "user")
+  (LastUsedLibraryBrowseDirectory
+     "C:\Users\user\Documents\GitHub\BaGuaLu\circuit\Allegro\parts\WS2812B-B")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\upper_pcb.dsn")
+      (Path "Design Resources" ".\upper_pcb.dsn" "upper_pcb")
+      (Path "Layout")
+      (Path "Outputs")
+      (Path "Logs")
+      (Select "Design Resources" ".\upper_pcb.dsn" "upper_pcb" "PAGE1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 943"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 26 5 2314 26 963")
+        (Scroll "-510 -8")
+        (Zoom "76")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\USER\DOCUMENTS\GITHUB\BAGUALU\CIRCUIT\DVT\UPPER_PCB\UPPER_PCB.DSN")
+      (Schematic "upper_pcb")
+      (Page "PAGE1"))))

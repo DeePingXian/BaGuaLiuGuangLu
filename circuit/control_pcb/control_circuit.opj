@@ -1,0 +1,262 @@
+(ExpressProject "control_circuit"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "17.4-2019 S039 (4153571)  [11/4/2023]-[07/06/25]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    ("Allegro Netlist Directory" "layout")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    (File ".\control_circuit.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (Netlist_TAB "0")
+    ("Create Allegro Netlist" "TRUE")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "FALSE")
+    ("Allegro Netlist Output Board File" ".\layout\control_pcb.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "255")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (Backannotation_TAB "0")
+    (Board_sim_option "VHDL_flow"))
+  (Folder "Layout"
+    (File ".\layout\control_pcb.brd"
+      (Type "Board File")
+      (OutputBoard ".\layout\control_pcb.brd")
+      (NetListPath ".\layout")
+      (ActiveBoard "1")))
+  (Folder "Outputs"
+    (File "c:\users\user\downloads\wtf14\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File "c:\users\user\downloads\wtf14\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File "c:\users\user\downloads\wtf14\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File "c:\users\user\downloads\wtf16\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File "c:\users\user\downloads\wtf16\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File "c:\users\user\downloads\wtf16\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File "c:\users\user\downloads\a\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File "c:\users\user\downloads\a\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File "c:\users\user\downloads\a\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File "..\pcb_layout\control_pcb\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File "..\pcb_layout\control_pcb\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File "..\pcb_layout\control_pcb\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs"
+    (File "..\pcb_layout\control_pcb\netlist.log"
+      (Type "Log File")
+      (LogFile
+         "c:\users\user\documents\github\bagualu\circuit\allegro\pcb_layout\control_pcb\netlist.log"))
+    (File "..\pcb_layout\control_pcb\genfeed.log"
+      (Type "Log File")
+      (LogFile
+         "c:\users\user\documents\github\bagualu\circuit\allegro\pcb_layout\control_pcb\genfeed.log"))
+    (File "..\pcb_layout\control_pcb\swp.log"
+      (Type "Log File")
+      (LogFile
+         "c:\users\user\documents\github\bagualu\circuit\allegro\pcb_layout\control_pcb\swp.log"))
+    (File "..\pcb_layout\control_pcb\netrev.lst"
+      (Type "Log File")
+      (LogFile
+         "c:\users\user\documents\github\bagualu\circuit\allegro\pcb_layout\control_pcb\netrev.lst"))
+    (File "..\pcb_layout\control_pcb\eco.txt"
+      (Type "Log File")
+      (LogFile
+         "c:\users\user\documents\github\bagualu\circuit\allegro\pcb_layout\control_pcb\eco.txt"))
+    (File ".\layout\netlist.log"
+      (Type "Log File")
+      (LogFile
+         "c:\users\user\documents\github\bagualu\circuit\control_pcb\layout\netlist.log"))
+    (File ".\layout\genfeed.log"
+      (Type "Log File")
+      (LogFile
+         "c:\users\user\documents\github\bagualu\circuit\control_pcb\layout\genfeed.log"))
+    (File ".\layout\netrev.lst"
+      (Type "Log File")
+      (LogFile
+         "c:\users\user\documents\github\bagualu\circuit\control_pcb\layout\netrev.lst"))
+    (File ".\layout\eco.txt"
+      (Type "Log File")
+      (LogFile
+         "c:\users\user\documents\github\bagualu\circuit\control_pcb\layout\eco.txt")))
+  (MPSSessionName "user")
+  (PartMRUSelector
+    ("MOSFET N"
+      (FullPartName "MOSFET N.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("DIODE TVS BI-DIR"
+      (FullPartName "DIODE TVS BI-DIR.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("DIODE TAZ BI-DIR"
+      (FullPartName "DIODE TAZ BI-DIR.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-L
+      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (2N1069
+      (FullPartName "2N1069.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\TRANSISTOR.OLB")
+      (DeviceIndex "0"))
+    (NTC
+      (FullPartName "NTC.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (CAP
+      (FullPartName "CAP.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("5pin header"
+      (FullPartName "5pin header.Normal")
+      (LibraryName
+         "C:\USERS\USER\DOCUMENTS\GITHUB\BAGUALU\CIRCUIT\DVT\PARTS\5PIN-CONN\5PIN-CONN.OLB")
+      (DeviceIndex "0"))
+    (TS-104-T-A-1
+      (FullPartName "TS-104-T-A-1.Normal")
+      (LibraryName
+         "C:\USERS\USER\DOCUMENTS\GITHUB\BAGUALU\CIRCUIT\ALLEGRO\CIRCUIT_DIAGRAM\TS-104-T-A-1\TS-104-T-A-1.OLB")
+      (DeviceIndex "0"))
+    (BCS-104-T-D-TE
+      (FullPartName "BCS-104-T-D-TE.Normal")
+      (LibraryName
+         "C:\USERS\USER\DOCUMENTS\GITHUB\BAGUALU\CIRCUIT\ALLEGRO\CIRCUIT_DIAGRAM\BCS-104-T-D-TE\BCS-104-T-D-TE.OLB")
+      (DeviceIndex "0"))
+    ("DIODE BREAKDOWN"
+      (FullPartName "DIODE BREAKDOWN.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (ESQ-103-13-T-D
+      (FullPartName "ESQ-103-13-T-D.Normal")
+      (LibraryName
+         "C:\USERS\USER\DOCUMENTS\GITHUB\BAGUALU\CIRCUIT\ALLEGRO\CIRCUIT_DIAGRAM\ESQ-103-13-T-D\ESQ-103-13-T-D.OLB")
+      (DeviceIndex "0"))
+    (SSM-120-L-SV-BE
+      (FullPartName "SSM-120-L-SV-BE.Normal")
+      (LibraryName
+         "C:\USERS\USER\DOCUMENTS\GITHUB\BAGUALU\CIRCUIT\ALLEGRO\CIRCUIT_DIAGRAM\SSM-120-L-SV-BE\SSM-120-L-SV-BE.OLB")
+      (DeviceIndex "0"))
+    (SAMTEC-SMH-104-02-X-SA
+      (FullPartName "SAMTEC-SMH-104-02-X-SA.Normal")
+      (LibraryName
+         "C:\USERS\USER\DOCUMENTS\GITHUB\BAGUALU\CIRCUIT\ALLEGRO\CIRCUIT_DIAGRAM\SAMTEC-SMH-104-02-X-S\SAMTEC-SMH-104-02-X-S.OLB")
+      (DeviceIndex "0"))
+    (SSM-120-S-SV
+      (FullPartName "SSM-120-S-SV.Normal")
+      (LibraryName
+         "C:\USERS\USER\DOCUMENTS\GITHUB\BAGUALU\CIRCUIT\ALLEGRO\CIRCUIT_DIAGRAM\SSM-120-S-SV\SSM-120-S-SV.OLB")
+      (DeviceIndex "0"))
+    (0ZCF0075AF2C
+      (FullPartName "0ZCF0075AF2C.Normal")
+      (LibraryName
+         "C:\USERS\USER\DOCUMENTS\GITHUB\BAGUALU\CIRCUIT\ALLEGRO\CIRCUIT_DIAGRAM\F2920\0ZCF0075AF2C.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-R
+      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (INA226AIDGSR
+      (FullPartName "INA226AIDGSR.Normal")
+      (LibraryName
+         "C:\USERS\USER\DOCUMENTS\GITHUB\BAGUALU\CIRCUIT\ALLEGRO\CIRCUIT_DIAGRAM\INA226AIDGSR\INA226AIDGSR.OLB")
+      (DeviceIndex "0"))
+    (EG1247
+      (FullPartName "EG1247.Normal")
+      (LibraryName
+         "C:\USERS\USER\DOCUMENTS\GITHUB\BAGUALU\CIRCUIT\ALLEGRO\CIRCUIT_DIAGRAM\SWITCH\EG1247.OLB")
+      (DeviceIndex "0"))
+    (TS11-674-73-BK-160-RA-D
+      (FullPartName "TS11-674-73-BK-160-RA-D.Normal")
+      (LibraryName
+         "C:\USERS\USER\DOCUMENTS\GITHUB\BAGUALU\CIRCUIT\CONTROL\ALLEGRO\CIRCUIT_DIAGRAM\TS11-674-73-BK-160-RA-D\TS11-674-73-BK-160-RA-D.OLB")
+      (DeviceIndex "0"))
+    (TS11-674-43-BK-160-RA-D
+      (FullPartName "TS11-674-43-BK-160-RA-D.Normal")
+      (LibraryName
+         "C:\USERS\USER\DOCUMENTS\GITHUB\BAGUALU\CIRCUIT\CONTROL\ALLEGRO\CIRCUIT_DIAGRAM\TS11-674-43-BK-160-RA-D\TS11-674-43-BK-160-RA-D.OLB")
+      (DeviceIndex "0"))
+    (1N4448HWT-7
+      (FullPartName "1N4448HWT-7.Normal")
+      (LibraryName
+         "C:\USERS\USER\DOCUMENTS\GITHUB\BAGUALU\CIRCUIT\CONTROL\ALLEGRO\CIRCUIT_DIAGRAM\1N4448HWT-7\1N4448HWT-7.OLB")
+      (DeviceIndex "0"))
+    (WS2812B-B
+      (FullPartName "WS2812B-B.Normal")
+      (LibraryName
+         "C:\USERS\USER\DOCUMENTS\GITHUB\BAGUALU\CIRCUIT\CONTROL\ALLEGRO\CIRCUIT_DIAGRAM\WS2812B-B\WS2812B-B.OLB")
+      (DeviceIndex "0"))
+    (RESISTOR
+      (FullPartName "RESISTOR.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (LM431CIM3NOPB
+      (FullPartName "LM431CIM3NOPB.Normal")
+      (LibraryName
+         "C:\USERS\USER\DOCUMENTS\GITHUB\BAGUALU\CIRCUIT\CONTROL\ALLEGRO\CIRCUIT_DIAGRAM\LM431CIM3_NOPB\LM431CIM3NOPB.OLB")
+      (DeviceIndex "0")))
+  (LastUsedLibraryBrowseDirectory "C:\Cadence\SPB_17.4\tools\capture\library")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\control_circuit.dsn")
+      (Path "Design Resources" ".\control_circuit.dsn" "CONTROL_PCB")
+      (Path "Layout")
+      (Path "Outputs")
+      (Path "Logs"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 943"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 26 5 2041 26 963")
+        (Scroll "-374 -8")
+        (Zoom "76")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\USER\DOCUMENTS\GITHUB\BAGUALU\CIRCUIT\CONTROL_PCB\CONTROL_CIRCUIT.DSN")
+      (Schematic "CONTROL_PCB")
+      (Page "PAGE1")))
+  (ISPCBBASICLICENSE "false"))

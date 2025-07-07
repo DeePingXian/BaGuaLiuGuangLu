@@ -1,0 +1,29 @@
+{ Using PSTWRITER 17.4.0 d001May-18-2025 at 16:43:53 }
+
+#1 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#A1_B12" as visible power pin of same name already exists in Package TYPE-C-31-M-12_0 , J1: control_PCB, PAGE1 (15.24, 20.32).
+#2 WARNING(ORCAP-36042): Pin "VBUS" is renamed to "VBUS#A4_B9" as visible power pin of same name already exists in Package TYPE-C-31-M-12_0 , J1: control_PCB, PAGE1 (15.24, 20.32).
+#3 WARNING(ORCAP-36042): Pin "VBUS" is renamed to "VBUS#B4_A9" as visible power pin of same name already exists in Package TYPE-C-31-M-12_0 , J1: control_PCB, PAGE1 (15.24, 20.32).
+#4 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#B1_A12" as visible power pin of same name already exists in Package TYPE-C-31-M-12_0 , J1: control_PCB, PAGE1 (15.24, 20.32).
+#5 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#3" as visible power pin of same name already exists in Package TS11-674-73-BK-160-RA-D_0 , SW2: control_PCB, PAGE1 (27.94, 134.62).
+#6 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#4" as visible power pin of same name already exists in Package TS11-674-73-BK-160-RA-D_0 , SW2: control_PCB, PAGE1 (27.94, 134.62).
+#7 WARNING(ORCAP-36042): Pin "LX" is renamed to "LX#14" as visible power pin of same name already exists in Package IP5310 , U1: control_PCB, PAGE1 (279.40, 27.94).
+#8 WARNING(ORCAP-36042): Pin "LX" is renamed to "LX#15" as visible power pin of same name already exists in Package IP5310 , U1: control_PCB, PAGE1 (279.40, 27.94).
+#9 WARNING(ORCAP-36042): Pin "LX" is renamed to "LX#16" as visible power pin of same name already exists in Package IP5310 , U1: control_PCB, PAGE1 (279.40, 27.94).
+#10 WARNING(ORCAP-36042): Pin "LX" is renamed to "LX#17" as visible power pin of same name already exists in Package IP5310 , U1: control_PCB, PAGE1 (279.40, 27.94).
+#11 WARNING(ORCAP-36042): Pin "LX" is renamed to "LX#18" as visible power pin of same name already exists in Package IP5310 , U1: control_PCB, PAGE1 (279.40, 27.94).
+#12 WARNING(ORCAP-36042): Pin "VOUT" is renamed to "VOUT#19" as visible power pin of same name already exists in Package IP5310 , U1: control_PCB, PAGE1 (279.40, 27.94).
+#13 WARNING(ORCAP-36042): Pin "VOUT" is renamed to "VOUT#20" as visible power pin of same name already exists in Package IP5310 , U1: control_PCB, PAGE1 (279.40, 27.94).
+#14 WARNING(ORCAP-36042): Pin "VOUT" is renamed to "VOUT#21" as visible power pin of same name already exists in Package IP5310 , U1: control_PCB, PAGE1 (279.40, 27.94).
+#15 WARNING(ORCAP-36042): Pin "VOUT" is renamed to "VOUT#22" as visible power pin of same name already exists in Package IP5310 , U1: control_PCB, PAGE1 (279.40, 27.94).
+#16 WARNING(ORCAP-36042): Pin "VIN" is renamed to "VIN#23" as visible power pin of same name already exists in Package IP5310 , U1: control_PCB, PAGE1 (279.40, 27.94).
+#17 WARNING(ORCAP-36042): Pin "VIN" is renamed to "VIN#24" as visible power pin of same name already exists in Package IP5310 , U1: control_PCB, PAGE1 (279.40, 27.94).
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... C:\Users\user\Documents\GitHub\BaGuaLu\circuit\Allegro\PCB_layout\netlist\pstchip.dat
+
+Loading... C:\Users\user\Documents\GitHub\BaGuaLu\circuit\Allegro\PCB_layout\netlist\pstchip.dat
+
+Loading... C:\Users\user\Documents\GitHub\BaGuaLu\circuit\Allegro\PCB_layout\netlist\pstxprt.dat
+
+Loading... C:\Users\user\Documents\GitHub\BaGuaLu\circuit\Allegro\PCB_layout\netlist\pstxnet.dat
+packaging the design view...

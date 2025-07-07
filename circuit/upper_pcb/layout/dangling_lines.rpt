@@ -1,0 +1,43 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dangling Line, Via and Antenna Report                            )
+(                                                                     )
+(    Drawing          : upper_pcb.brd                                 )
+(    Software Version : 17.4S039                                      )
+(    Date/Time        : Tue Jun  3 19:29:22 2025                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Report methodology:
+  - Dangling lines have at least one end not connected.
+  - Dangling vias have one or no connection
+      - Plus are not a test, thieving or netshort property via.
+  - Antenna vias do not have connections on their start and end layers.
+      - Plus they are not a thieving vias.
+      - Optionally, VOLTAGE nets, testvias and through vias can be suppressed with
+        the environment variable report_antennavia.
+      - Section may be suppressed by variable report_noantennavia.
+  - Not part of the current partition.
+  - To suppress items in dangle report add the OK_DANGLE property to the via
+    or connect line.
+
+<< Dangling Lines >>  - Location marked with a star (*) is dangling.
+  Net                 Layer                  Length       Location
+  ------------------------------------------------------------------------------------------
+  N05128               BOTTOM                0.4351     *(76.7879 45.3135) to  (77.2230 45.3135)
+  N05124               BOTTOM                0.4351     *(76.7879 47.8535) to  (77.2230 47.8535)
+
+
+<< Dangling Vias >>
+  Net                  Padstack               Location            Layers
+  ---------------------------------------------------------------------------
+  Not on a Net         VIA-1                (3.6960 27.3300) TOP/BOTTOM 
+  Not on a Net         VIA-1                (27.3310 84.3790) TOP/BOTTOM 
+  Not on a Net         VIA-1                (60.7560 3.6830) TOP/BOTTOM 
+  Not on a Net         VIA-1                (84.3910 60.7570) TOP/BOTTOM 
+
+<< Summary >>
+  Total dangling lines:       2
+  Total dangling vias:        4
+  Total antenna vias:         0

@@ -1,0 +1,86 @@
+{
+	"Gate Swap" : [],
+	"Ref Des" : [],
+	"Pin Swap" : [],
+	"Component Property" : [],
+	"Net Property" : [],
+	"Pin Property" : [],
+	"Component" : [
+		{
+			"Name" : "J1",
+			"C_PATH" : "@upper_pcb.upper_pcb(sch_1):ins71@upper_pcb.\\bcs-104-t-d-te_3.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "J1"
+		},
+		{
+			"Name" : "J1",
+			"C_PATH" : "@upper_pcb.upper_pcb(sch_1):ins71@upper_pcb.\\bcs-104-t-d-te_4.normal\\(chips)",
+			"Logical" : "J1",
+			"Physical" : null
+		}
+	],
+	"Net" : [
+		{
+			"Name" : "N05132",
+			"C_PATH" : "@upper_pcb.upper_pcb(sch_1):n05132",
+			"Logical" : "N05132",
+			"Physical" : null
+		}
+	],
+	"Connection" : [
+		{
+			"Name" : "J1.04",
+			"C_PATH" : "@upper_pcb.upper_pcb(sch_1):ins71@upper_pcb.\\bcs-104-t-d-te_4.normal\\(chips):ARGB_DATA_1",
+			"Logical" : "N13763",
+			"Physical" : null
+		},
+		{
+			"Name" : "J1.05",
+			"C_PATH" : "@upper_pcb.upper_pcb(sch_1):ins71@upper_pcb.\\bcs-104-t-d-te_4.normal\\(chips):\\3v3\\",
+			"Logical" : "N05132",
+			"Physical" : null
+		},
+		{
+			"Name" : "J1.06",
+			"C_PATH" : "@upper_pcb.upper_pcb(sch_1):ins71@upper_pcb.\\bcs-104-t-d-te_4.normal\\(chips):VDD",
+			"Logical" : "N00249",
+			"Physical" : null
+		},
+		{
+			"Name" : "J1.02",
+			"C_PATH" : "@upper_pcb.upper_pcb(sch_1):ins71@upper_pcb.\\bcs-104-t-d-te_4.normal\\(chips):ARGB_DATA_0",
+			"Logical" : "N04415",
+			"Physical" : null
+		},
+		{
+			"Name" : "J1.01",
+			"C_PATH" : "@upper_pcb.upper_pcb(sch_1):ins71@upper_pcb.\\bcs-104-t-d-te_4.normal\\(chips):SDA",
+			"Logical" : "N05124",
+			"Physical" : null
+		},
+		{
+			"Name" : "J1.03",
+			"C_PATH" : "@upper_pcb.upper_pcb(sch_1):ins71@upper_pcb.\\bcs-104-t-d-te_4.normal\\(chips):SCL",
+			"Logical" : "N05128",
+			"Physical" : null
+		},
+		{
+			"Name" : "J1.07",
+			"C_PATH" : "@upper_pcb.upper_pcb(sch_1):ins71@upper_pcb.\\bcs-104-t-d-te_4.normal\\(chips):\\gnd#07\\",
+			"Logical" : "GND",
+			"Physical" : null
+		},
+		{
+			"Name" : "J1.08",
+			"C_PATH" : "@upper_pcb.upper_pcb(sch_1):ins71@upper_pcb.\\bcs-104-t-d-te_4.normal\\(chips):\\gnd#08\\",
+			"Logical" : "GND",
+			"Physical" : null
+		},
+		{
+			"Name" : "J2.3",
+			"C_PATH" : "@upper_pcb.upper_pcb(sch_1):ins30@upper_pcb.\\samtec-smh-104-02-x-sa_0.normal\\(chips):VDD",
+			"Logical" : "N05132",
+			"Physical" : "N00249"
+		}
+	]
+}

@@ -1,0 +1,301 @@
+A!NET_NAME!REFDES!PIN_NUMBER!FUNC_LOGICAL_PATH!COMP_DEVICE_TYPE!FUNC_SCH_SIZE!FUNC_HAS_FIXED_SIZE!FUNC_DES!PIN_NET_SHORT!PIN_NO_SWAP_PIN!PIN_NO_PIN_ESCAPE!PIN_CDS_PINID!PIN_XNET_PINS!PIN_PIN_ESCAPE!PIN_PIN_SIGNAL_MODEL!PIN_NO_DRC!PIN_NO_SHAPE_CONNECT!
+J!C:/USERS/USER/DOCUMENTS/GITHUB/BAGUALU/CIRCUIT/CONTROL_PCB/layout/control_pcb.brd!Sun Jul  6 00:12:18 2025!-10.0000!-10.0000!100.0000!100.0000!0.0001!millimeters!CONTROL_CIRCUIT!65.748031 mil!2!UP TO DATE!
+S!GND!D10!1!@control_circuit.control_pcb(sch_1):ins250105@control_circuit.\diode tvs bi-dir_5.normal\(chips)!DIODE TVS BI-DIR_5_0603_H3V3LD5B!!!F68!!!!!!!!!!
+S!PICO_3V3!D10!2!@control_circuit.control_pcb(sch_1):ins250105@control_circuit.\diode tvs bi-dir_5.normal\(chips)!DIODE TVS BI-DIR_5_0603_H3V3LD5B!!!F68!!!!!!!!!!
+S!!J2!01!@control_circuit.control_pcb(sch_1):ins138216@control_circuit.\ssm-120-l-sv-be_1.normal\(chips)!SSM-120-L-SV-BE_1_1X20P_SMD_SOCKET_20P SOCKET!!!F58!!!!!!!!!!
+S!!J2!02!@control_circuit.control_pcb(sch_1):ins138216@control_circuit.\ssm-120-l-sv-be_1.normal\(chips)!SSM-120-L-SV-BE_1_1X20P_SMD_SOCKET_20P SOCKET!!!F58!!!!!!!!!!
+S!GND!J2!03!@control_circuit.control_pcb(sch_1):ins138216@control_circuit.\ssm-120-l-sv-be_1.normal\(chips)!SSM-120-L-SV-BE_1_1X20P_SMD_SOCKET_20P SOCKET!!!F58!!!!!!!!!!
+S!ARGB_DATA_0!J2!04!@control_circuit.control_pcb(sch_1):ins138216@control_circuit.\ssm-120-l-sv-be_1.normal\(chips)!SSM-120-L-SV-BE_1_1X20P_SMD_SOCKET_20P SOCKET!!!F58!!!!!!!!!!
+S!ARGB_DATA_1!J2!05!@control_circuit.control_pcb(sch_1):ins138216@control_circuit.\ssm-120-l-sv-be_1.normal\(chips)!SSM-120-L-SV-BE_1_1X20P_SMD_SOCKET_20P SOCKET!!!F58!!!!!!!!!!
+S!INA226_SDA!J2!06!@control_circuit.control_pcb(sch_1):ins138216@control_circuit.\ssm-120-l-sv-be_1.normal\(chips)!SSM-120-L-SV-BE_1_1X20P_SMD_SOCKET_20P SOCKET!!!F58!!!!!!!!!!
+S!INA226_SCL!J2!07!@control_circuit.control_pcb(sch_1):ins138216@control_circuit.\ssm-120-l-sv-be_1.normal\(chips)!SSM-120-L-SV-BE_1_1X20P_SMD_SOCKET_20P SOCKET!!!F58!!!!!!!!!!
+S!GND!J2!08!@control_circuit.control_pcb(sch_1):ins138216@control_circuit.\ssm-120-l-sv-be_1.normal\(chips)!SSM-120-L-SV-BE_1_1X20P_SMD_SOCKET_20P SOCKET!!!F58!!!!!!!!!!
+S!PICO_KEY1!J2!09!@control_circuit.control_pcb(sch_1):ins138216@control_circuit.\ssm-120-l-sv-be_1.normal\(chips)!SSM-120-L-SV-BE_1_1X20P_SMD_SOCKET_20P SOCKET!!!F58!!!!!!!!!!
+S!PICO_KEY2!J2!10!@control_circuit.control_pcb(sch_1):ins138216@control_circuit.\ssm-120-l-sv-be_1.normal\(chips)!SSM-120-L-SV-BE_1_1X20P_SMD_SOCKET_20P SOCKET!!!F58!!!!!!!!!!
+S!UART_TX!J2!11!@control_circuit.control_pcb(sch_1):ins138216@control_circuit.\ssm-120-l-sv-be_1.normal\(chips)!SSM-120-L-SV-BE_1_1X20P_SMD_SOCKET_20P SOCKET!!!F58!!!!!!!!!!
+S!UART_RX!J2!12!@control_circuit.control_pcb(sch_1):ins138216@control_circuit.\ssm-120-l-sv-be_1.normal\(chips)!SSM-120-L-SV-BE_1_1X20P_SMD_SOCKET_20P SOCKET!!!F58!!!!!!!!!!
+S!GND!J2!13!@control_circuit.control_pcb(sch_1):ins138216@control_circuit.\ssm-120-l-sv-be_1.normal\(chips)!SSM-120-L-SV-BE_1_1X20P_SMD_SOCKET_20P SOCKET!!!F58!!!!!!!!!!
+S!!J2!14!@control_circuit.control_pcb(sch_1):ins138216@control_circuit.\ssm-120-l-sv-be_1.normal\(chips)!SSM-120-L-SV-BE_1_1X20P_SMD_SOCKET_20P SOCKET!!!F58!!!!!!!!!!
+S!!J2!15!@control_circuit.control_pcb(sch_1):ins138216@control_circuit.\ssm-120-l-sv-be_1.normal\(chips)!SSM-120-L-SV-BE_1_1X20P_SMD_SOCKET_20P SOCKET!!!F58!!!!!!!!!!
+S!!J2!16!@control_circuit.control_pcb(sch_1):ins138216@control_circuit.\ssm-120-l-sv-be_1.normal\(chips)!SSM-120-L-SV-BE_1_1X20P_SMD_SOCKET_20P SOCKET!!!F58!!!!!!!!!!
+S!!J2!17!@control_circuit.control_pcb(sch_1):ins138216@control_circuit.\ssm-120-l-sv-be_1.normal\(chips)!SSM-120-L-SV-BE_1_1X20P_SMD_SOCKET_20P SOCKET!!!F58!!!!!!!!!!
+S!GND!J2!18!@control_circuit.control_pcb(sch_1):ins138216@control_circuit.\ssm-120-l-sv-be_1.normal\(chips)!SSM-120-L-SV-BE_1_1X20P_SMD_SOCKET_20P SOCKET!!!F58!!!!!!!!!!
+S!I2C_SDA!J2!19!@control_circuit.control_pcb(sch_1):ins138216@control_circuit.\ssm-120-l-sv-be_1.normal\(chips)!SSM-120-L-SV-BE_1_1X20P_SMD_SOCKET_20P SOCKET!!!F58!!!!!!!!!!
+S!I2C_SCL!J2!20!@control_circuit.control_pcb(sch_1):ins138216@control_circuit.\ssm-120-l-sv-be_1.normal\(chips)!SSM-120-L-SV-BE_1_1X20P_SMD_SOCKET_20P SOCKET!!!F58!!!!!!!!!!
+S!!J3!20!@control_circuit.control_pcb(sch_1):ins138268@control_circuit.\ssm-120-l-sv-be_2.normal\(chips)!SSM-120-L-SV-BE_2_1X20P_SMD_SOCKET_20P SOCKET!!!F57!!!!!!!!!!
+S!!J3!19!@control_circuit.control_pcb(sch_1):ins138268@control_circuit.\ssm-120-l-sv-be_2.normal\(chips)!SSM-120-L-SV-BE_2_1X20P_SMD_SOCKET_20P SOCKET!!!F57!!!!!!!!!!
+S!GND!J3!18!@control_circuit.control_pcb(sch_1):ins138268@control_circuit.\ssm-120-l-sv-be_2.normal\(chips)!SSM-120-L-SV-BE_2_1X20P_SMD_SOCKET_20P SOCKET!!!F57!!!!!!!!!!
+S!!J3!17!@control_circuit.control_pcb(sch_1):ins138268@control_circuit.\ssm-120-l-sv-be_2.normal\(chips)!SSM-120-L-SV-BE_2_1X20P_SMD_SOCKET_20P SOCKET!!!F57!!!!!!!!!!
+S!!J3!16!@control_circuit.control_pcb(sch_1):ins138268@control_circuit.\ssm-120-l-sv-be_2.normal\(chips)!SSM-120-L-SV-BE_2_1X20P_SMD_SOCKET_20P SOCKET!!!F57!!!!!!!!!!
+S!!J3!15!@control_circuit.control_pcb(sch_1):ins138268@control_circuit.\ssm-120-l-sv-be_2.normal\(chips)!SSM-120-L-SV-BE_2_1X20P_SMD_SOCKET_20P SOCKET!!!F57!!!!!!!!!!
+S!!J3!14!@control_circuit.control_pcb(sch_1):ins138268@control_circuit.\ssm-120-l-sv-be_2.normal\(chips)!SSM-120-L-SV-BE_2_1X20P_SMD_SOCKET_20P SOCKET!!!F57!!!!!!!!!!
+S!GND!J3!13!@control_circuit.control_pcb(sch_1):ins138268@control_circuit.\ssm-120-l-sv-be_2.normal\(chips)!SSM-120-L-SV-BE_2_1X20P_SMD_SOCKET_20P SOCKET!!!F57!!!!!!!!!!
+S!!J3!12!@control_circuit.control_pcb(sch_1):ins138268@control_circuit.\ssm-120-l-sv-be_2.normal\(chips)!SSM-120-L-SV-BE_2_1X20P_SMD_SOCKET_20P SOCKET!!!F57!!!!!!!!!!
+S!!J3!11!@control_circuit.control_pcb(sch_1):ins138268@control_circuit.\ssm-120-l-sv-be_2.normal\(chips)!SSM-120-L-SV-BE_2_1X20P_SMD_SOCKET_20P SOCKET!!!F57!!!!!!!!!!
+S!!J3!10!@control_circuit.control_pcb(sch_1):ins138268@control_circuit.\ssm-120-l-sv-be_2.normal\(chips)!SSM-120-L-SV-BE_2_1X20P_SMD_SOCKET_20P SOCKET!!!F57!!!!!!!!!!
+S!!J3!09!@control_circuit.control_pcb(sch_1):ins138268@control_circuit.\ssm-120-l-sv-be_2.normal\(chips)!SSM-120-L-SV-BE_2_1X20P_SMD_SOCKET_20P SOCKET!!!F57!!!!!!!!!!
+S!GND!J3!08!@control_circuit.control_pcb(sch_1):ins138268@control_circuit.\ssm-120-l-sv-be_2.normal\(chips)!SSM-120-L-SV-BE_2_1X20P_SMD_SOCKET_20P SOCKET!!!F57!!!!!!!!!!
+S!N16937!J3!07!@control_circuit.control_pcb(sch_1):ins138268@control_circuit.\ssm-120-l-sv-be_2.normal\(chips)!SSM-120-L-SV-BE_2_1X20P_SMD_SOCKET_20P SOCKET!!!F57!!!!!!!!!!
+S!PICO_ADC_VREF!J3!06!@control_circuit.control_pcb(sch_1):ins138268@control_circuit.\ssm-120-l-sv-be_2.normal\(chips)!SSM-120-L-SV-BE_2_1X20P_SMD_SOCKET_20P SOCKET!!!F57!!!!!!!!!!
+S!PICO_3V3!J3!05!@control_circuit.control_pcb(sch_1):ins138268@control_circuit.\ssm-120-l-sv-be_2.normal\(chips)!SSM-120-L-SV-BE_2_1X20P_SMD_SOCKET_20P SOCKET!!!F57!!!!!!!!!!
+S!!J3!04!@control_circuit.control_pcb(sch_1):ins138268@control_circuit.\ssm-120-l-sv-be_2.normal\(chips)!SSM-120-L-SV-BE_2_1X20P_SMD_SOCKET_20P SOCKET!!!F57!!!!!!!!!!
+S!GND!J3!03!@control_circuit.control_pcb(sch_1):ins138268@control_circuit.\ssm-120-l-sv-be_2.normal\(chips)!SSM-120-L-SV-BE_2_1X20P_SMD_SOCKET_20P SOCKET!!!F57!!!!!!!!!!
+S!VDD!J3!02!@control_circuit.control_pcb(sch_1):ins138268@control_circuit.\ssm-120-l-sv-be_2.normal\(chips)!SSM-120-L-SV-BE_2_1X20P_SMD_SOCKET_20P SOCKET!!!F57!!!!!!!!!!
+S!!J3!01!@control_circuit.control_pcb(sch_1):ins138268@control_circuit.\ssm-120-l-sv-be_2.normal\(chips)!SSM-120-L-SV-BE_2_1X20P_SMD_SOCKET_20P SOCKET!!!F57!!!!!!!!!!
+S!INA226_IN+!D1!1!@control_circuit.control_pcb(sch_1):ins248581@discrete.\diode tvs bi-dir.normal\(chips)!DIODE TVS BI-DIR_1206_SMF5.0CA!!!F69!!!!!!!!!!
+S!USB_VIN!D1!2!@control_circuit.control_pcb(sch_1):ins248581@discrete.\diode tvs bi-dir.normal\(chips)!DIODE TVS BI-DIR_1206_SMF5.0CA!!!F69!!!!!!!!!!
+S!INA226_IN+!D2!A!@control_circuit.control_pcb(sch_1):ins256774@control_circuit.\bzx84c5v6/sot_0.normal\(chips)!BZX84C5V6/SOT_0_SOD-323_BZT52B5V6S!!!F67!!!!!!!!!!
+S!N156569!D2!C!@control_circuit.control_pcb(sch_1):ins256774@control_circuit.\bzx84c5v6/sot_0.normal\(chips)!BZX84C5V6/SOT_0_SOD-323_BZT52B5V6S!!!F67!!!!!!!!!!
+S!GND!D9!1!@control_circuit.control_pcb(sch_1):ins249311@discrete.\diode tvs bi-dir.normal\(chips)!DIODE TVS BI-DIR_0805_H5VLD3B!!!F60!!!!!!!!!!
+S!VDD!D9!2!@control_circuit.control_pcb(sch_1):ins249311@discrete.\diode tvs bi-dir.normal\(chips)!DIODE TVS BI-DIR_0805_H5VLD3B!!!F60!!!!!!!!!!
+S!SW_SIG!Q7!1!@control_circuit.control_pcb(sch_1):ins235521@control_circuit.\2n1069_0.normal\(chips)!2N1069_0_SOT23-3_SS8050!!!F45!!!!!!!!!!
+S!N11718!Q7!2!@control_circuit.control_pcb(sch_1):ins235521@control_circuit.\2n1069_0.normal\(chips)!2N1069_0_SOT23-3_SS8050!!!F45!!!!!!!!!!
+S!VBAT!Q7!3!@control_circuit.control_pcb(sch_1):ins235521@control_circuit.\2n1069_0.normal\(chips)!2N1069_0_SOT23-3_SS8050!!!F45!!!!!!!!!!
+S!N11568!Q8!1!@control_circuit.control_pcb(sch_1):ins235622@control_circuit.\2n1069_0.normal\(chips)!2N1069_0_SOT23-3_SS8050!!!F44!!!!!!!!!!
+S!GND!Q8!2!@control_circuit.control_pcb(sch_1):ins235622@control_circuit.\2n1069_0.normal\(chips)!2N1069_0_SOT23-3_SS8050!!!F44!!!!!!!!!!
+S!PW_KEY_SIM!Q8!3!@control_circuit.control_pcb(sch_1):ins235622@control_circuit.\2n1069_0.normal\(chips)!2N1069_0_SOT23-3_SS8050!!!F44!!!!!!!!!!
+S!SW_SIG!Q9!1!@control_circuit.control_pcb(sch_1):ins219277@control_circuit.\2n1069_0.normal\(chips)!2N1069_0_SOT23-3_SS8050!!!F43!!!!!!!!!!
+S!GND!Q9!2!@control_circuit.control_pcb(sch_1):ins219277@control_circuit.\2n1069_0.normal\(chips)!2N1069_0_SOT23-3_SS8050!!!F43!!!!!!!!!!
+S!N219565!Q9!3!@control_circuit.control_pcb(sch_1):ins219277@control_circuit.\2n1069_0.normal\(chips)!2N1069_0_SOT23-3_SS8050!!!F43!!!!!!!!!!
+S!USB_VIN!C1!1!@control_circuit.control_pcb(sch_1):ins107371@discrete.\cap np.normal\(chips)!CAP NP_0603_1N!!!F88!!!!!!!!!!
+S!N01601!C1!2!@control_circuit.control_pcb(sch_1):ins107371@discrete.\cap np.normal\(chips)!CAP NP_0603_1N!!!F88!!!!!!!!!!
+S!VOUT!C5!1!@control_circuit.control_pcb(sch_1):ins207208@discrete.\cap.normal\(chips)!CAP_CAPPM7343X310N_16V 100U!!!F70!!!!!!!!!!
+S!GND!C5!2!@control_circuit.control_pcb(sch_1):ins207208@discrete.\cap.normal\(chips)!CAP_CAPPM7343X310N_16V 100U!!!F70!!!!!!!!!!
+S!N11718!R19!1!@control_circuit.control_pcb(sch_1):ins218385@discrete.\resistor.normal\(chips)!RESISTOR_0603_1M!!!F20!!!!!!!!!!
+S!N11568!R19!2!@control_circuit.control_pcb(sch_1):ins218385@discrete.\resistor.normal\(chips)!RESISTOR_0603_1M!!!F20!!!!!!!!!!
+S!N224890!R15!1!@control_circuit.control_pcb(sch_1):ins218462@discrete.\resistor.normal\(chips)!RESISTOR_0603_100R!!!F24!!!!!!!!!!
+S!N43496!R15!2!@control_circuit.control_pcb(sch_1):ins218462@discrete.\resistor.normal\(chips)!RESISTOR_0603_100R!!!F24!!!!!!!!!!
+S!N43589!RT1!1!@control_circuit.control_pcb(sch_1):ins218615@discrete.\ntc.normal\(chips)!NTC_0603_100K_NTC/NS!!!F8!!!!!!!!!!
+S!GND!RT1!2!@control_circuit.control_pcb(sch_1):ins218615@discrete.\ntc.normal\(chips)!NTC_0603_100K_NTC/NS!!!F8!!!!!!!!!!
+S!GND!U1!7!@control_circuit.control_pcb(sch_1):ins108583@ip5310.\ip5310.normal\(chips)!IP5310_QFN50P500X500X100-33N_IP5310!!!F3!!!!!!!!!!
+S!VBAT!U1!9!@control_circuit.control_pcb(sch_1):ins108583@ip5310.\ip5310.normal\(chips)!IP5310_QFN50P500X500X100-33N_IP5310!!!F3!!!!!!!!!!
+S!CC1!U1!12!@control_circuit.control_pcb(sch_1):ins108583@ip5310.\ip5310.normal\(chips)!IP5310_QFN50P500X500X100-33N_IP5310!!!F3!!!!!!!!!!
+S!CC2!U1!13!@control_circuit.control_pcb(sch_1):ins108583@ip5310.\ip5310.normal\(chips)!IP5310_QFN50P500X500X100-33N_IP5310!!!F3!!!!!!!!!!
+S!!U1!27!@control_circuit.control_pcb(sch_1):ins108583@ip5310.\ip5310.normal\(chips)!IP5310_QFN50P500X500X100-33N_IP5310!!!F3!!!!!!!!!!
+S!!U1!29!@control_circuit.control_pcb(sch_1):ins108583@ip5310.\ip5310.normal\(chips)!IP5310_QFN50P500X500X100-33N_IP5310!!!F3!!!!!!!!!!
+S!DMC!U1!25!@control_circuit.control_pcb(sch_1):ins108583@ip5310.\ip5310.normal\(chips)!IP5310_QFN50P500X500X100-33N_IP5310!!!F3!!!!!!!!!!
+S!DPA!U1!28!@control_circuit.control_pcb(sch_1):ins108583@ip5310.\ip5310.normal\(chips)!IP5310_QFN50P500X500X100-33N_IP5310!!!F3!!!!!!!!!!
+S!!U1!30!@control_circuit.control_pcb(sch_1):ins108583@ip5310.\ip5310.normal\(chips)!IP5310_QFN50P500X500X100-33N_IP5310!!!F3!!!!!!!!!!
+S!DPC!U1!26!@control_circuit.control_pcb(sch_1):ins108583@ip5310.\ip5310.normal\(chips)!IP5310_QFN50P500X500X100-33N_IP5310!!!F3!!!!!!!!!!
+S!GND!U1!33!@control_circuit.control_pcb(sch_1):ins108583@ip5310.\ip5310.normal\(chips)!IP5310_QFN50P500X500X100-33N_IP5310!!!F3!!!!!!!!!!
+S!PW_KEY!U1!8!@control_circuit.control_pcb(sch_1):ins108583@ip5310.\ip5310.normal\(chips)!IP5310_QFN50P500X500X100-33N_IP5310!!!F3!!!!!!!!!!
+S!N03695!U1!32!@control_circuit.control_pcb(sch_1):ins108583@ip5310.\ip5310.normal\(chips)!IP5310_QFN50P500X500X100-33N_IP5310!!!F3!!!!!!!!!!
+S!N03706!U1!1!@control_circuit.control_pcb(sch_1):ins108583@ip5310.\ip5310.normal\(chips)!IP5310_QFN50P500X500X100-33N_IP5310!!!F3!!!!!!!!!!
+S!N43496!U1!2!@control_circuit.control_pcb(sch_1):ins108583@ip5310.\ip5310.normal\(chips)!IP5310_QFN50P500X500X100-33N_IP5310!!!F3!!!!!!!!!!
+S!GND!U1!31!@control_circuit.control_pcb(sch_1):ins108583@ip5310.\ip5310.normal\(chips)!IP5310_QFN50P500X500X100-33N_IP5310!!!F3!!!!!!!!!!
+S!N00519!U1!14!@control_circuit.control_pcb(sch_1):ins108583@ip5310.\ip5310.normal\(chips)!IP5310_QFN50P500X500X100-33N_IP5310!!!F3!!!!!!!!!!
+S!N00519!U1!15!@control_circuit.control_pcb(sch_1):ins108583@ip5310.\ip5310.normal\(chips)!IP5310_QFN50P500X500X100-33N_IP5310!!!F3!!!!!!!!!!
+S!N00519!U1!16!@control_circuit.control_pcb(sch_1):ins108583@ip5310.\ip5310.normal\(chips)!IP5310_QFN50P500X500X100-33N_IP5310!!!F3!!!!!!!!!!
+S!N00519!U1!17!@control_circuit.control_pcb(sch_1):ins108583@ip5310.\ip5310.normal\(chips)!IP5310_QFN50P500X500X100-33N_IP5310!!!F3!!!!!!!!!!
+S!N00519!U1!18!@control_circuit.control_pcb(sch_1):ins108583@ip5310.\ip5310.normal\(chips)!IP5310_QFN50P500X500X100-33N_IP5310!!!F3!!!!!!!!!!
+S!N43589!U1!6!@control_circuit.control_pcb(sch_1):ins108583@ip5310.\ip5310.normal\(chips)!IP5310_QFN50P500X500X100-33N_IP5310!!!F3!!!!!!!!!!
+S!N17479!U1!5!@control_circuit.control_pcb(sch_1):ins108583@ip5310.\ip5310.normal\(chips)!IP5310_QFN50P500X500X100-33N_IP5310!!!F3!!!!!!!!!!
+S!VBUS!U1!10!@control_circuit.control_pcb(sch_1):ins108583@ip5310.\ip5310.normal\(chips)!IP5310_QFN50P500X500X100-33N_IP5310!!!F3!!!!!!!!!!
+S!VBUSG!U1!11!@control_circuit.control_pcb(sch_1):ins108583@ip5310.\ip5310.normal\(chips)!IP5310_QFN50P500X500X100-33N_IP5310!!!F3!!!!!!!!!!
+S!VIN!U1!23!@control_circuit.control_pcb(sch_1):ins108583@ip5310.\ip5310.normal\(chips)!IP5310_QFN50P500X500X100-33N_IP5310!!!F3!!!!!!!!!!
+S!VIN!U1!24!@control_circuit.control_pcb(sch_1):ins108583@ip5310.\ip5310.normal\(chips)!IP5310_QFN50P500X500X100-33N_IP5310!!!F3!!!!!!!!!!
+S!VOUT!U1!19!@control_circuit.control_pcb(sch_1):ins108583@ip5310.\ip5310.normal\(chips)!IP5310_QFN50P500X500X100-33N_IP5310!!!F3!!!!!!!!!!
+S!VOUT!U1!20!@control_circuit.control_pcb(sch_1):ins108583@ip5310.\ip5310.normal\(chips)!IP5310_QFN50P500X500X100-33N_IP5310!!!F3!!!!!!!!!!
+S!VOUT!U1!21!@control_circuit.control_pcb(sch_1):ins108583@ip5310.\ip5310.normal\(chips)!IP5310_QFN50P500X500X100-33N_IP5310!!!F3!!!!!!!!!!
+S!VOUT!U1!22!@control_circuit.control_pcb(sch_1):ins108583@ip5310.\ip5310.normal\(chips)!IP5310_QFN50P500X500X100-33N_IP5310!!!F3!!!!!!!!!!
+S!N52871!U1!3!@control_circuit.control_pcb(sch_1):ins108583@ip5310.\ip5310.normal\(chips)!IP5310_QFN50P500X500X100-33N_IP5310!!!F3!!!!!!!!!!
+S!N44439!U1!4!@control_circuit.control_pcb(sch_1):ins108583@ip5310.\ip5310.normal\(chips)!IP5310_QFN50P500X500X100-33N_IP5310!!!F3!!!!!!!!!!
+S!I2C_SDA!J4!01!@control_circuit.control_pcb(sch_1):ins147846@control_circuit.\bcs-104-t-d-te_5.normal\(chips)!BCS-104-T-D-TE_5_SAMTEC_BCS-104-T-D-TE_2*4P SOCKET!!!F56!!!!!!!!!!
+S!ARGB_DATA_0!J4!02!@control_circuit.control_pcb(sch_1):ins147846@control_circuit.\bcs-104-t-d-te_5.normal\(chips)!BCS-104-T-D-TE_5_SAMTEC_BCS-104-T-D-TE_2*4P SOCKET!!!F56!!!!!!!!!!
+S!I2C_SCL!J4!03!@control_circuit.control_pcb(sch_1):ins147846@control_circuit.\bcs-104-t-d-te_5.normal\(chips)!BCS-104-T-D-TE_5_SAMTEC_BCS-104-T-D-TE_2*4P SOCKET!!!F56!!!!!!!!!!
+S!ARGB_DATA_1!J4!04!@control_circuit.control_pcb(sch_1):ins147846@control_circuit.\bcs-104-t-d-te_5.normal\(chips)!BCS-104-T-D-TE_5_SAMTEC_BCS-104-T-D-TE_2*4P SOCKET!!!F56!!!!!!!!!!
+S!PICO_3V3!J4!05!@control_circuit.control_pcb(sch_1):ins147846@control_circuit.\bcs-104-t-d-te_5.normal\(chips)!BCS-104-T-D-TE_5_SAMTEC_BCS-104-T-D-TE_2*4P SOCKET!!!F56!!!!!!!!!!
+S!VDD!J4!06!@control_circuit.control_pcb(sch_1):ins147846@control_circuit.\bcs-104-t-d-te_5.normal\(chips)!BCS-104-T-D-TE_5_SAMTEC_BCS-104-T-D-TE_2*4P SOCKET!!!F56!!!!!!!!!!
+S!GND!J4!07!@control_circuit.control_pcb(sch_1):ins147846@control_circuit.\bcs-104-t-d-te_5.normal\(chips)!BCS-104-T-D-TE_5_SAMTEC_BCS-104-T-D-TE_2*4P SOCKET!!!F56!!!!!!!!!!
+S!GND!J4!08!@control_circuit.control_pcb(sch_1):ins147846@control_circuit.\bcs-104-t-d-te_5.normal\(chips)!BCS-104-T-D-TE_5_SAMTEC_BCS-104-T-D-TE_2*4P SOCKET!!!F56!!!!!!!!!!
+S!PICO_3V3!R22!1!@control_circuit.control_pcb(sch_1):ins108335@discrete.\resistor.normal\(chips)!RESISTOR_0603_4.7K!!!F17!!!!!!!!!!
+S!INA226_SCL!R22!2!@control_circuit.control_pcb(sch_1):ins108335@discrete.\resistor.normal\(chips)!RESISTOR_0603_4.7K!!!F17!!!!!!!!!!
+S!PICO_3V3!R23!1!@control_circuit.control_pcb(sch_1):ins108907@discrete.\resistor.normal\(chips)!RESISTOR_0603_4.7K!!!F16!!!!!!!!!!
+S!INA226_SDA!R23!2!@control_circuit.control_pcb(sch_1):ins108907@discrete.\resistor.normal\(chips)!RESISTOR_0603_4.7K!!!F16!!!!!!!!!!
+S!UART_TX!R31!1!@control_circuit.control_pcb(sch_1):ins182373@discrete.\resistor.normal\(chips)!RESISTOR_0603_51R!!!F11!!!!!!!!!!
+S!N183609!R31!2!@control_circuit.control_pcb(sch_1):ins182373@discrete.\resistor.normal\(chips)!RESISTOR_0603_51R!!!F11!!!!!!!!!!
+S!UART_RX!R32!1!@control_circuit.control_pcb(sch_1):ins182399@discrete.\resistor.normal\(chips)!RESISTOR_0603_51R!!!F10!!!!!!!!!!
+S!N183613!R32!2!@control_circuit.control_pcb(sch_1):ins182399@discrete.\resistor.normal\(chips)!RESISTOR_0603_51R!!!F10!!!!!!!!!!
+S!VDD!Q10!3!@control_circuit.control_pcb(sch_1):ins219457@control_circuit.\mosfet p_3.normal\(chips)!MOSFET P_3_SOT23-3_AO3401A!!!F51!!!!!!!!!!
+S!N219565!Q10!1!@control_circuit.control_pcb(sch_1):ins219457@control_circuit.\mosfet p_3.normal\(chips)!MOSFET P_3_SOT23-3_AO3401A!!!F51!!!!!!!!!!
+S!VOUT!Q10!2!@control_circuit.control_pcb(sch_1):ins219457@control_circuit.\mosfet p_3.normal\(chips)!MOSFET P_3_SOT23-3_AO3401A!!!F51!!!!!!!!!!
+S!VBUS!Q4!3!@control_circuit.control_pcb(sch_1):ins222323@control_circuit.\mosfet p_3.normal\(chips)!MOSFET P_3_SOT23-3_AO3401A!!!F48!!!!!!!!!!
+S!N01601!Q4!1!@control_circuit.control_pcb(sch_1):ins222323@control_circuit.\mosfet p_3.normal\(chips)!MOSFET P_3_SOT23-3_AO3401A!!!F48!!!!!!!!!!
+S!USB_VIN!Q4!2!@control_circuit.control_pcb(sch_1):ins222323@control_circuit.\mosfet p_3.normal\(chips)!MOSFET P_3_SOT23-3_AO3401A!!!F48!!!!!!!!!!
+S!VBUS!Q6!3!@control_circuit.control_pcb(sch_1):ins222608@control_circuit.\mosfet p_3.normal\(chips)!MOSFET P_3_SOT23-3_AO3401A!!!F46!!!!!!!!!!
+S!VBUSG!Q6!1!@control_circuit.control_pcb(sch_1):ins222608@control_circuit.\mosfet p_3.normal\(chips)!MOSFET P_3_SOT23-3_AO3401A!!!F46!!!!!!!!!!
+S!VOUT!Q6!2!@control_circuit.control_pcb(sch_1):ins222608@control_circuit.\mosfet p_3.normal\(chips)!MOSFET P_3_SOT23-3_AO3401A!!!F46!!!!!!!!!!
+S!VDD!Q11!3!@control_circuit.control_pcb(sch_1):ins223841@control_circuit.\mosfet p_3.normal\(chips)!MOSFET P_3_SOT23-3_AO3401A!!!F50!!!!!!!!!!
+S!N219565!Q11!1!@control_circuit.control_pcb(sch_1):ins223841@control_circuit.\mosfet p_3.normal\(chips)!MOSFET P_3_SOT23-3_AO3401A!!!F50!!!!!!!!!!
+S!VOUT!Q11!2!@control_circuit.control_pcb(sch_1):ins223841@control_circuit.\mosfet p_3.normal\(chips)!MOSFET P_3_SOT23-3_AO3401A!!!F50!!!!!!!!!!
+S!USB_VIN!Q3!2!@control_circuit.control_pcb(sch_1):ins109063@control_circuit.\mosfet p_3.normal\(chips)!MOSFET P_3_SOT23-3_AO3401A!!!F49!!!!!!!!!!
+S!N01601!Q3!1!@control_circuit.control_pcb(sch_1):ins109063@control_circuit.\mosfet p_3.normal\(chips)!MOSFET P_3_SOT23-3_AO3401A!!!F49!!!!!!!!!!
+S!VBUS!Q3!3!@control_circuit.control_pcb(sch_1):ins109063@control_circuit.\mosfet p_3.normal\(chips)!MOSFET P_3_SOT23-3_AO3401A!!!F49!!!!!!!!!!
+S!VOUT!Q5!2!@control_circuit.control_pcb(sch_1):ins107459@control_circuit.\mosfet p_3.normal\(chips)!MOSFET P_3_SOT23-3_AO3401A!!!F47!!!!!!!!!!
+S!VBUSG!Q5!1!@control_circuit.control_pcb(sch_1):ins107459@control_circuit.\mosfet p_3.normal\(chips)!MOSFET P_3_SOT23-3_AO3401A!!!F47!!!!!!!!!!
+S!VBUS!Q5!3!@control_circuit.control_pcb(sch_1):ins107459@control_circuit.\mosfet p_3.normal\(chips)!MOSFET P_3_SOT23-3_AO3401A!!!F47!!!!!!!!!!
+S!VDD!J5!1!@control_circuit.control_pcb(sch_1):ins177636@control_circuit.\5pin header_0.normal\(chips)!5PIN HEADER_0_5PIN-CONN_5PIN SOCKET!!!F55!!!!!!!!!!
+S!PICO_3V3!J5!2!@control_circuit.control_pcb(sch_1):ins177636@control_circuit.\5pin header_0.normal\(chips)!5PIN HEADER_0_5PIN-CONN_5PIN SOCKET!!!F55!!!!!!!!!!
+S!GND!J5!3!@control_circuit.control_pcb(sch_1):ins177636@control_circuit.\5pin header_0.normal\(chips)!5PIN HEADER_0_5PIN-CONN_5PIN SOCKET!!!F55!!!!!!!!!!
+S!N183609!J5!4!@control_circuit.control_pcb(sch_1):ins177636@control_circuit.\5pin header_0.normal\(chips)!5PIN HEADER_0_5PIN-CONN_5PIN SOCKET!!!F55!!!!!!!!!!
+S!N183613!J5!5!@control_circuit.control_pcb(sch_1):ins177636@control_circuit.\5pin header_0.normal\(chips)!5PIN HEADER_0_5PIN-CONN_5PIN SOCKET!!!F55!!!!!!!!!!
+S!PW_KEY!R12!1!@control_circuit.control_pcb(sch_1):ins108255@discrete.\resistor.normal\(chips)!RESISTOR_0603_0R/NS!!!F29!!!!!!!!!!
+S!PW_KEY_SIM!R12!2!@control_circuit.control_pcb(sch_1):ins108255@discrete.\resistor.normal\(chips)!RESISTOR_0603_0R/NS!!!F29!!!!!!!!!!
+S!N17479!R13!1!@control_circuit.control_pcb(sch_1):ins107303@discrete.\resistor.normal\(chips)!RESISTOR_0603_NS!!!F28!!!!!!!!!!
+S!GND!R13!2!@control_circuit.control_pcb(sch_1):ins107303@discrete.\resistor.normal\(chips)!RESISTOR_0603_NS!!!F28!!!!!!!!!!
+S!N52871!R14!1!@control_circuit.control_pcb(sch_1):ins108127@discrete.\resistor.normal\(chips)!RESISTOR_0603_NS!!!F27!!!!!!!!!!
+S!GND!R14!2!@control_circuit.control_pcb(sch_1):ins108127@discrete.\resistor.normal\(chips)!RESISTOR_0603_NS!!!F27!!!!!!!!!!
+S!PICO_3V3!R33!1!@control_circuit.control_pcb(sch_1):ins107843@discrete.\resistor.normal\(chips)!RESISTOR_0603_NS!!!F26!!!!!!!!!!
+S!I2C_SCL!R33!2!@control_circuit.control_pcb(sch_1):ins107843@discrete.\resistor.normal\(chips)!RESISTOR_0603_NS!!!F26!!!!!!!!!!
+S!PICO_3V3!R34!1!@control_circuit.control_pcb(sch_1):ins107503@discrete.\resistor.normal\(chips)!RESISTOR_0603_NS!!!F25!!!!!!!!!!
+S!I2C_SDA!R34!2!@control_circuit.control_pcb(sch_1):ins107503@discrete.\resistor.normal\(chips)!RESISTOR_0603_NS!!!F25!!!!!!!!!!
+S!N44439!R16!1!@control_circuit.control_pcb(sch_1):ins109335@discrete.\resistor.normal\(chips)!RESISTOR_0603_NS/0R!!!F23!!!!!!!!!!
+S!VBAT!R16!2!@control_circuit.control_pcb(sch_1):ins109335@discrete.\resistor.normal\(chips)!RESISTOR_0603_NS/0R!!!F23!!!!!!!!!!
+S!N44439!R17!1!@control_circuit.control_pcb(sch_1):ins107863@discrete.\resistor.normal\(chips)!RESISTOR_0603_NS/0R!!!F22!!!!!!!!!!
+S!GND!R17!2!@control_circuit.control_pcb(sch_1):ins107863@discrete.\resistor.normal\(chips)!RESISTOR_0603_NS/0R!!!F22!!!!!!!!!!
+S!VBAT!C11!1!@control_circuit.control_pcb(sch_1):ins107627@discrete.\cap np.normal\(chips)!CAP NP_0805_22U!!!F82!!!!!!!!!!
+S!GND!C11!2!@control_circuit.control_pcb(sch_1):ins107627@discrete.\cap np.normal\(chips)!CAP NP_0805_22U!!!F82!!!!!!!!!!
+S!VBAT!C12!1!@control_circuit.control_pcb(sch_1):ins108175@discrete.\cap np.normal\(chips)!CAP NP_0805_22U!!!F81!!!!!!!!!!
+S!GND!C12!2!@control_circuit.control_pcb(sch_1):ins108175@discrete.\cap np.normal\(chips)!CAP NP_0805_22U!!!F81!!!!!!!!!!
+S!VOUT!C6!1!@control_circuit.control_pcb(sch_1):ins129570@discrete.\cap np.normal\(chips)!CAP NP_0805_22U!!!F80!!!!!!!!!!
+S!GND!C6!2!@control_circuit.control_pcb(sch_1):ins129570@discrete.\cap np.normal\(chips)!CAP NP_0805_22U!!!F80!!!!!!!!!!
+S!VOUT!C7!1!@control_circuit.control_pcb(sch_1):ins129544@discrete.\cap np.normal\(chips)!CAP NP_0805_22U!!!F79!!!!!!!!!!
+S!GND!C7!2!@control_circuit.control_pcb(sch_1):ins129544@discrete.\cap np.normal\(chips)!CAP NP_0805_22U!!!F79!!!!!!!!!!
+S!VOUT!C8!1!@control_circuit.control_pcb(sch_1):ins129098@discrete.\cap np.normal\(chips)!CAP NP_0805_22U!!!F78!!!!!!!!!!
+S!GND!C8!2!@control_circuit.control_pcb(sch_1):ins129098@discrete.\cap np.normal\(chips)!CAP NP_0805_22U!!!F78!!!!!!!!!!
+S!VOUT!C9!1!@control_circuit.control_pcb(sch_1):ins108195@discrete.\cap np.normal\(chips)!CAP NP_0805_22U!!!F77!!!!!!!!!!
+S!GND!C9!2!@control_circuit.control_pcb(sch_1):ins108195@discrete.\cap np.normal\(chips)!CAP NP_0805_22U!!!F77!!!!!!!!!!
+S!N16937!C19!1!@control_circuit.control_pcb(sch_1):ins107607@discrete.\cap np.normal\(chips)!CAP NP_0603_10N!!!F73!!!!!!!!!!
+S!GND!C19!2!@control_circuit.control_pcb(sch_1):ins107607@discrete.\cap np.normal\(chips)!CAP NP_0603_10N!!!F73!!!!!!!!!!
+S!GND!C18!1!@control_circuit.control_pcb(sch_1):ins107667@discrete.\cap np.normal\(chips)!CAP NP_0603_10N!!!F74!!!!!!!!!!
+S!PICO_ADC_VREF!C18!2!@control_circuit.control_pcb(sch_1):ins107667@discrete.\cap np.normal\(chips)!CAP NP_0603_10N!!!F74!!!!!!!!!!
+S!GND!C14!1!@control_circuit.control_pcb(sch_1):ins107483@discrete.\cap np.normal\(chips)!CAP NP_0603_0.1U!!!F86!!!!!!!!!!
+S!VOUT!C14!2!@control_circuit.control_pcb(sch_1):ins107483@discrete.\cap np.normal\(chips)!CAP NP_0603_0.1U!!!F86!!!!!!!!!!
+S!GND!C15!1!@control_circuit.control_pcb(sch_1):ins108235@discrete.\cap np.normal\(chips)!CAP NP_0603_0.1U!!!F85!!!!!!!!!!
+S!INA226_IN+!C15!2!@control_circuit.control_pcb(sch_1):ins108235@discrete.\cap np.normal\(chips)!CAP NP_0603_0.1U!!!F85!!!!!!!!!!
+S!GND!C16!1!@control_circuit.control_pcb(sch_1):ins107923@discrete.\cap np.normal\(chips)!CAP NP_0603_0.1U!!!F84!!!!!!!!!!
+S!PICO_KEY1!C16!2!@control_circuit.control_pcb(sch_1):ins107923@discrete.\cap np.normal\(chips)!CAP NP_0603_0.1U!!!F84!!!!!!!!!!
+S!GND!C17!1!@control_circuit.control_pcb(sch_1):ins109087@discrete.\cap np.normal\(chips)!CAP NP_0603_0.1U!!!F83!!!!!!!!!!
+S!PICO_KEY2!C17!2!@control_circuit.control_pcb(sch_1):ins109087@discrete.\cap np.normal\(chips)!CAP NP_0603_0.1U!!!F83!!!!!!!!!!
+S!VOUT!C10!1!@control_circuit.control_pcb(sch_1):ins108947@discrete.\cap np.normal\(chips)!CAP NP_0603_0.1U!!!F87!!!!!!!!!!
+S!GND!C10!2!@control_circuit.control_pcb(sch_1):ins108947@discrete.\cap np.normal\(chips)!CAP NP_0603_0.1U!!!F87!!!!!!!!!!
+S!N11718!C13!1!@control_circuit.control_pcb(sch_1):ins108503@discrete.\cap np.normal\(chips)!CAP NP_0603_1U!!!F76!!!!!!!!!!
+S!N11568!C13!2!@control_circuit.control_pcb(sch_1):ins108503@discrete.\cap np.normal\(chips)!CAP NP_0603_1U!!!F76!!!!!!!!!!
+S!VOUT!C4!1!@control_circuit.control_pcb(sch_1):ins108523@discrete.\cap np.normal\(chips)!CAP NP_0603_1U!!!F75!!!!!!!!!!
+S!VBUSG!C4!2!@control_circuit.control_pcb(sch_1):ins108523@discrete.\cap np.normal\(chips)!CAP NP_0603_1U!!!F75!!!!!!!!!!
+S!N01391!C2!1!@control_circuit.control_pcb(sch_1):ins107707@discrete.\cap np.normal\(chips)!CAP NP_0603_10U!!!F72!!!!!!!!!!
+S!INA226_IN+!C2!2!@control_circuit.control_pcb(sch_1):ins107707@discrete.\cap np.normal\(chips)!CAP NP_0603_10U!!!F72!!!!!!!!!!
+S!VBUS!C3!1!@control_circuit.control_pcb(sch_1):ins107351@discrete.\cap np.normal\(chips)!CAP NP_0603_10U!!!F71!!!!!!!!!!
+S!INA226_IN+!C3!2!@control_circuit.control_pcb(sch_1):ins107351@discrete.\cap np.normal\(chips)!CAP NP_0603_10U!!!F71!!!!!!!!!!
+S!GND!D3!A!@control_circuit.control_pcb(sch_1):ins108059@control_circuit.\diode_3.normal\(chips)!DIODE_3_SMA_SS34!!!F66!!!!!!!!!!
+S!VOUT!D3!C!@control_circuit.control_pcb(sch_1):ins108059@control_circuit.\diode_3.normal\(chips)!DIODE_3_SMA_SS34!!!F66!!!!!!!!!!
+S!GND!D4!A!@control_circuit.control_pcb(sch_1):ins225146@control_circuit.\diode_3.normal\(chips)!DIODE_3_SOD-523_1N4148WT!!!F65!!!!!!!!!!
+S!N11568!D4!C!@control_circuit.control_pcb(sch_1):ins225146@control_circuit.\diode_3.normal\(chips)!DIODE_3_SOD-523_1N4148WT!!!F65!!!!!!!!!!
+S!N03695!D5!2!@control_circuit.control_pcb(sch_1):ins109295@discrete.\led.normal\(chips)!LED_0603_25%!!!F64!!!!!!!!!!
+S!N224890!D5!1!@control_circuit.control_pcb(sch_1):ins109295@discrete.\led.normal\(chips)!LED_0603_25%!!!F64!!!!!!!!!!
+S!N224890!D6!2!@control_circuit.control_pcb(sch_1):ins107543@discrete.\led.normal\(chips)!LED_0603_50%!!!F63!!!!!!!!!!
+S!N03695!D6!1!@control_circuit.control_pcb(sch_1):ins107543@discrete.\led.normal\(chips)!LED_0603_50%!!!F63!!!!!!!!!!
+S!N03706!D7!2!@control_circuit.control_pcb(sch_1):ins107903@discrete.\led.normal\(chips)!LED_0603_75%!!!F62!!!!!!!!!!
+S!N224890!D7!1!@control_circuit.control_pcb(sch_1):ins107903@discrete.\led.normal\(chips)!LED_0603_75%!!!F62!!!!!!!!!!
+S!N224890!D8!2!@control_circuit.control_pcb(sch_1):ins108463@discrete.\led.normal\(chips)!LED_0603_100%!!!F61!!!!!!!!!!
+S!N03706!D8!1!@control_circuit.control_pcb(sch_1):ins108463@discrete.\led.normal\(chips)!LED_0603_100%!!!F61!!!!!!!!!!
+S!CC1!J1!A5!@control_circuit.control_pcb(sch_1):ins109191@control_circuit.\type-c-31-m-12_0.normal\(chips)!TYPE-C-31-M-12_0_HRO_TYPE-C-31-M-12_TYPE-C-31-M-12!!!F59!!!!!!!!!!
+S!CC2!J1!B5!@control_circuit.control_pcb(sch_1):ins109191@control_circuit.\type-c-31-m-12_0.normal\(chips)!TYPE-C-31-M-12_0_HRO_TYPE-C-31-M-12_TYPE-C-31-M-12!!!F59!!!!!!!!!!
+S!DMC!J1!A7!@control_circuit.control_pcb(sch_1):ins109191@control_circuit.\type-c-31-m-12_0.normal\(chips)!TYPE-C-31-M-12_0_HRO_TYPE-C-31-M-12_TYPE-C-31-M-12!!!F59!!!!!!!!!!
+S!DMC!J1!B7!@control_circuit.control_pcb(sch_1):ins109191@control_circuit.\type-c-31-m-12_0.normal\(chips)!TYPE-C-31-M-12_0_HRO_TYPE-C-31-M-12_TYPE-C-31-M-12!!!F59!!!!!!!!!!
+S!DPC!J1!A6!@control_circuit.control_pcb(sch_1):ins109191@control_circuit.\type-c-31-m-12_0.normal\(chips)!TYPE-C-31-M-12_0_HRO_TYPE-C-31-M-12_TYPE-C-31-M-12!!!F59!!!!!!!!!!
+S!DPC!J1!B6!@control_circuit.control_pcb(sch_1):ins109191@control_circuit.\type-c-31-m-12_0.normal\(chips)!TYPE-C-31-M-12_0_HRO_TYPE-C-31-M-12_TYPE-C-31-M-12!!!F59!!!!!!!!!!
+S!INA226_IN+!J1!A1_B12!@control_circuit.control_pcb(sch_1):ins109191@control_circuit.\type-c-31-m-12_0.normal\(chips)!TYPE-C-31-M-12_0_HRO_TYPE-C-31-M-12_TYPE-C-31-M-12!!!F59!!!!!!!!!!
+S!INA226_IN+!J1!B1_A12!@control_circuit.control_pcb(sch_1):ins109191@control_circuit.\type-c-31-m-12_0.normal\(chips)!TYPE-C-31-M-12_0_HRO_TYPE-C-31-M-12_TYPE-C-31-M-12!!!F59!!!!!!!!!!
+S!!J1!A8!@control_circuit.control_pcb(sch_1):ins109191@control_circuit.\type-c-31-m-12_0.normal\(chips)!TYPE-C-31-M-12_0_HRO_TYPE-C-31-M-12_TYPE-C-31-M-12!!!F59!!!!!!!!!!
+S!!J1!B8!@control_circuit.control_pcb(sch_1):ins109191@control_circuit.\type-c-31-m-12_0.normal\(chips)!TYPE-C-31-M-12_0_HRO_TYPE-C-31-M-12_TYPE-C-31-M-12!!!F59!!!!!!!!!!
+S!INA226_IN+!J1!S1!@control_circuit.control_pcb(sch_1):ins109191@control_circuit.\type-c-31-m-12_0.normal\(chips)!TYPE-C-31-M-12_0_HRO_TYPE-C-31-M-12_TYPE-C-31-M-12!!!F59!!!!!!!!!!
+S!INA226_IN+!J1!S2!@control_circuit.control_pcb(sch_1):ins109191@control_circuit.\type-c-31-m-12_0.normal\(chips)!TYPE-C-31-M-12_0_HRO_TYPE-C-31-M-12_TYPE-C-31-M-12!!!F59!!!!!!!!!!
+S!INA226_IN+!J1!S3!@control_circuit.control_pcb(sch_1):ins109191@control_circuit.\type-c-31-m-12_0.normal\(chips)!TYPE-C-31-M-12_0_HRO_TYPE-C-31-M-12_TYPE-C-31-M-12!!!F59!!!!!!!!!!
+S!INA226_IN+!J1!S4!@control_circuit.control_pcb(sch_1):ins109191@control_circuit.\type-c-31-m-12_0.normal\(chips)!TYPE-C-31-M-12_0_HRO_TYPE-C-31-M-12_TYPE-C-31-M-12!!!F59!!!!!!!!!!
+S!USB_VIN!J1!A4_B9!@control_circuit.control_pcb(sch_1):ins109191@control_circuit.\type-c-31-m-12_0.normal\(chips)!TYPE-C-31-M-12_0_HRO_TYPE-C-31-M-12_TYPE-C-31-M-12!!!F59!!!!!!!!!!
+S!USB_VIN!J1!B4_A9!@control_circuit.control_pcb(sch_1):ins109191@control_circuit.\type-c-31-m-12_0.normal\(chips)!TYPE-C-31-M-12_0_HRO_TYPE-C-31-M-12_TYPE-C-31-M-12!!!F59!!!!!!!!!!
+S!N00519!L1!1!@control_circuit.control_pcb(sch_1):ins107523@discrete.\inductor.normal\(chips)!INDUCTOR_INDM7066X300N_FXL0630-1R0-M!!!F54!!!!!!!!!!
+S!VBAT!L1!2!@control_circuit.control_pcb(sch_1):ins107523@discrete.\inductor.normal\(chips)!INDUCTOR_INDM7066X300N_FXL0630-1R0-M!!!F54!!!!!!!!!!
+S!N71300!Q1!1!@control_circuit.control_pcb(sch_1):ins107991@control_circuit.\2n6987_7.normal\(chips)!2N6987_7_SOT23-3_SS8550!!!F53!!!!!!!!!!
+S!N01601!Q1!3!@control_circuit.control_pcb(sch_1):ins107991@control_circuit.\2n6987_7.normal\(chips)!2N6987_7_SOT23-3_SS8550!!!F53!!!!!!!!!!
+S!USB_VIN!Q1!2!@control_circuit.control_pcb(sch_1):ins107991@control_circuit.\2n6987_7.normal\(chips)!2N6987_7_SOT23-3_SS8550!!!F53!!!!!!!!!!
+S!OCP_ALERT!Q2!1!@control_circuit.control_pcb(sch_1):ins109147@control_circuit.\2n6987_7.normal\(chips)!2N6987_7_SOT23-3_SS8550!!!F52!!!!!!!!!!
+S!N01601!Q2!3!@control_circuit.control_pcb(sch_1):ins109147@control_circuit.\2n6987_7.normal\(chips)!2N6987_7_SOT23-3_SS8550!!!F52!!!!!!!!!!
+S!USB_VIN!Q2!2!@control_circuit.control_pcb(sch_1):ins109147@control_circuit.\2n6987_7.normal\(chips)!2N6987_7_SOT23-3_SS8550!!!F52!!!!!!!!!!
+S!VOUT!R21!1!@control_circuit.control_pcb(sch_1):ins219485@discrete.\resistor.normal\(chips)!RESISTOR_0603_10K!!!F39!!!!!!!!!!
+S!N219565!R21!2!@control_circuit.control_pcb(sch_1):ins219485@discrete.\resistor.normal\(chips)!RESISTOR_0603_10K!!!F39!!!!!!!!!!
+S!GND!R1!1!@control_circuit.control_pcb(sch_1):ins109127@discrete.\resistor.normal\(chips)!RESISTOR_0603_10K!!!F42!!!!!!!!!!
+S!N42568!R1!2!@control_circuit.control_pcb(sch_1):ins109127@discrete.\resistor.normal\(chips)!RESISTOR_0603_10K!!!F42!!!!!!!!!!
+S!VOUT!R10!1!@control_circuit.control_pcb(sch_1):ins108107@discrete.\resistor.normal\(chips)!RESISTOR_0603_10K!!!F41!!!!!!!!!!
+S!VBUSG!R10!2!@control_circuit.control_pcb(sch_1):ins108107@discrete.\resistor.normal\(chips)!RESISTOR_0603_10K!!!F41!!!!!!!!!!
+S!VBAT!R2!1!@control_circuit.control_pcb(sch_1):ins107647@discrete.\resistor.normal\(chips)!RESISTOR_0603_10K!!!F40!!!!!!!!!!
+S!N42566!R2!2!@control_circuit.control_pcb(sch_1):ins107647@discrete.\resistor.normal\(chips)!RESISTOR_0603_10K!!!F40!!!!!!!!!!
+S!PICO_KEY1!R24!1!@control_circuit.control_pcb(sch_1):ins107687@discrete.\resistor.normal\(chips)!RESISTOR_0603_10K!!!F38!!!!!!!!!!
+S!GND!R24!2!@control_circuit.control_pcb(sch_1):ins107687@discrete.\resistor.normal\(chips)!RESISTOR_0603_10K!!!F38!!!!!!!!!!
+S!PICO_KEY2!R25!1!@control_circuit.control_pcb(sch_1):ins108355@discrete.\resistor.normal\(chips)!RESISTOR_0603_10K!!!F37!!!!!!!!!!
+S!GND!R25!2!@control_circuit.control_pcb(sch_1):ins108355@discrete.\resistor.normal\(chips)!RESISTOR_0603_10K!!!F37!!!!!!!!!!
+S!N15301!R28!1!@control_circuit.control_pcb(sch_1):ins107411@discrete.\resistor.normal\(chips)!RESISTOR_0603_10K!!!F36!!!!!!!!!!
+S!GND!R28!2!@control_circuit.control_pcb(sch_1):ins107411@discrete.\resistor.normal\(chips)!RESISTOR_0603_10K!!!F36!!!!!!!!!!
+S!N16937!R29!1!@control_circuit.control_pcb(sch_1):ins109019@discrete.\resistor.normal\(chips)!RESISTOR_0603_10K!!!F35!!!!!!!!!!
+S!VBAT!R29!2!@control_circuit.control_pcb(sch_1):ins109019@discrete.\resistor.normal\(chips)!RESISTOR_0603_10K!!!F35!!!!!!!!!!
+S!N156569!R5!1!@control_circuit.control_pcb(sch_1):ins108483@discrete.\resistor.normal\(chips)!RESISTOR_0603_10K!!!F34!!!!!!!!!!
+S!N71300!R5!2!@control_circuit.control_pcb(sch_1):ins108483@discrete.\resistor.normal\(chips)!RESISTOR_0603_10K!!!F34!!!!!!!!!!
+S!USB_VIN!R6!1!@control_circuit.control_pcb(sch_1):ins109171@discrete.\resistor.normal\(chips)!RESISTOR_0603_10K!!!F33!!!!!!!!!!
+S!OCP_ALERT!R6!2!@control_circuit.control_pcb(sch_1):ins109171@discrete.\resistor.normal\(chips)!RESISTOR_0603_10K!!!F33!!!!!!!!!!
+S!N01601!R8!1!@control_circuit.control_pcb(sch_1):ins109315@discrete.\resistor.normal\(chips)!RESISTOR_0603_10K!!!F32!!!!!!!!!!
+S!INA226_IN+!R8!2!@control_circuit.control_pcb(sch_1):ins109315@discrete.\resistor.normal\(chips)!RESISTOR_0603_10K!!!F32!!!!!!!!!!
+S!PICO_ADC_VREF!R26!1!@control_circuit.control_pcb(sch_1):ins108775@discrete.\resistor.normal\(chips)!RESISTOR_0603_1K!!!F15!!!!!!!!!!
+S!VDD!R26!2!@control_circuit.control_pcb(sch_1):ins108775@discrete.\resistor.normal\(chips)!RESISTOR_0603_1K!!!F15!!!!!!!!!!
+S!USB_VIN!R4!1!@control_circuit.control_pcb(sch_1):ins108315@discrete.\resistor.normal\(chips)!RESISTOR_0603_1K!!!F14!!!!!!!!!!
+S!N156569!R4!2!@control_circuit.control_pcb(sch_1):ins108315@discrete.\resistor.normal\(chips)!RESISTOR_0603_1K!!!F14!!!!!!!!!!
+S!N43589!R18!1!@control_circuit.control_pcb(sch_1):ins108755@discrete.\resistor.normal\(chips)!RESISTOR_0603_82K/51K!!!F21!!!!!!!!!!
+S!GND!R18!2!@control_circuit.control_pcb(sch_1):ins108755@discrete.\resistor.normal\(chips)!RESISTOR_0603_82K/51K!!!F21!!!!!!!!!!
+S!N11568!R20!1!@control_circuit.control_pcb(sch_1):ins108295@discrete.\resistor.normal\(chips)!RESISTOR_0603_100K!!!F19!!!!!!!!!!
+S!GND!R20!2!@control_circuit.control_pcb(sch_1):ins108295@discrete.\resistor.normal\(chips)!RESISTOR_0603_100K!!!F19!!!!!!!!!!
+S!USB_VIN!R7!1!@control_circuit.control_pcb(sch_1):ins108927@discrete.\resistor.normal\(chips)!RESISTOR_0603_100K!!!F18!!!!!!!!!!
+S!N01601!R7!2!@control_circuit.control_pcb(sch_1):ins108927@discrete.\resistor.normal\(chips)!RESISTOR_0603_100K!!!F18!!!!!!!!!!
+S!GND!R11!1!@control_circuit.control_pcb(sch_1):ins107587@discrete.\resistor.normal\(chips)!RESISTOR_0603_2K!!!F31!!!!!!!!!!
+S!VOUT!R11!2!@control_circuit.control_pcb(sch_1):ins107587@discrete.\resistor.normal\(chips)!RESISTOR_0603_2K!!!F31!!!!!!!!!!
+S!PICO_ADC_VREF!R27!1!@control_circuit.control_pcb(sch_1):ins109107@discrete.\resistor.normal\(chips)!RESISTOR_0603_2K!!!F30!!!!!!!!!!
+S!N15301!R27!2!@control_circuit.control_pcb(sch_1):ins109107@discrete.\resistor.normal\(chips)!RESISTOR_0603_2K!!!F30!!!!!!!!!!
+S!N16937!R30!1!@control_circuit.control_pcb(sch_1):ins108443@discrete.\resistor.normal\(chips)!RESISTOR_0603_20K!!!F12!!!!!!!!!!
+S!GND!R30!2!@control_circuit.control_pcb(sch_1):ins108443@discrete.\resistor.normal\(chips)!RESISTOR_0603_20K!!!F12!!!!!!!!!!
+S!INA226_IN+!R3!1!@control_circuit.control_pcb(sch_1):ins107391@discrete.\resistor.normal\(chips)!RESISTOR_1206_0.01R!!!F13!!!!!!!!!!
+S!GND!R3!2!@control_circuit.control_pcb(sch_1):ins107391@discrete.\resistor.normal\(chips)!RESISTOR_1206_0.01R!!!F13!!!!!!!!!!
+S!VBUS!R9!1!@control_circuit.control_pcb(sch_1):ins108543@discrete.\resistor.normal\(chips)!RESISTOR_0603_2R!!!F9!!!!!!!!!!
+S!N01391!R9!2!@control_circuit.control_pcb(sch_1):ins108543@discrete.\resistor.normal\(chips)!RESISTOR_0603_2R!!!F9!!!!!!!!!!
+S!!SW1!SH2!!EG1247_1_SW_EG1247_POWER!!!!!!!!!!!!!
+S!!SW1!SH1!!EG1247_1_SW_EG1247_POWER!!!!!!!!!!!!!
+S!N42568!SW1!1!@control_circuit.control_pcb(sch_1):ins108395@control_circuit.\eg1247_1.normal\(chips)!EG1247_1_SW_EG1247_POWER!!!F7!!!!!!!!!!
+S!SW_SIG!SW1!2!@control_circuit.control_pcb(sch_1):ins108395@control_circuit.\eg1247_1.normal\(chips)!EG1247_1_SW_EG1247_POWER!!!F7!!!!!!!!!!
+S!N42566!SW1!3!@control_circuit.control_pcb(sch_1):ins108395@control_circuit.\eg1247_1.normal\(chips)!EG1247_1_SW_EG1247_POWER!!!F7!!!!!!!!!!
+S!PICO_3V3!SW2!1!@control_circuit.control_pcb(sch_1):ins108727@control_circuit.\ts11-674-73-bk-160-ra-d_0.normal\(chips)!TS11-674-73-BK-160-RA-D_0_SW_TS11-674-73-BK-160-RA-D_BUTTON!!!F6!!!!!!!!!!
+S!N244106!SW2!3!@control_circuit.control_pcb(sch_1):ins108727@control_circuit.\ts11-674-73-bk-160-ra-d_0.normal\(chips)!TS11-674-73-BK-160-RA-D_0_SW_TS11-674-73-BK-160-RA-D_BUTTON!!!F6!!!!!!!!!!
+S!N244106!SW2!4!@control_circuit.control_pcb(sch_1):ins108727@control_circuit.\ts11-674-73-bk-160-ra-d_0.normal\(chips)!TS11-674-73-BK-160-RA-D_0_SW_TS11-674-73-BK-160-RA-D_BUTTON!!!F6!!!!!!!!!!
+S!PICO_KEY1!SW2!2!@control_circuit.control_pcb(sch_1):ins108727@control_circuit.\ts11-674-73-bk-160-ra-d_0.normal\(chips)!TS11-674-73-BK-160-RA-D_0_SW_TS11-674-73-BK-160-RA-D_BUTTON!!!F6!!!!!!!!!!
+S!PICO_3V3!SW3!1!@control_circuit.control_pcb(sch_1):ins108079@control_circuit.\ts11-674-73-bk-160-ra-d_0.normal\(chips)!TS11-674-73-BK-160-RA-D_0_SW_TS11-674-73-BK-160-RA-D_BUTTON!!!F5!!!!!!!!!!
+S!N31837!SW3!3!@control_circuit.control_pcb(sch_1):ins108079@control_circuit.\ts11-674-73-bk-160-ra-d_0.normal\(chips)!TS11-674-73-BK-160-RA-D_0_SW_TS11-674-73-BK-160-RA-D_BUTTON!!!F5!!!!!!!!!!
+S!N31837!SW3!4!@control_circuit.control_pcb(sch_1):ins108079@control_circuit.\ts11-674-73-bk-160-ra-d_0.normal\(chips)!TS11-674-73-BK-160-RA-D_0_SW_TS11-674-73-BK-160-RA-D_BUTTON!!!F5!!!!!!!!!!
+S!PICO_KEY2!SW3!2!@control_circuit.control_pcb(sch_1):ins108079@control_circuit.\ts11-674-73-bk-160-ra-d_0.normal\(chips)!TS11-674-73-BK-160-RA-D_0_SW_TS11-674-73-BK-160-RA-D_BUTTON!!!F5!!!!!!!!!!
+S!GND!SW4!1!@control_circuit.control_pcb(sch_1):ins109267@control_circuit.\ts11-674-73-bk-160-ra-d_0.normal\(chips)!TS11-674-73-BK-160-RA-D_0_SW_TS11-674-73-BK-160-RA-D_BUTTON!!!F4!!!!!!!!!!
+S!N244438!SW4!3!@control_circuit.control_pcb(sch_1):ins109267@control_circuit.\ts11-674-73-bk-160-ra-d_0.normal\(chips)!TS11-674-73-BK-160-RA-D_0_SW_TS11-674-73-BK-160-RA-D_BUTTON!!!F4!!!!!!!!!!
+S!N244438!SW4!4!@control_circuit.control_pcb(sch_1):ins109267@control_circuit.\ts11-674-73-bk-160-ra-d_0.normal\(chips)!TS11-674-73-BK-160-RA-D_0_SW_TS11-674-73-BK-160-RA-D_BUTTON!!!F4!!!!!!!!!!
+S!PW_KEY!SW4!2!@control_circuit.control_pcb(sch_1):ins109267@control_circuit.\ts11-674-73-bk-160-ra-d_0.normal\(chips)!TS11-674-73-BK-160-RA-D_0_SW_TS11-674-73-BK-160-RA-D_BUTTON!!!F4!!!!!!!!!!
+S!VBAT!U2!+1!@control_circuit.control_pcb(sch_1):ins108035@control_circuit.\2cellbatt_0.normal\(chips)!2CELLBATT_0_18650-PC4_2CELLBATT!!!F2!!!!!!!!!!
+S!VBAT!U2!+2!@control_circuit.control_pcb(sch_1):ins108035@control_circuit.\2cellbatt_0.normal\(chips)!2CELLBATT_0_18650-PC4_2CELLBATT!!!F2!!!!!!!!!!
+S!GND!U2!-1!@control_circuit.control_pcb(sch_1):ins108035@control_circuit.\2cellbatt_0.normal\(chips)!2CELLBATT_0_18650-PC4_2CELLBATT!!!F2!!!!!!!!!!
+S!GND!U2!-2!@control_circuit.control_pcb(sch_1):ins108035@control_circuit.\2cellbatt_0.normal\(chips)!2CELLBATT_0_18650-PC4_2CELLBATT!!!F2!!!!!!!!!!
+S!GND!U3!2!@control_circuit.control_pcb(sch_1):ins108967@control_circuit.\ina226aidgsr_1.normal\(chips)!INA226AIDGSR_1_SOP50P490X110-10N_INA226AIDGSR!!!F1!!!!!!!!!!
+S!GND!U3!1!@control_circuit.control_pcb(sch_1):ins108967@control_circuit.\ina226aidgsr_1.normal\(chips)!INA226AIDGSR_1_SOP50P490X110-10N_INA226AIDGSR!!!F1!!!!!!!!!!
+S!OCP_ALERT!U3!3!@control_circuit.control_pcb(sch_1):ins108967@control_circuit.\ina226aidgsr_1.normal\(chips)!INA226AIDGSR_1_SOP50P490X110-10N_INA226AIDGSR!!!F1!!!!!!!!!!
+S!GND!U3!7!@control_circuit.control_pcb(sch_1):ins108967@control_circuit.\ina226aidgsr_1.normal\(chips)!INA226AIDGSR_1_SOP50P490X110-10N_INA226AIDGSR!!!F1!!!!!!!!!!
+S!INA226_IN+!U3!10!@control_circuit.control_pcb(sch_1):ins108967@control_circuit.\ina226aidgsr_1.normal\(chips)!INA226AIDGSR_1_SOP50P490X110-10N_INA226AIDGSR!!!F1!!!!!!!!!!
+S!GND!U3!9!@control_circuit.control_pcb(sch_1):ins108967@control_circuit.\ina226aidgsr_1.normal\(chips)!INA226AIDGSR_1_SOP50P490X110-10N_INA226AIDGSR!!!F1!!!!!!!!!!
+S!INA226_SCL!U3!5!@control_circuit.control_pcb(sch_1):ins108967@control_circuit.\ina226aidgsr_1.normal\(chips)!INA226AIDGSR_1_SOP50P490X110-10N_INA226AIDGSR!!!F1!!!!!!!!!!
+S!INA226_SDA!U3!4!@control_circuit.control_pcb(sch_1):ins108967@control_circuit.\ina226aidgsr_1.normal\(chips)!INA226AIDGSR_1_SOP50P490X110-10N_INA226AIDGSR!!!F1!!!!!!!!!!
+S!USB_VIN!U3!8!@control_circuit.control_pcb(sch_1):ins108967@control_circuit.\ina226aidgsr_1.normal\(chips)!INA226AIDGSR_1_SOP50P490X110-10N_INA226AIDGSR!!!F1!!!!!!!!!!
+S!VOUT!U3!6!@control_circuit.control_pcb(sch_1):ins108967@control_circuit.\ina226aidgsr_1.normal\(chips)!INA226AIDGSR_1_SOP50P490X110-10N_INA226AIDGSR!!!F1!!!!!!!!!!
+S!GND!U4!3!@control_circuit.control_pcb(sch_1):ins107727@control_circuit.\lm431cim3nopb_1.normal\(chips)!LM431CIM3NOPB_1_SOT23-3_CJ431!!!F0!!!!!!!!!!
+S!PICO_ADC_VREF!U4!2!@control_circuit.control_pcb(sch_1):ins107727@control_circuit.\lm431cim3nopb_1.normal\(chips)!LM431CIM3NOPB_1_SOT23-3_CJ431!!!F0!!!!!!!!!!
+S!N15301!U4!1!@control_circuit.control_pcb(sch_1):ins107727@control_circuit.\lm431cim3nopb_1.normal\(chips)!LM431CIM3NOPB_1_SOT23-3_CJ431!!!F0!!!!!!!!!!

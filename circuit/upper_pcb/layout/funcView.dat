@@ -1,0 +1,32 @@
+A!FUNC_LOGICAL_PATH!COMP_DEVICE_TYPE!REFDES!FUNC_PRIM_FILE!COMP_PARENT_PPT!COMP_PARENT_PPT_PART!COMP_PARENT_PART_TYPE!FUNC_SCH_SIZE!FUNC_HAS_FIXED_SIZE!FUNC_DES!FUNC_GROUP!FUNC_ROOM!FUNC_CDS_FSP_UID!FUNC_NO_SWAP_PIN!FUNC_HARD_LOCATION!FUNC_NO_SWAP_GATE_EXT!FUNC_CDS_FSP_MAPPED_CELL!FUNC_CDS_FSP_FPGA_SYMBOL!FUNC_CDS_FSP_TERM_TYPE!FUNC_CDS_FSP_TERM_NAME!FUNC_ROOM!FUNC_GROUP!FUNC_CDS_FSP_TERM_INDEX!FUNC_CDS_FSP_INSTANCE_ID!FUNC_NO_SWAP_GATE!FUNC_NO_XNET_CONNECTION!FUNC_CDS_FSP_IS_FPGA!
+J!C:/USERS/USER/DOCUMENTS/GITHUB/BAGUALU/CIRCUIT/DVT/UPPER_PCB/layout/upper_pcb.brd!Tue Jun  3 19:08:21 2025!-10.0000!-10.0000!100.0000!100.0000!0.0001!millimeters!UPPER_PCB!65.748031 mil!2!OUT OF DATE!
+S!@upper_pcb.upper_pcb(sch_1):ins30@upper_pcb.\samtec-smh-104-02-x-sa_0.normal\(chips)!SAMTEC-SMH-104-02-X-SA_0_SAMTEC-SMH-104-02-X-S_RIGHT ANGLE 4P 2.54MM SOCKET!J2!.\chipsView.dat!!!!!!F28!!!!!!!!!!!!!!!!!!
+S!@upper_pcb.upper_pcb(sch_1):ins10303@upper_pcb.\samtec-smh-104-02-x-sa_2.normal\(chips)!SAMTEC-SMH-104-02-X-SA_2_ARGB_HEADER_90_ARGB SOCKET!J3!.\chipsView.dat!!!!!!F27!!!!!!!!!!!!!!!!!!
+S!@upper_pcb.upper_pcb(sch_1):ins71@upper_pcb.\bcs-104-t-d-te_3.normal\(chips)!BCS-104-T-D-TE_3_SAMTEC_BCS-104-T-D-TE_2*4P 2.54MM 21MM PINS!J1!.\chipsView.dat!!!!!!F29!!!!!!!!!!!!!!!!!!
+S!@upper_pcb.upper_pcb(sch_1):ins6318@upper_pcb.\ws2812b-b_1.normal\(chips)!WS2812B-B_1_LED_WS2812B-B_WS2812B-B!U18!.\chipsView.dat!!!!!!F17!!!!!!!!!!!!!!!!!!
+S!@upper_pcb.upper_pcb(sch_1):ins6352@upper_pcb.\ws2812b-b_1.normal\(chips)!WS2812B-B_1_LED_WS2812B-B_WS2812B-B!U19!.\chipsView.dat!!!!!!F16!!!!!!!!!!!!!!!!!!
+S!@upper_pcb.upper_pcb(sch_1):ins6386@upper_pcb.\ws2812b-b_1.normal\(chips)!WS2812B-B_1_LED_WS2812B-B_WS2812B-B!U20!.\chipsView.dat!!!!!!F14!!!!!!!!!!!!!!!!!!
+S!@upper_pcb.upper_pcb(sch_1):ins6515@upper_pcb.\ws2812b-b_1.normal\(chips)!WS2812B-B_1_LED_WS2812B-B_WS2812B-B!U21!.\chipsView.dat!!!!!!F13!!!!!!!!!!!!!!!!!!
+S!@upper_pcb.upper_pcb(sch_1):ins6535@upper_pcb.\ws2812b-b_1.normal\(chips)!WS2812B-B_1_LED_WS2812B-B_WS2812B-B!U22!.\chipsView.dat!!!!!!F12!!!!!!!!!!!!!!!!!!
+S!@upper_pcb.upper_pcb(sch_1):ins6555@upper_pcb.\ws2812b-b_1.normal\(chips)!WS2812B-B_1_LED_WS2812B-B_WS2812B-B!U23!.\chipsView.dat!!!!!!F11!!!!!!!!!!!!!!!!!!
+S!@upper_pcb.upper_pcb(sch_1):ins6575@upper_pcb.\ws2812b-b_1.normal\(chips)!WS2812B-B_1_LED_WS2812B-B_WS2812B-B!U24!.\chipsView.dat!!!!!!F10!!!!!!!!!!!!!!!!!!
+S!@upper_pcb.upper_pcb(sch_1):ins6595@upper_pcb.\ws2812b-b_1.normal\(chips)!WS2812B-B_1_LED_WS2812B-B_WS2812B-B!U25!.\chipsView.dat!!!!!!F9!!!!!!!!!!!!!!!!!!
+S!@upper_pcb.upper_pcb(sch_1):ins6737@upper_pcb.\ws2812b-b_1.normal\(chips)!WS2812B-B_1_LED_WS2812B-B_WS2812B-B!U26!.\chipsView.dat!!!!!!F8!!!!!!!!!!!!!!!!!!
+S!@upper_pcb.upper_pcb(sch_1):ins6771@upper_pcb.\ws2812b-b_1.normal\(chips)!WS2812B-B_1_LED_WS2812B-B_WS2812B-B!U27!.\chipsView.dat!!!!!!F7!!!!!!!!!!!!!!!!!!
+S!@upper_pcb.upper_pcb(sch_1):ins2573@upper_pcb.\ws2812b-b_1.normal\(chips)!WS2812B-B_1_LED_WS2812B-B_WS2812B-B!U11!.\chipsView.dat!!!!!!F24!!!!!!!!!!!!!!!!!!
+S!@upper_pcb.upper_pcb(sch_1):ins2593@upper_pcb.\ws2812b-b_1.normal\(chips)!WS2812B-B_1_LED_WS2812B-B_WS2812B-B!U12!.\chipsView.dat!!!!!!F23!!!!!!!!!!!!!!!!!!
+S!@upper_pcb.upper_pcb(sch_1):ins2613@upper_pcb.\ws2812b-b_1.normal\(chips)!WS2812B-B_1_LED_WS2812B-B_WS2812B-B!U13!.\chipsView.dat!!!!!!F22!!!!!!!!!!!!!!!!!!
+S!@upper_pcb.upper_pcb(sch_1):ins2633@upper_pcb.\ws2812b-b_1.normal\(chips)!WS2812B-B_1_LED_WS2812B-B_WS2812B-B!U14!.\chipsView.dat!!!!!!F21!!!!!!!!!!!!!!!!!!
+S!@upper_pcb.upper_pcb(sch_1):ins2653@upper_pcb.\ws2812b-b_1.normal\(chips)!WS2812B-B_1_LED_WS2812B-B_WS2812B-B!U15!.\chipsView.dat!!!!!!F20!!!!!!!!!!!!!!!!!!
+S!@upper_pcb.upper_pcb(sch_1):ins3585@upper_pcb.\ws2812b-b_1.normal\(chips)!WS2812B-B_1_LED_WS2812B-B_WS2812B-B!U16!.\chipsView.dat!!!!!!F19!!!!!!!!!!!!!!!!!!
+S!@upper_pcb.upper_pcb(sch_1):ins3605@upper_pcb.\ws2812b-b_1.normal\(chips)!WS2812B-B_1_LED_WS2812B-B_WS2812B-B!U17!.\chipsView.dat!!!!!!F18!!!!!!!!!!!!!!!!!!
+S!@upper_pcb.upper_pcb(sch_1):ins1403@upper_pcb.\ws2812b-b_1.normal\(chips)!WS2812B-B_1_LED_WS2812B-B_WS2812B-B!U10!.\chipsView.dat!!!!!!F25!!!!!!!!!!!!!!!!!!
+S!@upper_pcb.upper_pcb(sch_1):ins574@upper_pcb.\ws2812b-b_1.normal\(chips)!WS2812B-B_1_LED_WS2812B-B_WS2812B-B!U3!.\chipsView.dat!!!!!!F6!!!!!!!!!!!!!!!!!!
+S!@upper_pcb.upper_pcb(sch_1):ins594@upper_pcb.\ws2812b-b_1.normal\(chips)!WS2812B-B_1_LED_WS2812B-B_WS2812B-B!U4!.\chipsView.dat!!!!!!F5!!!!!!!!!!!!!!!!!!
+S!@upper_pcb.upper_pcb(sch_1):ins916@upper_pcb.\ws2812b-b_1.normal\(chips)!WS2812B-B_1_LED_WS2812B-B_WS2812B-B!U5!.\chipsView.dat!!!!!!F4!!!!!!!!!!!!!!!!!!
+S!@upper_pcb.upper_pcb(sch_1):ins1323@upper_pcb.\ws2812b-b_1.normal\(chips)!WS2812B-B_1_LED_WS2812B-B_WS2812B-B!U6!.\chipsView.dat!!!!!!F3!!!!!!!!!!!!!!!!!!
+S!@upper_pcb.upper_pcb(sch_1):ins1343@upper_pcb.\ws2812b-b_1.normal\(chips)!WS2812B-B_1_LED_WS2812B-B_WS2812B-B!U7!.\chipsView.dat!!!!!!F2!!!!!!!!!!!!!!!!!!
+S!@upper_pcb.upper_pcb(sch_1):ins1363@upper_pcb.\ws2812b-b_1.normal\(chips)!WS2812B-B_1_LED_WS2812B-B_WS2812B-B!U8!.\chipsView.dat!!!!!!F1!!!!!!!!!!!!!!!!!!
+S!@upper_pcb.upper_pcb(sch_1):ins1383@upper_pcb.\ws2812b-b_1.normal\(chips)!WS2812B-B_1_LED_WS2812B-B_WS2812B-B!U9!.\chipsView.dat!!!!!!F0!!!!!!!!!!!!!!!!!!
+S!@upper_pcb.upper_pcb(sch_1):ins130@upper_pcb.\ws2812b-b_1.normal\(chips)!WS2812B-B_1_LED_WS2812B-B_WS2812B-B!U1!.\chipsView.dat!!!!!!F26!!!!!!!!!!!!!!!!!!
+S!@upper_pcb.upper_pcb(sch_1):ins208@upper_pcb.\ws2812b-b_1.normal\(chips)!WS2812B-B_1_LED_WS2812B-B_WS2812B-B!U2!.\chipsView.dat!!!!!!F15!!!!!!!!!!!!!!!!!!

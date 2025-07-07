@@ -1,0 +1,92 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : upper_pcb.brd                                 )
+(    Software Version : 17.4S039                                      )
+(    Date/Time        : Tue Jun  3 19:08:36 2025                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'c:\users\user\documents\github\bagualu\circuit\dvt\upper_pcb\layout'
+Design Directory:            'C:/USERS/USER/DOCUMENTS/GITHUB/BAGUALU/CIRCUIT/DVT/UPPER_PCB/layout'
+Old design name:             'C:/USERS/USER/DOCUMENTS/GITHUB/BAGUALU/CIRCUIT/DVT/UPPER_PCB/layout/upper_pcb.brd'
+New design name:             'C:/USERS/USER/DOCUMENTS/GITHUB/BAGUALU/CIRCUIT/DVT/UPPER_PCB/layout/upper_pcb.brd'
+
+CmdLine: netrev -i c:\users\user\documents\github\bagualu\circuit\dvt\upper_pcb\layout -y 1 -q netrev_constraint_report.xml C:/USERS/USER/DOCUMENTS/GITHUB/BAGUALU/CIRCUIT/DVT/UPPER_PCB/layout/#Taaaaaf19096.tmp
+
+------ Preparing to read pst files ------
+
+Starting to read c:/users/user/documents/github/bagualu/circuit/dvt/upper_pcb/layout/pstchip.dat 
+   Finished reading c:/users/user/documents/github/bagualu/circuit/dvt/upper_pcb/layout/pstchip.dat (00:00:00.01)
+Starting to read c:/users/user/documents/github/bagualu/circuit/dvt/upper_pcb/layout/pstxprt.dat 
+   Finished reading c:/users/user/documents/github/bagualu/circuit/dvt/upper_pcb/layout/pstxprt.dat (00:00:00.00)
+Starting to read c:/users/user/documents/github/bagualu/circuit/dvt/upper_pcb/layout/pstxnet.dat 
+   Finished reading c:/users/user/documents/github/bagualu/circuit/dvt/upper_pcb/layout/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           c:/cadence/spb_17.4/share/local/pcb/modules 
+
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           c:/cadence/spb_17.4/share/local/pcb/symbols 
+           c:/cadence/spb_17.4/share/pcb/pcb_lib/symbols 
+           c:/cadence/spb_17.4/share/pcb/allegrolib/symbols 
+           C:/Users/user/Documents/Allegro/symbols 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           c:/cadence/spb_17.4/share/local/pcb/padstacks 
+           c:/cadence/spb_17.4/share/pcb/pcb_lib/symbols 
+           c:/cadence/spb_17.4/share/pcb/allegrolib/symbols 
+           C:/Users/user/Documents/Allegro/symbols 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Jun 3 19:08:36 2025
+   DESIGN NAME : 'UPPER_PCB'
+   PACKAGING ON Nov  3 2023 23:54:18
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:00:24
+elapsed time  0:00:00
+

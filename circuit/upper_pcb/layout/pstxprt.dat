@@ -1,0 +1,310 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.4.0 d001Jun-03-2025 at 19:08:35 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='UPPER_PCB';
+ POST_TIME='Nov  3 2023 23:54:18';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ J1 'BCS-104-T-D-TE_4_SAMTEC_BCS-104-T-D-TE_2*4P 2.54MM 21MM PINS':;
+
+SECTION_NUMBER 1
+ '@UPPER_PCB.UPPER_PCB(SCH_1):INS71@UPPER_PCB.BCS-104-T-D-TE_4.NORMAL(CHIPS)':
+ C_PATH='@upper_pcb.upper_pcb(sch_1):ins71@upper_pcb.\bcs-104-t-d-te_4.normal\(chips)',
+ P_PATH='@upper_pcb.upper_pcb(sch_1):page1_ins71@upper_pcb.\bcs-104-t-d-te_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'SAMTEC-SMH-104-02-X-SA_0_SAMTEC-SMH-104-02-X-S_RIGHT ANGLE 4P 2.54MM SOCKET':;
+
+SECTION_NUMBER 1
+ '@UPPER_PCB.UPPER_PCB(SCH_1):INS30@UPPER_PCB.SAMTEC-SMH-104-02-X-SA_0.NORMAL(CHIPS)':
+ C_PATH='@upper_pcb.upper_pcb(sch_1):ins30@upper_pcb.\samtec-smh-104-02-x-sa_0.normal\(chips)',
+ P_PATH='@upper_pcb.upper_pcb(sch_1):page1_ins30@upper_pcb.\samtec-smh-104-02-x-sa_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 'SAMTEC-SMH-104-02-X-SA_2_ARGB_HEADER_90_ARGB SOCKET':;
+
+SECTION_NUMBER 1
+ '@UPPER_PCB.UPPER_PCB(SCH_1):INS10303@UPPER_PCB.SAMTEC-SMH-104-02-X-SA_2.NORMAL(CHIPS)':
+ C_PATH='@upper_pcb.upper_pcb(sch_1):ins10303@upper_pcb.\samtec-smh-104-02-x-sa_2.normal\(chips)',
+ P_PATH='@upper_pcb.upper_pcb(sch_1):page1_ins10303@upper_pcb.\samtec-smh-104-02-x-sa_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'WS2812B-B_1_LED_WS2812B-B_WS2812B-B':;
+
+SECTION_NUMBER 1
+ '@UPPER_PCB.UPPER_PCB(SCH_1):INS130@UPPER_PCB.WS2812B-B_1.NORMAL(CHIPS)':
+ C_PATH='@upper_pcb.upper_pcb(sch_1):ins130@upper_pcb.\ws2812b-b_1.normal\(chips)',
+ P_PATH='@upper_pcb.upper_pcb(sch_1):page1_ins130@upper_pcb.\ws2812b-b_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U10 'WS2812B-B_1_LED_WS2812B-B_WS2812B-B':;
+
+SECTION_NUMBER 1
+ '@UPPER_PCB.UPPER_PCB(SCH_1):INS1403@UPPER_PCB.WS2812B-B_1.NORMAL(CHIPS)':
+ C_PATH='@upper_pcb.upper_pcb(sch_1):ins1403@upper_pcb.\ws2812b-b_1.normal\(chips)',
+ P_PATH='@upper_pcb.upper_pcb(sch_1):page1_ins1403@upper_pcb.\ws2812b-b_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U11 'WS2812B-B_1_LED_WS2812B-B_WS2812B-B':;
+
+SECTION_NUMBER 1
+ '@UPPER_PCB.UPPER_PCB(SCH_1):INS2573@UPPER_PCB.WS2812B-B_1.NORMAL(CHIPS)':
+ C_PATH='@upper_pcb.upper_pcb(sch_1):ins2573@upper_pcb.\ws2812b-b_1.normal\(chips)',
+ P_PATH='@upper_pcb.upper_pcb(sch_1):page1_ins2573@upper_pcb.\ws2812b-b_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U12 'WS2812B-B_1_LED_WS2812B-B_WS2812B-B':;
+
+SECTION_NUMBER 1
+ '@UPPER_PCB.UPPER_PCB(SCH_1):INS2593@UPPER_PCB.WS2812B-B_1.NORMAL(CHIPS)':
+ C_PATH='@upper_pcb.upper_pcb(sch_1):ins2593@upper_pcb.\ws2812b-b_1.normal\(chips)',
+ P_PATH='@upper_pcb.upper_pcb(sch_1):page1_ins2593@upper_pcb.\ws2812b-b_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U13 'WS2812B-B_1_LED_WS2812B-B_WS2812B-B':;
+
+SECTION_NUMBER 1
+ '@UPPER_PCB.UPPER_PCB(SCH_1):INS2613@UPPER_PCB.WS2812B-B_1.NORMAL(CHIPS)':
+ C_PATH='@upper_pcb.upper_pcb(sch_1):ins2613@upper_pcb.\ws2812b-b_1.normal\(chips)',
+ P_PATH='@upper_pcb.upper_pcb(sch_1):page1_ins2613@upper_pcb.\ws2812b-b_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U14 'WS2812B-B_1_LED_WS2812B-B_WS2812B-B':;
+
+SECTION_NUMBER 1
+ '@UPPER_PCB.UPPER_PCB(SCH_1):INS2633@UPPER_PCB.WS2812B-B_1.NORMAL(CHIPS)':
+ C_PATH='@upper_pcb.upper_pcb(sch_1):ins2633@upper_pcb.\ws2812b-b_1.normal\(chips)',
+ P_PATH='@upper_pcb.upper_pcb(sch_1):page1_ins2633@upper_pcb.\ws2812b-b_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U15 'WS2812B-B_1_LED_WS2812B-B_WS2812B-B':;
+
+SECTION_NUMBER 1
+ '@UPPER_PCB.UPPER_PCB(SCH_1):INS2653@UPPER_PCB.WS2812B-B_1.NORMAL(CHIPS)':
+ C_PATH='@upper_pcb.upper_pcb(sch_1):ins2653@upper_pcb.\ws2812b-b_1.normal\(chips)',
+ P_PATH='@upper_pcb.upper_pcb(sch_1):page1_ins2653@upper_pcb.\ws2812b-b_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U16 'WS2812B-B_1_LED_WS2812B-B_WS2812B-B':;
+
+SECTION_NUMBER 1
+ '@UPPER_PCB.UPPER_PCB(SCH_1):INS3585@UPPER_PCB.WS2812B-B_1.NORMAL(CHIPS)':
+ C_PATH='@upper_pcb.upper_pcb(sch_1):ins3585@upper_pcb.\ws2812b-b_1.normal\(chips)',
+ P_PATH='@upper_pcb.upper_pcb(sch_1):page1_ins3585@upper_pcb.\ws2812b-b_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U17 'WS2812B-B_1_LED_WS2812B-B_WS2812B-B':;
+
+SECTION_NUMBER 1
+ '@UPPER_PCB.UPPER_PCB(SCH_1):INS3605@UPPER_PCB.WS2812B-B_1.NORMAL(CHIPS)':
+ C_PATH='@upper_pcb.upper_pcb(sch_1):ins3605@upper_pcb.\ws2812b-b_1.normal\(chips)',
+ P_PATH='@upper_pcb.upper_pcb(sch_1):page1_ins3605@upper_pcb.\ws2812b-b_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U18 'WS2812B-B_1_LED_WS2812B-B_WS2812B-B':;
+
+SECTION_NUMBER 1
+ '@UPPER_PCB.UPPER_PCB(SCH_1):INS6318@UPPER_PCB.WS2812B-B_1.NORMAL(CHIPS)':
+ C_PATH='@upper_pcb.upper_pcb(sch_1):ins6318@upper_pcb.\ws2812b-b_1.normal\(chips)',
+ P_PATH='@upper_pcb.upper_pcb(sch_1):page1_ins6318@upper_pcb.\ws2812b-b_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U19 'WS2812B-B_1_LED_WS2812B-B_WS2812B-B':;
+
+SECTION_NUMBER 1
+ '@UPPER_PCB.UPPER_PCB(SCH_1):INS6352@UPPER_PCB.WS2812B-B_1.NORMAL(CHIPS)':
+ C_PATH='@upper_pcb.upper_pcb(sch_1):ins6352@upper_pcb.\ws2812b-b_1.normal\(chips)',
+ P_PATH='@upper_pcb.upper_pcb(sch_1):page1_ins6352@upper_pcb.\ws2812b-b_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'WS2812B-B_1_LED_WS2812B-B_WS2812B-B':;
+
+SECTION_NUMBER 1
+ '@UPPER_PCB.UPPER_PCB(SCH_1):INS208@UPPER_PCB.WS2812B-B_1.NORMAL(CHIPS)':
+ C_PATH='@upper_pcb.upper_pcb(sch_1):ins208@upper_pcb.\ws2812b-b_1.normal\(chips)',
+ P_PATH='@upper_pcb.upper_pcb(sch_1):page1_ins208@upper_pcb.\ws2812b-b_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U20 'WS2812B-B_1_LED_WS2812B-B_WS2812B-B':;
+
+SECTION_NUMBER 1
+ '@UPPER_PCB.UPPER_PCB(SCH_1):INS6386@UPPER_PCB.WS2812B-B_1.NORMAL(CHIPS)':
+ C_PATH='@upper_pcb.upper_pcb(sch_1):ins6386@upper_pcb.\ws2812b-b_1.normal\(chips)',
+ P_PATH='@upper_pcb.upper_pcb(sch_1):page1_ins6386@upper_pcb.\ws2812b-b_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U21 'WS2812B-B_1_LED_WS2812B-B_WS2812B-B':;
+
+SECTION_NUMBER 1
+ '@UPPER_PCB.UPPER_PCB(SCH_1):INS6515@UPPER_PCB.WS2812B-B_1.NORMAL(CHIPS)':
+ C_PATH='@upper_pcb.upper_pcb(sch_1):ins6515@upper_pcb.\ws2812b-b_1.normal\(chips)',
+ P_PATH='@upper_pcb.upper_pcb(sch_1):page1_ins6515@upper_pcb.\ws2812b-b_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U22 'WS2812B-B_1_LED_WS2812B-B_WS2812B-B':;
+
+SECTION_NUMBER 1
+ '@UPPER_PCB.UPPER_PCB(SCH_1):INS6535@UPPER_PCB.WS2812B-B_1.NORMAL(CHIPS)':
+ C_PATH='@upper_pcb.upper_pcb(sch_1):ins6535@upper_pcb.\ws2812b-b_1.normal\(chips)',
+ P_PATH='@upper_pcb.upper_pcb(sch_1):page1_ins6535@upper_pcb.\ws2812b-b_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U23 'WS2812B-B_1_LED_WS2812B-B_WS2812B-B':;
+
+SECTION_NUMBER 1
+ '@UPPER_PCB.UPPER_PCB(SCH_1):INS6555@UPPER_PCB.WS2812B-B_1.NORMAL(CHIPS)':
+ C_PATH='@upper_pcb.upper_pcb(sch_1):ins6555@upper_pcb.\ws2812b-b_1.normal\(chips)',
+ P_PATH='@upper_pcb.upper_pcb(sch_1):page1_ins6555@upper_pcb.\ws2812b-b_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U24 'WS2812B-B_1_LED_WS2812B-B_WS2812B-B':;
+
+SECTION_NUMBER 1
+ '@UPPER_PCB.UPPER_PCB(SCH_1):INS6575@UPPER_PCB.WS2812B-B_1.NORMAL(CHIPS)':
+ C_PATH='@upper_pcb.upper_pcb(sch_1):ins6575@upper_pcb.\ws2812b-b_1.normal\(chips)',
+ P_PATH='@upper_pcb.upper_pcb(sch_1):page1_ins6575@upper_pcb.\ws2812b-b_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U25 'WS2812B-B_1_LED_WS2812B-B_WS2812B-B':;
+
+SECTION_NUMBER 1
+ '@UPPER_PCB.UPPER_PCB(SCH_1):INS6595@UPPER_PCB.WS2812B-B_1.NORMAL(CHIPS)':
+ C_PATH='@upper_pcb.upper_pcb(sch_1):ins6595@upper_pcb.\ws2812b-b_1.normal\(chips)',
+ P_PATH='@upper_pcb.upper_pcb(sch_1):page1_ins6595@upper_pcb.\ws2812b-b_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U26 'WS2812B-B_1_LED_WS2812B-B_WS2812B-B':;
+
+SECTION_NUMBER 1
+ '@UPPER_PCB.UPPER_PCB(SCH_1):INS6737@UPPER_PCB.WS2812B-B_1.NORMAL(CHIPS)':
+ C_PATH='@upper_pcb.upper_pcb(sch_1):ins6737@upper_pcb.\ws2812b-b_1.normal\(chips)',
+ P_PATH='@upper_pcb.upper_pcb(sch_1):page1_ins6737@upper_pcb.\ws2812b-b_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U27 'WS2812B-B_1_LED_WS2812B-B_WS2812B-B':;
+
+SECTION_NUMBER 1
+ '@UPPER_PCB.UPPER_PCB(SCH_1):INS6771@UPPER_PCB.WS2812B-B_1.NORMAL(CHIPS)':
+ C_PATH='@upper_pcb.upper_pcb(sch_1):ins6771@upper_pcb.\ws2812b-b_1.normal\(chips)',
+ P_PATH='@upper_pcb.upper_pcb(sch_1):page1_ins6771@upper_pcb.\ws2812b-b_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'WS2812B-B_1_LED_WS2812B-B_WS2812B-B':;
+
+SECTION_NUMBER 1
+ '@UPPER_PCB.UPPER_PCB(SCH_1):INS574@UPPER_PCB.WS2812B-B_1.NORMAL(CHIPS)':
+ C_PATH='@upper_pcb.upper_pcb(sch_1):ins574@upper_pcb.\ws2812b-b_1.normal\(chips)',
+ P_PATH='@upper_pcb.upper_pcb(sch_1):page1_ins574@upper_pcb.\ws2812b-b_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'WS2812B-B_1_LED_WS2812B-B_WS2812B-B':;
+
+SECTION_NUMBER 1
+ '@UPPER_PCB.UPPER_PCB(SCH_1):INS594@UPPER_PCB.WS2812B-B_1.NORMAL(CHIPS)':
+ C_PATH='@upper_pcb.upper_pcb(sch_1):ins594@upper_pcb.\ws2812b-b_1.normal\(chips)',
+ P_PATH='@upper_pcb.upper_pcb(sch_1):page1_ins594@upper_pcb.\ws2812b-b_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U5 'WS2812B-B_1_LED_WS2812B-B_WS2812B-B':;
+
+SECTION_NUMBER 1
+ '@UPPER_PCB.UPPER_PCB(SCH_1):INS916@UPPER_PCB.WS2812B-B_1.NORMAL(CHIPS)':
+ C_PATH='@upper_pcb.upper_pcb(sch_1):ins916@upper_pcb.\ws2812b-b_1.normal\(chips)',
+ P_PATH='@upper_pcb.upper_pcb(sch_1):page1_ins916@upper_pcb.\ws2812b-b_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U6 'WS2812B-B_1_LED_WS2812B-B_WS2812B-B':;
+
+SECTION_NUMBER 1
+ '@UPPER_PCB.UPPER_PCB(SCH_1):INS1323@UPPER_PCB.WS2812B-B_1.NORMAL(CHIPS)':
+ C_PATH='@upper_pcb.upper_pcb(sch_1):ins1323@upper_pcb.\ws2812b-b_1.normal\(chips)',
+ P_PATH='@upper_pcb.upper_pcb(sch_1):page1_ins1323@upper_pcb.\ws2812b-b_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U7 'WS2812B-B_1_LED_WS2812B-B_WS2812B-B':;
+
+SECTION_NUMBER 1
+ '@UPPER_PCB.UPPER_PCB(SCH_1):INS1343@UPPER_PCB.WS2812B-B_1.NORMAL(CHIPS)':
+ C_PATH='@upper_pcb.upper_pcb(sch_1):ins1343@upper_pcb.\ws2812b-b_1.normal\(chips)',
+ P_PATH='@upper_pcb.upper_pcb(sch_1):page1_ins1343@upper_pcb.\ws2812b-b_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U8 'WS2812B-B_1_LED_WS2812B-B_WS2812B-B':;
+
+SECTION_NUMBER 1
+ '@UPPER_PCB.UPPER_PCB(SCH_1):INS1363@UPPER_PCB.WS2812B-B_1.NORMAL(CHIPS)':
+ C_PATH='@upper_pcb.upper_pcb(sch_1):ins1363@upper_pcb.\ws2812b-b_1.normal\(chips)',
+ P_PATH='@upper_pcb.upper_pcb(sch_1):page1_ins1363@upper_pcb.\ws2812b-b_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U9 'WS2812B-B_1_LED_WS2812B-B_WS2812B-B':;
+
+SECTION_NUMBER 1
+ '@UPPER_PCB.UPPER_PCB(SCH_1):INS1383@UPPER_PCB.WS2812B-B_1.NORMAL(CHIPS)':
+ C_PATH='@upper_pcb.upper_pcb(sch_1):ins1383@upper_pcb.\ws2812b-b_1.normal\(chips)',
+ P_PATH='@upper_pcb.upper_pcb(sch_1):page1_ins1383@upper_pcb.\ws2812b-b_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

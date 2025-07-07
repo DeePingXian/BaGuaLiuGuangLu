@@ -1,0 +1,810 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.4.0 d001May-18-2025 at 16:43:53 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='CONTROL_CIRCUIT';
+ POST_TIME='Nov  3 2023 23:54:18';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP NP_0603_0.1U':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS1107@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins1107@discrete.\cap np.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins1107@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'CAP NP_0603_1U':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS11066@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins11066@discrete.\cap np.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins11066@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'CAP NP_0603_0.1U':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS90898@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins90898@discrete.\cap np.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins90898@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C12 'CAP NP_0603_0.1U':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS87501@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins87501@discrete.\cap np.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins87501@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C13 'CAP NP_0603_0.1U':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS21925@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins21925@discrete.\cap np.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins21925@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C14 'CAP NP_0603_0.1U':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS50316@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins50316@discrete.\cap np.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins50316@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C15 'CAP NP_0603_0.1U':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS50985@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins50985@discrete.\cap np.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins50985@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C16 'CAP NP_0603_0.1U':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS52182@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins52182@discrete.\cap np.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins52182@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C17 'CAP NP_0603_0.1U':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS21215@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins21215@discrete.\cap np.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins21215@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP NP_0603_10U':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS1123@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins1123@discrete.\cap np.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins1123@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP NP_0603_10U':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS1405@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins1405@discrete.\cap np.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins1405@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP NP_0603_1U':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS1471@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins1471@discrete.\cap np.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins1471@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAP_CAPPM7343X310N_10V 100UF':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS81468@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins81468@discrete.\cap.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins81468@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAP NP_0603_10U':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS81641@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins81641@discrete.\cap np.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins81641@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAP NP_0603_0.1U':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS81681@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins81681@discrete.\cap np.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins81681@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'CAP NP_0603_22U':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS4550@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins4550@discrete.\cap np.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins4550@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'CAP NP_0603_22U':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS4679@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins4679@discrete.\cap np.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins4679@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'DIODE_4_SOD-323_BZT52C6V8S':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS1025@CONTROL_CIRCUIT.DIODE_4.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins1025@control_circuit.\diode_4.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins1025@control_circuit.\diode_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'DIODE_3_SMA_SS34':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS81941@CONTROL_CIRCUIT.DIODE_3.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins81941@control_circuit.\diode_3.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins81941@control_circuit.\diode_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D3 'DIODE_3_SOD-523_1N4148WT':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS11435@CONTROL_CIRCUIT.DIODE_3.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins11435@control_circuit.\diode_3.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins11435@control_circuit.\diode_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D4 'LED_0603_25%':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS3621@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins3621@discrete.\led.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins3621@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D5 'LED_0603_50%':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS3637@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins3637@discrete.\led.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins3637@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D6 'LED_0603_75%':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS3653@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins3653@discrete.\led.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins3653@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D7 'LED_0603_100%':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS5003@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins5003@discrete.\led.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins5003@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ F1 'FUSE_2920_5A 2920':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS3359@DISCRETE.FUSE.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins3359@discrete.\fuse.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins3359@discrete.\fuse.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ F2 'FUSE_2_2920_5A 2920':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS12774@CONTROL_CIRCUIT.FUSE_2.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins12774@control_circuit.\fuse_2.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins12774@control_circuit.\fuse_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'TYPE-C-31-M-12_0_HRO_TYPE-C-31-M-12_TYPE-C-31-M-12':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS259@CONTROL_CIRCUIT.TYPE-C-31-M-12_0.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins259@control_circuit.\type-c-31-m-12_0.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins259@control_circuit.\type-c-31-m-12_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'ESW-120-13-S-S_1_SAMTEC_ESW-120-13-S-S_20 POS SOCKET':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS5128@CONTROL_CIRCUIT.ESW-120-13-S-S_1.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins5128@control_circuit.\esw-120-13-s-s_1.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins5128@control_circuit.\esw-120-13-s-s_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 'ESW-120-13-S-S_0_SAMTEC_ESW-120-13-S-S_20 POS SOCKET':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS5180@CONTROL_CIRCUIT.ESW-120-13-S-S_0.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins5180@control_circuit.\esw-120-13-s-s_0.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins5180@control_circuit.\esw-120-13-s-s_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J4 'TS-104-T-A-1_7_SAMTEC_TS-104-T-A-1_ARGB_HEADER':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS18072@CONTROL_CIRCUIT.TS-104-T-A-1_7.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins18072@control_circuit.\ts-104-t-a-1_7.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins18072@control_circuit.\ts-104-t-a-1_7.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J5 'TS-104-T-A-1_6_SAMTEC_TS-104-T-A-1_ARGB_HEADER':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS54560@CONTROL_CIRCUIT.TS-104-T-A-1_6.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins54560@control_circuit.\ts-104-t-a-1_6.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins54560@control_circuit.\ts-104-t-a-1_6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J6 'TS-104-T-A-1_5_SAMTEC_TS-104-T-A-1_I2C_HEADER':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS73758@CONTROL_CIRCUIT.TS-104-T-A-1_5.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins73758@control_circuit.\ts-104-t-a-1_5.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins73758@control_circuit.\ts-104-t-a-1_5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L1 'INDUCTOR_INDM7066X300N_FXL0630-1R0-M':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS503@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins503@discrete.\inductor.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins503@discrete.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q1 '2N6987_7_SOT23-3_SS8550':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS428@CONTROL_CIRCUIT.2N6987_7.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins428@control_circuit.\2n6987_7.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins428@control_circuit.\2n6987_7.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q2 '2N6987_7_SOT23-3_SS8550':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS69265@CONTROL_CIRCUIT.2N6987_7.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins69265@control_circuit.\2n6987_7.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins69265@control_circuit.\2n6987_7.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q3 'MOSFET P_SOT23-3_AO3401A':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS381@DISCRETE.MOSFET P.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins381@discrete.\mosfet p.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins381@discrete.\mosfet p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q4 'MOSFET P_SOT23-3_AO3401A':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS399@DISCRETE.MOSFET P.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins399@discrete.\mosfet p.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins399@discrete.\mosfet p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q5 'MOSFET N_SOT23-3_AO3400A':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS10985@DISCRETE.MOSFET N.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins10985@discrete.\mosfet n.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins10985@discrete.\mosfet n.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q6 'MOSFET N_SOT23-3_AO3400A':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS10807@DISCRETE.MOSFET N.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins10807@discrete.\mosfet n.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins10807@discrete.\mosfet n.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q7 'MOSFET N_SOT23-3_AO3400A':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS11866@DISCRETE.MOSFET N.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins11866@discrete.\mosfet n.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins11866@discrete.\mosfet n.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'RESISTOR_0603_10K':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS6747@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins6747@discrete.\resistor.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins6747@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'RESISTOR_0603_10K':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS1445@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins1445@discrete.\resistor.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins1445@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'RESISTOR_0603_1K':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS81915@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins81915@discrete.\resistor.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins81915@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'RESISTOR_0603_0R/NC':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS17511@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins17511@discrete.\resistor.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins17511@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R13 'RESISTOR_0603_NC':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS17463@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins17463@discrete.\resistor.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins17463@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R14 'RESISTOR_0603_NC':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS52855@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins52855@discrete.\resistor.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins52855@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R15 'RESISTOR_0603_0R/NC':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS43519@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins43519@discrete.\resistor.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins43519@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R16 'RESISTOR_0603_0R/NC':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS43545@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins43545@discrete.\resistor.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins43545@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R17 'RESISTOR_0603_82K/51K':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS46927@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins46927@discrete.\resistor.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins46927@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R18 'RESISTOR_0603_100K':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS11150@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins11150@discrete.\resistor.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins11150@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R19 'RESISTOR_0603_10K':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS72964@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins72964@discrete.\resistor.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins72964@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'RESISTOR_0603_10K':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS42526@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins42526@discrete.\resistor.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins42526@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R20 'RESISTOR_0603_10K':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS72990@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins72990@discrete.\resistor.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins72990@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R21 'RESISTOR_0603_10K':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS33643@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins33643@discrete.\resistor.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins33643@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R22 'RESISTOR_0603_10K':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS36206@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins36206@discrete.\resistor.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins36206@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R23 'RESISTOR_0603_10K':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS37303@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins37303@discrete.\resistor.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins37303@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R24 'RESISTOR_0603_1K':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS15215@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins15215@discrete.\resistor.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins15215@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R25 'RESISTOR_0603_2K':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS15231@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins15231@discrete.\resistor.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins15231@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R26 'RESISTOR_0603_10K':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS15247@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins15247@discrete.\resistor.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins15247@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R27 'RESISTOR_0603_10K':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS16540@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins16540@discrete.\resistor.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins16540@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R28 'RESISTOR_0603_20K':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS16514@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins16514@discrete.\resistor.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins16514@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R29 'RESISTOR_0603_10K':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS74047@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins74047@discrete.\resistor.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins74047@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'RESISTOR_1206_0.01R':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS61404@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins61404@discrete.\resistor.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins61404@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R30 'RESISTOR_0603_10K':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS74031@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins74031@discrete.\resistor.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins74031@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'RESISTOR_0603_1K':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS1050@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins1050@discrete.\resistor.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins1050@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'RESISTOR_0603_10K':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS1066@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins1066@discrete.\resistor.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins1066@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'RESISTOR_0603_10K':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS70379@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins70379@discrete.\resistor.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins70379@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'RESISTOR_0603_100K':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS1082@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins1082@discrete.\resistor.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins1082@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'RESISTOR_0603_10K':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS1300@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins1300@discrete.\resistor.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins1300@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'RESISTOR_0603_2R':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS1373@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins1373@discrete.\resistor.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins1373@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ RT1 'RESISTOR_0603_100K_NTC/NC':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS43571@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins43571@discrete.\resistor.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins43571@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW1 'EG1247_1_SW_EG1247_POWER':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS56001@CONTROL_CIRCUIT.EG1247_1.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins56001@control_circuit.\eg1247_1.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins56001@control_circuit.\eg1247_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW2 'TS11-674-73-BK-160-RA-D_0_SW_TS11-674-73-BK-160-RA-D_BUTTON':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS27733@CONTROL_CIRCUIT.TS11-674-73-BK-160-RA-D_0.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins27733@control_circuit.\ts11-674-73-bk-160-ra-d_0.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins27733@control_circuit.\ts11-674-73-bk-160-ra-d_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW3 'TS11-674-73-BK-160-RA-D_0_SW_TS11-674-73-BK-160-RA-D_BUTTON':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS28307@CONTROL_CIRCUIT.TS11-674-73-BK-160-RA-D_0.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins28307@control_circuit.\ts11-674-73-bk-160-ra-d_0.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins28307@control_circuit.\ts11-674-73-bk-160-ra-d_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW4 'TS11-674-73-BK-160-RA-D_0_SW_TS11-674-73-BK-160-RA-D_BUTTON':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS37351@CONTROL_CIRCUIT.TS11-674-73-BK-160-RA-D_0.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins37351@control_circuit.\ts11-674-73-bk-160-ra-d_0.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins37351@control_circuit.\ts11-674-73-bk-160-ra-d_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW5 'TS11-674-73-BK-160-RA-D_0_SW_TS11-674-73-BK-160-RA-D_BUTTON':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS37255@CONTROL_CIRCUIT.TS11-674-73-BK-160-RA-D_0.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins37255@control_circuit.\ts11-674-73-bk-160-ra-d_0.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins37255@control_circuit.\ts11-674-73-bk-160-ra-d_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'IP5310_QFN65P600X600X90-33N_IP5310':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS102@IP5310.IP5310.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins102@ip5310.\ip5310.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins102@ip5310.\ip5310.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 '2CELLBATT_0_18650-PC4_2CELLBATT':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS12249@CONTROL_CIRCUIT.2CELLBATT_0.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins12249@control_circuit.\2cellbatt_0.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins12249@control_circuit.\2cellbatt_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'INA226AIDGSR_1_SOP50P490X110-10N_INA226AIDGSR':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS57125@CONTROL_CIRCUIT.INA226AIDGSR_1.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins57125@control_circuit.\ina226aidgsr_1.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins57125@control_circuit.\ina226aidgsr_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'LM431CIM3NOPB_1_SOT23-3_CJ431':;
+
+SECTION_NUMBER 1
+ '@CONTROL_CIRCUIT.CONTROL_PCB(SCH_1):INS13444@CONTROL_CIRCUIT.LM431CIM3NOPB_1.NORMAL(CHIPS)':
+ C_PATH='@control_circuit.control_pcb(sch_1):ins13444@control_circuit.\lm431cim3nopb_1.normal\(chips)',
+ P_PATH='@control_circuit.control_pcb(sch_1):page1_ins13444@control_circuit.\lm431cim3nopb_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

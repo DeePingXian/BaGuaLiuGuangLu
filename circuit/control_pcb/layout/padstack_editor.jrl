@@ -1,0 +1,43 @@
+\t (00:00:01) padstack_editor 17.4 S039 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Mon Jun 30 01:21:37 2025
+\t (00:00:01)         Host=DESKTOP-H6QBUE8 User=user Pid=11388 CPUs=6
+\t (00:00:01) CmdLine= padstack_editor -mpssession user -file C:/Users/user/AppData/Local/Temp/#Taaaaaf06564.tmp -pname H_C320 -data C:/Users/user/AppData/Local/Temp/#Taaaaai06564.tmp
+\t (00:00:01) 
+\d (00:00:05) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Symbol"
+\d (00:00:06) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Offset"
+\d (00:00:06) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Symbol"
+\d (00:00:07) QtSignal GuidedTabsParent GuidedTabs currentChanged "Secondary Drill"
+\d (00:00:08) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
+\d (00:00:09) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Offset"
+\d (00:00:10) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:12) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 0 "Keep Out"
+\d (00:00:12) QtSignal GuidedDesignLayersTab LayersTable cellClicked 0 "Keep Out" 0 5
+\d (00:00:16) QtSignal GuidedDesignLayersTab PadDiameter editingFinished "4.2000"
+\d (00:00:16) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged
+\d (00:00:16) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 0 "Keep Out" 1 "Keep Out" +
+\d (00:00:16) QtSignal 2 "Keep Out" 3 "Keep Out"
+\d (00:00:17) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged
+\d (00:00:17) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 0 "Keep Out"
+\d (00:00:18) QtSignal GuidedDesignLayersTab LayersTable cellClicked 0 "Keep Out" 0 5
+\d (00:00:18) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 16777249 67108864 false +
+\d (00:00:18) QtSignal 1
+\d (00:00:18) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 67 67108864 false 1 +
+\d (00:00:18) QtSignal ""
+\d (00:00:18) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 1 "Keep Out"
+\d (00:00:18) QtSignal GuidedDesignLayersTab LayersTable cellClicked 1 "Keep Out" 1 5
+\d (00:00:18) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 16777249 67108864 false +
+\d (00:00:18) QtSignal 1
+\d (00:00:18) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 86 67108864 false 1 +
+\d (00:00:18) QtSignal ""
+\d (00:00:18) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 2 "Keep Out"
+\d (00:00:19) QtSignal GuidedDesignLayersTab LayersTable cellClicked 2 "Keep Out" 2 5
+\d (00:00:19) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 16777249 67108864 false +
+\d (00:00:19) QtSignal 1
+\d (00:00:19) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 86 67108864 false 1 +
+\d (00:00:19) QtSignal ""
+\d (00:00:19) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:20) QtSignal GuidedTabsParent GuidedTabs currentChanged Options
+\d (00:00:22) QtSignal MainWindow UpdateToDesignExit triggered
+\d (00:00:23) QtSignal pseCheckBrowser Close clicked
+\d (00:00:24) QtFillin Yes
+\t (00:00:24)     Journal end - Mon Jun 30 01:22:01 2025

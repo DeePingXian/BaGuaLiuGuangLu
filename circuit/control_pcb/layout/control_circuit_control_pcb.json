@@ -1,0 +1,149 @@
+{
+	"Gate Swap" : [],
+	"Ref Des" : [],
+	"Pin Swap" : [],
+	"Component Property" : [],
+	"Net Property" : [
+		{
+			"Name" : "DPC",
+			"C_PATH" : "@control_circuit.control_pcb(sch_1):dpc",
+			"PropName" : "DIFFERENTIAL_PAIR",
+			"Logical" : null,
+			"Physical" : "USB"
+		},
+		{
+			"Name" : "DMC",
+			"C_PATH" : "@control_circuit.control_pcb(sch_1):dmc",
+			"PropName" : "DIFFERENTIAL_PAIR",
+			"Logical" : null,
+			"Physical" : "USB"
+		}
+	],
+	"Pin Property" : [],
+	"Component" : [
+		{
+			"Name" : "Q7",
+			"C_PATH" : "@control_circuit.control_pcb(sch_1):ins235521@control_circuit.\\2n1069_0.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "Q7"
+		},
+		{
+			"Name" : "Q8",
+			"C_PATH" : "@control_circuit.control_pcb(sch_1):ins235622@control_circuit.\\2n1069_0.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "Q8"
+		},
+		{
+			"Name" : "Q9",
+			"C_PATH" : "@control_circuit.control_pcb(sch_1):ins219277@control_circuit.\\2n1069_0.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "Q9"
+		},
+		{
+			"Name" : "Q7",
+			"C_PATH" : "@control_circuit.control_pcb(sch_1):ins268640@control_circuit.\\mosfet n_3.normal\\(chips)",
+			"Logical" : "Q7",
+			"Physical" : null
+		},
+		{
+			"Name" : "Q8",
+			"C_PATH" : "@control_circuit.control_pcb(sch_1):ins268932@control_circuit.\\mosfet n_3.normal\\(chips)",
+			"Logical" : "Q8",
+			"Physical" : null
+		},
+		{
+			"Name" : "Q9",
+			"C_PATH" : "@control_circuit.control_pcb(sch_1):ins269517@control_circuit.\\mosfet n_3.normal\\(chips)",
+			"Logical" : "Q9",
+			"Physical" : null
+		},
+		{
+			"Name" : "D4",
+			"C_PATH" : "@control_circuit.control_pcb(sch_1):ins225146@control_circuit.\\diode_3.normal\\(chips)",
+			"Logical" : "DIODE_3_SOD-523_BAS40X",
+			"Physical" : "DIODE_3_SOD-523_1N4148WT"
+		}
+	],
+	"Net" : [
+		{
+			"Name" : "N11718",
+			"C_PATH" : "@control_circuit.control_pcb(sch_1):n11718",
+			"Logical" : null,
+			"Physical" : "N11718"
+		},
+		{
+			"Name" : "N11722",
+			"C_PATH" : "@control_circuit.control_pcb(sch_1):n11722",
+			"Logical" : "N11722",
+			"Physical" : null
+		}
+	],
+	"Connection" : [
+		{
+			"Name" : "C13.1",
+			"C_PATH" : "@control_circuit.control_pcb(sch_1):ins108503@discrete.\\cap np.normal\\(chips):\\1\\",
+			"Logical" : "N11722",
+			"Physical" : "N11718"
+		},
+		{
+			"Name" : "Q7.3",
+			"C_PATH" : "@control_circuit.control_pcb(sch_1):ins268640@control_circuit.\\mosfet n_3.normal\\(chips):DRAIN",
+			"Logical" : "VBAT",
+			"Physical" : null
+		},
+		{
+			"Name" : "Q7.1",
+			"C_PATH" : "@control_circuit.control_pcb(sch_1):ins268640@control_circuit.\\mosfet n_3.normal\\(chips):GATE",
+			"Logical" : "SW_SIG",
+			"Physical" : null
+		},
+		{
+			"Name" : "Q7.2",
+			"C_PATH" : "@control_circuit.control_pcb(sch_1):ins268640@control_circuit.\\mosfet n_3.normal\\(chips):SOURCE",
+			"Logical" : "N11722",
+			"Physical" : null
+		},
+		{
+			"Name" : "Q8.2",
+			"C_PATH" : "@control_circuit.control_pcb(sch_1):ins268932@control_circuit.\\mosfet n_3.normal\\(chips):SOURCE",
+			"Logical" : "GND",
+			"Physical" : null
+		},
+		{
+			"Name" : "Q8.3",
+			"C_PATH" : "@control_circuit.control_pcb(sch_1):ins268932@control_circuit.\\mosfet n_3.normal\\(chips):DRAIN",
+			"Logical" : "PW_KEY_SIM",
+			"Physical" : null
+		},
+		{
+			"Name" : "Q8.1",
+			"C_PATH" : "@control_circuit.control_pcb(sch_1):ins268932@control_circuit.\\mosfet n_3.normal\\(chips):GATE",
+			"Logical" : "N11568",
+			"Physical" : null
+		},
+		{
+			"Name" : "Q9.2",
+			"C_PATH" : "@control_circuit.control_pcb(sch_1):ins269517@control_circuit.\\mosfet n_3.normal\\(chips):SOURCE",
+			"Logical" : "GND",
+			"Physical" : null
+		},
+		{
+			"Name" : "Q9.3",
+			"C_PATH" : "@control_circuit.control_pcb(sch_1):ins269517@control_circuit.\\mosfet n_3.normal\\(chips):DRAIN",
+			"Logical" : "N219565",
+			"Physical" : null
+		},
+		{
+			"Name" : "Q9.1",
+			"C_PATH" : "@control_circuit.control_pcb(sch_1):ins269517@control_circuit.\\mosfet n_3.normal\\(chips):GATE",
+			"Logical" : "SW_SIG",
+			"Physical" : null
+		},
+		{
+			"Name" : "R19.1",
+			"C_PATH" : "@control_circuit.control_pcb(sch_1):ins218385@discrete.\\resistor.normal\\(chips):\\1\\",
+			"Logical" : "N11722",
+			"Physical" : "N11718"
+		}
+	]
+}

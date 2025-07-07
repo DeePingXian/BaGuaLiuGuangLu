@@ -1,0 +1,171 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'SAMTEC-SMH-104-02-X-SA_0_SAMTEC-SMH-104-02-X-S_RIGHT ANGLE 4P 2.54MM SOCKET';
+  pin
+	 'VDD':
+	   PIN_NUMBER='(3)';
+	   BIDIRECTIONAL='TRUE';
+	   INPUT_LOAD='(-0.01,0.01)';
+	   OUTPUT_LOAD='(1.0,-1.0)';
+	 'SDA':
+	   PIN_NUMBER='(1)';
+	   BIDIRECTIONAL='TRUE';
+	   INPUT_LOAD='(-0.01,0.01)';
+	   OUTPUT_LOAD='(1.0,-1.0)';
+	 'SCL':
+	   PIN_NUMBER='(2)';
+	   BIDIRECTIONAL='TRUE';
+	   INPUT_LOAD='(-0.01,0.01)';
+	   OUTPUT_LOAD='(1.0,-1.0)';
+	 'GND':
+	   PIN_NUMBER='(4)';
+	   BIDIRECTIONAL='TRUE';
+	   INPUT_LOAD='(-0.01,0.01)';
+	   OUTPUT_LOAD='(1.0,-1.0)';
+  end_pin;
+  body
+	 PART_NAME='SAMTEC-SMH-104-02-X-SA_0';
+	 VALUE='right angle 4P 2.54mm socket';
+	 BODY_NAME='SAMTEC-SMH-104-02-X-SA_0_SAMTEC-SMH-104-02-X-S_RIGHT ANGLE 4P 2.54MM SOCKET';
+	 JEDEC_TYPE='SAMTEC-SMH-104-02-X-S';
+	 PHYS_DES_PREFIX='J';
+	 CLASS='IC';
+  end_body;
+end_primitive;
+
+primitive 'SAMTEC-SMH-104-02-X-SA_2_ARGB_HEADER_90_ARGB SOCKET';
+  pin
+	 'GND':
+	   PIN_NUMBER='(3)';
+	   BIDIRECTIONAL='TRUE';
+	   INPUT_LOAD='(-0.01,0.01)';
+	   OUTPUT_LOAD='(1.0,-1.0)';
+	 'D':
+	   PIN_NUMBER='(2)';
+	   BIDIRECTIONAL='TRUE';
+	   INPUT_LOAD='(-0.01,0.01)';
+	   OUTPUT_LOAD='(1.0,-1.0)';
+	 '5V':
+	   PIN_NUMBER='(1)';
+	   INPUT_LOAD='(-0.01,0.01)';
+  end_pin;
+  body
+	 PART_NAME='SAMTEC-SMH-104-02-X-SA_2';
+	 VALUE='ARGB socket';
+	 BODY_NAME='SAMTEC-SMH-104-02-X-SA_2_ARGB_HEADER_90_ARGB SOCKET';
+	 JEDEC_TYPE='ARGB_HEADER_90';
+	 PHYS_DES_PREFIX='J';
+	 CLASS='IC';
+  end_body;
+end_primitive;
+
+primitive 'BCS-104-T-D-TE_3_SAMTEC_BCS-104-T-D-TE_2*4P 2.54MM 21MM PINS';
+  pin
+	 'VDD#06':
+	   PIN_NUMBER='(06)';
+	   PINUSE='POWER';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 'VDD#05':
+	   PIN_NUMBER='(05)';
+	   PINUSE='POWER';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 'SDA':
+	   PIN_NUMBER='(01)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 'SCL':
+	   PIN_NUMBER='(03)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 'GND#08':
+	   PIN_NUMBER='(08)';
+	   PINUSE='POWER';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 'GND#07':
+	   PIN_NUMBER='(07)';
+	   PINUSE='POWER';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 'ARGB_DATA_1':
+	   PIN_NUMBER='(04)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 'ARGB_DATA_0':
+	   PIN_NUMBER='(02)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+	 PART_NAME='BCS-104-T-D-TE_3';
+	 VALUE='2*4P 2.54mm 21mm pins';
+	 BODY_NAME='BCS-104-T-D-TE_3_SAMTEC_BCS-104-T-D-TE_2*4P 2.54MM 21MM PINS';
+	 JEDEC_TYPE='SAMTEC_BCS-104-T-D-TE';
+	 PHYS_DES_PREFIX='J';
+	 CLASS='IC';
+  end_body;
+end_primitive;
+
+primitive 'WS2812B-B_1_LED_WS2812B-B_WS2812B-B';
+  pin
+	 'VSS':
+	   PIN_NUMBER='(3)';
+	   BIDIRECTIONAL='TRUE';
+	   INPUT_LOAD='(-0.01,0.01)';
+	   OUTPUT_LOAD='(1.0,-1.0)';
+	 'VDD':
+	   PIN_NUMBER='(1)';
+	   BIDIRECTIONAL='TRUE';
+	   INPUT_LOAD='(-0.01,0.01)';
+	   OUTPUT_LOAD='(1.0,-1.0)';
+	 'DOUT':
+	   PIN_NUMBER='(2)';
+	   BIDIRECTIONAL='TRUE';
+	   INPUT_LOAD='(-0.01,0.01)';
+	   OUTPUT_LOAD='(1.0,-1.0)';
+	 'DIN':
+	   PIN_NUMBER='(4)';
+	   BIDIRECTIONAL='TRUE';
+	   INPUT_LOAD='(-0.01,0.01)';
+	   OUTPUT_LOAD='(1.0,-1.0)';
+  end_pin;
+  body
+	 PART_NAME='WS2812B-B_1';
+	 VALUE='WS2812B-B';
+	 BODY_NAME='WS2812B-B_1_LED_WS2812B-B_WS2812B-B';
+	 JEDEC_TYPE='LED_WS2812B-B';
+	 PHYS_DES_PREFIX='U';
+	 CLASS='IC';
+  end_body;
+end_primitive;
+
+END.

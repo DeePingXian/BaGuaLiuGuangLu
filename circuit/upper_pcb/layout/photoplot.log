@@ -1,0 +1,322 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : upper_pcb.brd                                 )
+(    Software Version : 17.4S039                                      )
+(    Date/Time        : Wed Jun 25 00:02:10 2025                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ ******************************************
+ WARNING: DRC OUT OF DATE on this layout.
+ ******************************************
+
+ ---- Photoplot outline rectangle not found; using drawing extents.
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          MM
+    FILM-SIZE             2400000 1600000
+    FORMAT                2.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+
+================================================================
+     PROCESSING FILM < SOLDERTOP >
+     TO FILE < C:/Users/user/Documents/GitHub/BaGuaLu/circuit/upper_pcb/layout/SOLDERTOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.2032
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.20320                                  DARK 
+  CIRCLE     1.36280                                  DARK 
+  CIRCLE     1.57000                                  DARK 
+  SQUARE     1.36280                     0.000 NO     DARK 
+  SQUARE     1.57000                     0.000 NO     DARK 
+  RECTANGLE  1.70000     x 1.10010       0.000 NO     DARK 
+
+     SOLDERTOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < SOLDERBOTTOM >
+     TO FILE < C:/Users/user/Documents/GitHub/BaGuaLu/circuit/upper_pcb/layout/SOLDERBOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.2032
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.20320                                  DARK 
+  CIRCLE     1.36280                                  DARK 
+  CIRCLE     1.57000                                  DARK 
+  SQUARE     1.36280                     0.000 NO     DARK 
+  SQUARE     1.57000                     0.000 NO     DARK 
+
+     SOLDERBOTTOM created with warnings
+
+
+================================================================
+     PROCESSING FILM < SILKTOP >
+     TO FILE < C:/Users/user/Documents/GitHub/BaGuaLu/circuit/upper_pcb/layout/SILKTOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.2032
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.15000                                  DARK 
+  CIRCLE     0.20320                                  DARK 
+
+     SILKTOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < SILKBOTTOM >
+     TO FILE < C:/Users/user/Documents/GitHub/BaGuaLu/circuit/upper_pcb/layout/SILKBOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.2032
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.15000                                  DARK 
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.20320                                  DARK 
+
+     SILKBOTTOM created with warnings
+
+
+================================================================
+     PROCESSING FILM < PASTETOP >
+     TO FILE < C:/Users/user/Documents/GitHub/BaGuaLu/circuit/upper_pcb/layout/PASTETOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.2032
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.20320                                  DARK 
+  RECTANGLE  1.50010     x 0.89990       0.000 NO     DARK 
+
+     PASTETOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < PASTEBOTTOM >
+     TO FILE < C:/Users/user/Documents/GitHub/BaGuaLu/circuit/upper_pcb/layout/PASTEBOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.2032
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.20320                                  DARK 
+
+     PASTEBOTTOM created with warnings
+
+
+================================================================
+     PROCESSING FILM < DRILL >
+     TO FILE < C:/Users/user/Documents/GitHub/BaGuaLu/circuit/upper_pcb/layout/DRILL.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.2032
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.20320                                  DARK 
+
+     DRILL created with warnings
+
+
+================================================================
+     PROCESSING FILM < BOTTOM >
+     TO FILE < C:/Users/user/Documents/GitHub/BaGuaLu/circuit/upper_pcb/layout/BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.2032
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.15240                                  DARK 
+  CIRCLE     0.20320                                  DARK 
+  CIRCLE     0.30480                                  DARK 
+  CIRCLE     0.50000                                  DARK 
+  CIRCLE     1.16280                                  DARK 
+  CIRCLE     1.37000                                  DARK 
+  CIRCLE     3.00000                                  DARK 
+  SQUARE     1.16280                     0.000 NO     DARK 
+  SQUARE     1.37000                     0.000 NO     DARK 
+  RECTANGLE  1.03990     x 1.91010      90.000 NO     DARK 
+
+     BOTTOM created with warnings
+
+
+================================================================
+     PROCESSING FILM < TOP >
+     TO FILE < C:/Users/user/Documents/GitHub/BaGuaLu/circuit/upper_pcb/layout/TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.2032
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.15240                                  DARK 
+  CIRCLE     0.20320                                  DARK 
+  CIRCLE     0.50000                                  DARK 
+  CIRCLE     1.16280                                  DARK 
+  CIRCLE     1.37000                                  DARK 
+  CIRCLE     3.00000                                  DARK 
+  SQUARE     1.16280                     0.000 NO     DARK 
+  SQUARE     1.37000                     0.000 NO     DARK 
+  RECTANGLE  1.50010     x 0.89990       0.000 NO     DARK 
+
+     TOP created with warnings
+
+
+------------------------------------------------------
+ SUMMARY:
+        SOLDERTOP created with warnings
+        SOLDERBOTTOM created with warnings
+        SILKTOP created with warnings
+        SILKBOTTOM created with warnings
+        PASTETOP created with warnings
+        PASTEBOTTOM created with warnings
+        DRILL created with warnings
+        BOTTOM created with warnings
+        TOP created with warnings
+
+ ARTWORK had warnings

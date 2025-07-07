@@ -1,0 +1,93 @@
+\t (00:00:21) allegro 17.4 S039 Windows SPB 64-bit Edition
+\t (00:00:21)     Journal start - Sun Jul  6 00:12:41 2025
+\t (00:00:21)         Host=DESKTOP-H6QBUE8 User=user Pid=15984 CPUs=6
+\t (00:00:21) CmdLine= allegro.exe -proj c:/users/user/documents/github/bagualu/circuit/control_pcb/control_circuit.opj C:/USERS/USER/DOCUMENTS/GITHUB/BAGUALU/CIRCUIT/CONTROL_PCB/layout/control_pcb.brd
+\t (00:00:21) 
+   (00:00:21) Loading axlcore.cxt 
+\t (00:00:24) Opening existing design...
+\i (00:00:24) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "control_pcb"
+\d (00:00:24) Design opened: C:/USERS/USER/DOCUMENTS/GITHUB/BAGUALU/CIRCUIT/CONTROL_PCB/layout/control_pcb.brd
+\t (00:00:24) Grids are drawn 0.8000, 0.8000 apart for enhanced viewing.
+\i (00:00:24) trapsize 5664
+\i (00:00:24) trapsize 5876
+\i (00:00:25) trapsize 6104
+\i (00:00:25) trapsize 5876
+\i (00:00:25) trapsize 5664
+\t (00:00:25) Grids are drawn 0.8000, 0.8000 apart for enhanced viewing.
+\i (00:00:25) trapsize 5664
+\t (00:00:26) > Sending response DoneOpenBoard
+\i (00:00:26) trapsize 5561
+\t (00:00:26) > DoPullSchematic message received
+\t (00:00:26) > Pulling schematic...
+\t (00:00:26) Starting Cadence Logic Import...
+\t (00:00:27) Opening existing design...
+\t (00:00:27) Grids are drawn 409.6000, 409.6000 apart for enhanced viewing.
+\t (00:00:28) Grids are drawn 0.8000, 0.8000 apart for enhanced viewing.
+\i (00:00:28) trapsize 5561
+\t (00:00:28) > Sending response DonePullSchematic
+\t (00:00:28) > Schematic pulled successfully
+\i (00:00:28) generaledit 
+\i (00:00:32) zoom in 0.500000 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) zoom in 21.9211 61.4055 0.5
+\t (00:00:32) Grids are drawn 0.4000, 0.4000 apart for enhanced viewing.
+\i (00:00:32) trapsize 3707
+\i (00:00:32) zoom in 0.500000 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) zoom in 12.1705 59.0328 0.5
+\t (00:00:32) Grids are drawn 0.2000, 0.2000 apart for enhanced viewing.
+\i (00:00:32) trapsize 2472
+\i (00:00:33) zoom in 0.500000 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom in 22.8974 45.9331 0.5
+\i (00:00:33) trapsize 1648
+\i (00:00:33) zoom in 0.500000 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom in 22.8974 45.8673 0.5
+\i (00:00:33) trapsize 1099
+\i (00:00:34) zoom out 0.500000 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom out 27.7088 48.7894 0.5
+\i (00:00:34) trapsize 1648
+\i (00:00:35) zoom in 0.500000 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) zoom in 22.7985 37.7494 0.5
+\i (00:00:35) trapsize 1099
+\i (00:00:37) place manual 
+\i (00:00:38) setwindow form.plc_manual
+\i (00:00:38) FORM plc_manual tree  'Components by refdes' 
+\i (00:00:39) FORM plc_manual cancel  
+\i (00:00:39) setwindow pcb
+\i (00:00:39) generaledit 
+\i (00:00:40) zoom out 0.500000 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom out 27.2585 49.0859 0.5
+\i (00:00:40) trapsize 1648
+\i (00:00:40) zoom out 0.500000 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom out 27.2585 49.0860 0.5
+\i (00:00:40) trapsize 2472
+\i (00:00:40) zoom out 0.500000 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom out 29.0024 49.0860 0.5
+\t (00:00:40) Grids are drawn 0.4000, 0.4000 apart for enhanced viewing.
+\i (00:00:40) trapsize 3707
+\i (00:00:40) zoom out 0.500000 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom out 48.5035 49.0119 0.5
+\t (00:00:40) Grids are drawn 0.8000, 0.8000 apart for enhanced viewing.
+\i (00:00:40) trapsize 5561
+\i (00:00:41) zoom out 0.500000 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom out 77.6441 62.1840 0.5
+\i (00:00:41) trapsize 5561
+\i (00:00:41) zoom out 0.500000 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom out 76.5319 61.0718 0.5
+\i (00:00:41) trapsize 5561
+\i (00:00:42) save 
+\i (00:00:43) fillin yes 
+\t (00:00:43) > Sending response DoneOpenBoard
+\i (00:00:43) generaledit 
+\i (00:00:44) exit 
+\t (00:00:44)     Journal end - Sun Jul  6 00:13:04 2025

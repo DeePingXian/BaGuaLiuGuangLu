@@ -1,0 +1,4 @@
+2025-05-18T16:58:40 ===> "C:/Users/user/Documents/GitHub/BaGuaLu/circuit/Allegro/PCB_layout/control_PCB/netlist0/pstchip.dat"
+2025-05-18T16:58:40 ===> "C:/Users/user/Documents/GitHub/BaGuaLu/circuit/Allegro/PCB_layout/control_PCB/netlist0/pstxnet.dat"
+2025-05-18T16:58:40 ===> "C:/Users/user/Documents/GitHub/BaGuaLu/circuit/Allegro/PCB_layout/control_PCB/netlist0/pstxprt.dat"
+2025-05-18T16:58:40 ===> "C:/Users/user/Documents/GitHub/BaGuaLu/circuit/Allegro/PCB_layout/control_PCB/netlist0/pstdmlmodels.dat"

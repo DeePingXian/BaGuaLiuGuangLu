@@ -1,0 +1,48 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dangling Line, Via and Antenna Report                            )
+(                                                                     )
+(    Drawing          : control_pcb.brd                               )
+(    Software Version : 17.4S039                                      )
+(    Date/Time        : Sat Jun  7 15:30:20 2025                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Report methodology:
+  - Dangling lines have at least one end not connected.
+  - Dangling vias have one or no connection
+      - Plus are not a test, thieving or netshort property via.
+  - Antenna vias do not have connections on their start and end layers.
+      - Plus they are not a thieving vias.
+      - Optionally, VOLTAGE nets, testvias and through vias can be suppressed with
+        the environment variable report_antennavia.
+      - Section may be suppressed by variable report_noantennavia.
+  - Not part of the current partition.
+  - To suppress items in dangle report add the OK_DANGLE property to the via
+    or connect line.
+
+<< Dangling Lines >>  - Location marked with a star (*) is dangling.
+  Net                 Layer                  Length       Location
+  ------------------------------------------------------------------------------------------
+  UART_TX              TOP                   5.3898     *(46.0535 42.7535) to  (50.7170 41.0000)
+  PICO_KEY2            BOTTOM               34.4904      (45.7170 74.8000) to *(46.0000 45.2000)
+  PICO_KEY1            BOTTOM                8.6284      (44.0000 55.6000) to *(46.0000 47.8000)
+  I2C_SCL              BOTTOM               30.2196     *(46.0000 19.9000) to  (73.9000 25.5000)
+  I2C_SDA              BOTTOM               30.5853      (74.1000 26.3000) to *(46.0000 22.5000)
+  ARGB_DATA_1          BOTTOM               27.7380     *(46.0000 58.0000) to  (54.3000 33.7000)
+  ARGB_DATA_0          BOTTOM               29.3258      (54.1500 34.5500) to *(46.0000 60.5000)
+
+
+<< Dangling Vias >>
+  Net                  Padstack               Location            Layers
+  ---------------------------------------------------------------------------
+  Not on a Net         VIA-1-1-1-1          (17.1450 17.1450) TOP/BOTTOM 
+  Not on a Net         VIA-1-1-2-1          (17.1450 70.9420) TOP/BOTTOM 
+  Not on a Net         VIA-1-1-4-1-1        (70.9420 17.1450) TOP/BOTTOM 
+  Not on a Net         VIA-1-1-3-1          (70.9420 70.9420) TOP/BOTTOM 
+
+<< Summary >>
+  Total dangling lines:       7
+  Total dangling vias:        4
+  Total antenna vias:         0

@@ -1,0 +1,416 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : control_pcb.brd                               )
+(    Software Version : 17.4S039                                      )
+(    Date/Time        : Tue Jul  1 11:27:08 2025                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+ ---- Photoplot outline rectangle not found; using drawing extents.
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          MM
+    FILM-SIZE             2400000 1600000
+    FORMAT                2.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+
+================================================================
+     PROCESSING FILM < SOLDERTOP >
+     TO FILE < C:/Users/user/Documents/GitHub/BaGuaLu/circuit/control_pcb/layout/SOLDERTOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.2032
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.20320                                  DARK 
+  CIRCLE     0.60010                                  DARK 
+  CIRCLE     1.50800                                  DARK 
+  CIRCLE     1.57000                                  DARK 
+  CIRCLE     1.70800                                  DARK 
+  CIRCLE     2.48600                                  DARK 
+  CIRCLE     3.20000                                  DARK 
+  SQUARE     1.50800                     0.000 NO     DARK 
+  SQUARE     1.57000                     0.000 NO     DARK 
+  SQUARE     1.70800                     0.000 NO     DARK 
+  RECTANGLE  0.40000     x 1.24000      90.000 NO     DARK 
+  RECTANGLE  0.70000     x 1.24000      90.000 NO     DARK 
+  RECTANGLE  0.76000     x 0.60000      90.000 NO     DARK 
+  RECTANGLE  1.10000     x 1.00000       0.000 NO     DARK 
+  RECTANGLE  1.10000     x 1.00000      90.000 NO     DARK 
+  RECTANGLE  1.10000     x 1.50000       0.000 NO     DARK 
+  RECTANGLE  1.20000     x 6.00000      90.000 NO     DARK 
+  RECTANGLE  1.21600     x 1.08900       0.000 NO     DARK 
+  RECTANGLE  1.21600     x 1.08900      90.000 NO     DARK 
+  RECTANGLE  1.24000     x 0.66000      90.000 NO     DARK 
+  RECTANGLE  1.47000     x 1.92720      90.000 NO     DARK 
+  RECTANGLE  1.47000     x 1.92720     135.000 NO     DARK 
+  RECTANGLE  2.32000     x 1.70000      90.000 NO     DARK 
+  RECTANGLE  2.50000     x 2.72000      90.000 NO     DARK 
+  RECTANGLE  2.87000     x 3.41000      90.000 NO     DARK 
+  RECTANGLE  3.80000     x 3.80000       0.000 NO     DARK 
+  OBLONG     1.40000     x 2.00000       0.000 NO     DARK 
+  OBLONG     1.40000     x 2.20000      90.000 NO     DARK 
+  OBLONG     1.80000     x 1.00000       0.000 NO     DARK 
+  OBLONG     2.10000     x 1.00000       0.000 NO     DARK 
+  PAD SHAPE  PS_R84_26_D700              0.000 NO     DARK 
+  PAD SHAPE  PS_R26_84_D700              0.000 NO     DARK 
+  PAD SHAPE  PS_R147_28_D250           180.000 NO     DARK 
+  PAD SHAPE  PS_R84_26_D700            180.000 NO     DARK 
+
+     SOLDERTOP created.
+
+
+================================================================
+     PROCESSING FILM < SOLDERBOTTOM >
+     TO FILE < C:/Users/user/Documents/GitHub/BaGuaLu/circuit/control_pcb/layout/SOLDERBOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.2032
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.20320                                  DARK 
+  CIRCLE     0.60010                                  DARK 
+  CIRCLE     1.50800                                  DARK 
+  CIRCLE     1.57000                                  DARK 
+  CIRCLE     1.70800                                  DARK 
+  CIRCLE     2.48600                                  DARK 
+  CIRCLE     3.20000                                  DARK 
+  SQUARE     1.50800                     0.000 NO     DARK 
+  SQUARE     1.57000                     0.000 NO     DARK 
+  SQUARE     1.70800                     0.000 NO     DARK 
+  OBLONG     1.20000     x 2.00000      90.000 NO     DARK 
+  OBLONG     1.40000     x 2.00000       0.000 NO     DARK 
+  OBLONG     1.80000     x 1.00000       0.000 NO     DARK 
+  OBLONG     2.10000     x 1.00000       0.000 NO     DARK 
+
+     SOLDERBOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < SILKTOP >
+     TO FILE < C:/Users/user/Documents/GitHub/BaGuaLu/circuit/control_pcb/layout/SILKTOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.2032
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.15000                                  DARK 
+  CIRCLE     0.15240                                  DARK 
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.20320                                  DARK 
+
+     SILKTOP created.
+
+
+================================================================
+     PROCESSING FILM < SILKBOTTOM >
+     TO FILE < C:/Users/user/Documents/GitHub/BaGuaLu/circuit/control_pcb/layout/SILKBOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.2032
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.15000                                  DARK 
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.20320                                  DARK 
+
+     SILKBOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < PASTETOP >
+     TO FILE < C:/Users/user/Documents/GitHub/BaGuaLu/circuit/control_pcb/layout/PASTETOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.2032
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.20320                                  DARK 
+  RECTANGLE  0.30000     x 1.14000      90.000 NO     DARK 
+  RECTANGLE  0.56000     x 0.40000      90.000 NO     DARK 
+  RECTANGLE  0.60000     x 1.14000      90.000 NO     DARK 
+  RECTANGLE  0.90000     x 0.80000       0.000 NO     DARK 
+  RECTANGLE  0.90000     x 0.80000      90.000 NO     DARK 
+  RECTANGLE  0.90000     x 1.30000       0.000 NO     DARK 
+  RECTANGLE  1.01600     x 0.88900       0.000 NO     DARK 
+  RECTANGLE  1.01600     x 0.88900      90.000 NO     DARK 
+  RECTANGLE  1.02000     x 1.90500      90.000 NO     DARK 
+  RECTANGLE  1.04000     x 0.46000      90.000 NO     DARK 
+  RECTANGLE  1.27000     x 1.72720      90.000 NO     DARK 
+  RECTANGLE  1.27000     x 1.72720     135.000 NO     DARK 
+  RECTANGLE  2.12000     x 1.50000      90.000 NO     DARK 
+  RECTANGLE  2.27900     x 2.27900       0.000 NO     DARK 
+  RECTANGLE  2.30000     x 2.52000      90.000 NO     DARK 
+  RECTANGLE  2.67000     x 3.21000      90.000 NO     DARK 
+  PAD SHAPE  PS_R84_26_D700              0.000 NO     DARK 
+  PAD SHAPE  PS_R26_84_D700              0.000 NO     DARK 
+  PAD SHAPE  PS_R84_26_D700            180.000 NO     DARK 
+  PAD SHAPE  PS_R147_28_D250           180.000 NO     DARK 
+
+     PASTETOP created.
+
+
+================================================================
+     PROCESSING FILM < PASTEBOTTOM >
+     TO FILE < C:/Users/user/Documents/GitHub/BaGuaLu/circuit/control_pcb/layout/PASTEBOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.2032
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.20320                                  DARK 
+
+     PASTEBOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < DRILL >
+     TO FILE < C:/Users/user/Documents/GitHub/BaGuaLu/circuit/control_pcb/layout/DRILL.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.2032
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.20320                                  DARK 
+
+     DRILL created.
+
+
+================================================================
+     PROCESSING FILM < BOTTOM >
+     TO FILE < C:/Users/user/Documents/GitHub/BaGuaLu/circuit/control_pcb/layout/BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.2032
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.15240                                  DARK 
+  CIRCLE     0.20320                                  DARK 
+  CIRCLE     0.25400                                  DARK 
+  CIRCLE     0.50000                                  DARK 
+  CIRCLE     0.60010                                  DARK 
+  CIRCLE     1.30800                                  DARK 
+  CIRCLE     1.37000                                  DARK 
+  CIRCLE     1.50800                                  DARK 
+  CIRCLE     2.28600                                  DARK 
+  CIRCLE     3.00000                                  DARK 
+  CIRCLE     3.20000                                  DARK 
+  SQUARE     1.30800                     0.000 NO     DARK 
+  SQUARE     1.37000                     0.000 NO     DARK 
+  SQUARE     1.50800                     0.000 NO     DARK 
+  OBLONG     1.20000     x 1.80000       0.000 NO     DARK 
+  OBLONG     1.20000     x 2.00000      90.000 NO     DARK 
+  OBLONG     1.70000     x 0.90000       0.000 NO     DARK 
+  OBLONG     2.00000     x 0.90000       0.000 NO     DARK 
+
+     BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < TOP >
+     TO FILE < C:/Users/user/Documents/GitHub/BaGuaLu/circuit/control_pcb/layout/TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.2032
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.15240                                  DARK 
+  CIRCLE     0.20320                                  DARK 
+  CIRCLE     0.25400                                  DARK 
+  CIRCLE     0.25600                                  DARK 
+  CIRCLE     0.30480                                  DARK 
+  CIRCLE     0.50000                                  DARK 
+  CIRCLE     0.60010                                  DARK 
+  CIRCLE     1.30800                                  DARK 
+  CIRCLE     1.37000                                  DARK 
+  CIRCLE     1.50800                                  DARK 
+  CIRCLE     2.28600                                  DARK 
+  CIRCLE     3.00000                                  DARK 
+  CIRCLE     3.20000                                  DARK 
+  SQUARE     1.30800                     0.000 NO     DARK 
+  SQUARE     1.37000                     0.000 NO     DARK 
+  SQUARE     1.50800                     0.000 NO     DARK 
+  RECTANGLE  0.30000     x 1.14000      90.000 NO     DARK 
+  RECTANGLE  0.56000     x 0.40000      90.000 NO     DARK 
+  RECTANGLE  0.60000     x 1.14000      90.000 NO     DARK 
+  RECTANGLE  0.90000     x 0.80000       0.000 NO     DARK 
+  RECTANGLE  0.90000     x 0.80000      90.000 NO     DARK 
+  RECTANGLE  0.90000     x 1.30000       0.000 NO     DARK 
+  RECTANGLE  1.00000     x 5.80000      90.000 NO     DARK 
+  RECTANGLE  1.01600     x 0.88900       0.000 NO     DARK 
+  RECTANGLE  1.01600     x 0.88900      90.000 NO     DARK 
+  RECTANGLE  1.04000     x 0.46000      90.000 NO     DARK 
+  RECTANGLE  1.27000     x 1.72720      90.000 NO     DARK 
+  RECTANGLE  1.27000     x 1.72720     135.000 NO     DARK 
+  RECTANGLE  2.12000     x 1.50000      90.000 NO     DARK 
+  RECTANGLE  2.30000     x 2.52000      90.000 NO     DARK 
+  RECTANGLE  2.67000     x 3.21000      90.000 NO     DARK 
+  RECTANGLE  3.60000     x 3.60000       0.000 NO     DARK 
+  OBLONG     1.20000     x 1.80000       0.000 NO     DARK 
+  OBLONG     1.20000     x 2.00000      90.000 NO     DARK 
+  OBLONG     1.70000     x 0.90000       0.000 NO     DARK 
+  OBLONG     2.00000     x 0.90000       0.000 NO     DARK 
+  PAD SHAPE  PS_R84_26_D700              0.000 NO     DARK 
+  PAD SHAPE  PS_R26_84_D700              0.000 NO     DARK 
+  PAD SHAPE  PS_R147_28_D250           180.000 NO     DARK 
+  PAD SHAPE  PS_R84_26_D700            180.000 NO     DARK 
+
+     TOP created.
+
+
+------------------------------------------------------
+ SUMMARY:
+        SOLDERTOP created.
+        SOLDERBOTTOM created.
+        SILKTOP created.
+        SILKBOTTOM created.
+        PASTETOP created.
+        PASTEBOTTOM created.
+        DRILL created.
+        BOTTOM created.
+        TOP created.
+
+ ARTWORK finished

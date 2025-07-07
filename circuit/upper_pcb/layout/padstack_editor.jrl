@@ -1,0 +1,46 @@
+\t (00:00:01) padstack_editor 17.4 S039 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Tue Jun  3 19:27:55 2025
+\t (00:00:01)         Host=DESKTOP-H6QBUE8 User=user Pid=15088 CPUs=6
+\t (00:00:01) CmdLine= padstack_editor -mpssession user -file C:/Users/user/AppData/Local/Temp/#Taaaabc19096.tmp -pname T_Q102_137_M137-1 -data C:/Users/user/AppData/Local/Temp/#Taaaabf19096.tmp
+\t (00:00:01) 
+\d (00:00:08) QtSignal GuidedDesignLayersTab PadWidth editingFinished "1.3700"
+\d (00:00:08) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged
+\d (00:00:08) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 0 "Regular Pad"
+\d (00:00:08) QtSignal GuidedDesignLayersTab LayersTable cellClicked 0 "Regular Pad" 0 2
+\d (00:00:09) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 16777249 67108864 false +
+\d (00:00:09) QtSignal 1
+\d (00:00:09) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 67 67108864 false 1 +
+\d (00:00:09) QtSignal ""
+\d (00:00:09) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 1 "Regular Pad"
+\d (00:00:09) QtSignal GuidedDesignLayersTab LayersTable cellClicked 1 "Regular Pad" 1 2
+\d (00:00:09) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 16777249 67108864 false +
+\d (00:00:09) QtSignal 1
+\d (00:00:09) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 86 67108864 false 1 +
+\d (00:00:09) QtSignal ""
+\d (00:00:09) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 2 "Regular Pad"
+\d (00:00:09) QtSignal GuidedDesignLayersTab LayersTable cellClicked 2 "Regular Pad" 2 2
+\d (00:00:09) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 16777249 67108864 false +
+\d (00:00:09) QtSignal 1
+\d (00:00:09) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 86 67108864 false 1 +
+\d (00:00:09) QtSignal ""
+\d (00:00:10) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
+\d (00:00:13) QtSignal GuidedDrillTab holeXSize editingFinished "1.0000"
+\d (00:00:13) QtSignal GuidedTabsParent GuidedTabs currentChanged "Secondary Drill"
+\d (00:00:13) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
+\d (00:00:14) QtSignal GuidedTabsParent GuidedTabs currentChanged "Secondary Drill"
+\d (00:00:14) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Symbol"
+\d (00:00:16) QtSignal GuidedDrillSymbol FigureWidth editingFinished "1.0000"
+\d (00:00:20) QtSignal GuidedDrillSymbol FigureHeight editingFinished "1.0000"
+\d (00:00:20) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Offset"
+\d (00:00:20) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:21) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:22) QtSignal GuidedTabsParent GuidedTabs currentChanged Options
+\d (00:00:22) QtSignal GuidedTabsParent GuidedTabs currentChanged Summary
+\d (00:00:23) QtSignal GuidedTabsParent GuidedTabs currentChanged Options
+\d (00:00:23) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:23) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:24) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:24) QtSignal GuidedTabsParent GuidedTabs currentChanged Options
+\d (00:00:25) QtSignal GuidedTabsParent GuidedTabs currentChanged Summary
+\d (00:00:27) QtSignal MainWindow UpdateToDesignExit triggered
+\t (00:00:28)     Journal end - Tue Jun  3 19:28:22 2025
