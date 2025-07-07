@@ -1,13 +1,14 @@
 import machine, network, asyncio, gc, array, rp2, json, ubinascii, os, time, _thread, ina226, ssd1306, badapple, ntptime
 from micropython import const
 
-PROGRAM_VERSION = "25_07_07"
+PROGRAM_VERSION = "25.07.07"
 SUM_OF_INTERNAL_LEDS = const(27)
 SHORT_PRESS_TIME = const(50)    #ms
 LONG_PRESS_TIME = const(1000)
 RELEASE_TIME = const(500)
 SCREEN_REFRESH_INTERVAL = const(1000)
-INA226_CURRENT_COEFFICIENT = const(1)       #調整INA226誤差
+INA226_POSITIVE_CURRENT_COEFFICIENT = 0.999       #調整INA226誤差
+INA226_NEGATIVE_CURRENT_COEFFICIENT = 0.9927
 LOAD_INA226_INTERVAL = const(500)
 ENABLE_INA226_OCP = const(1)
 PICO_ADC_SINK_CURRENT = const(38)       #uA
@@ -1046,10 +1047,9 @@ async def main():
                 screenDisplay = not screenDisplay
             if lastScreenButtonState == 1 and screenButton.value() == 0 and (time.ticks_diff(time.ticks_ms(), lastScreenButtonPressedTime) >= SHORT_PRESS_TIME and time.ticks_diff(time.ticks_ms(), lastScreenButtonPressedTime) < LONG_PRESS_TIME and time.ticks_diff(time.ticks_ms(), lastScreenButtonLongPressedTime) >= LONG_PRESS_TIME):    #短按
                 lastScreenButtonState = 0
-                if screenDisplay:
-                    screenDisplayMode += 1
-                    if screenDisplayMode > 3:
-                        screenDisplayMode = 0
+                screenDisplayMode += 1
+                if screenDisplayMode > 3:
+                    screenDisplayMode = 0
             if lastScreenButtonState == 1 and screenButton.value() == 0 and (time.ticks_diff(time.ticks_ms(), lastScreenButtonPressedTime) < SHORT_PRESS_TIME or time.ticks_diff(time.ticks_ms(), lastScreenButtonPressedTime) >= LONG_PRESS_TIME or time.ticks_diff(time.ticks_ms(), lastScreenButtonLongPressedTime) < LONG_PRESS_TIME):    #無效放開
                 lastScreenButtonState = 0
 
@@ -1069,9 +1069,14 @@ async def main():
                 if abs(current) <= 0.01:
                     current = 0
                 currentDirection = True if current >= 0 else False
-                voltage, current = powerIc.bus_voltage, abs(current)*INA226_CURRENT_COEFFICIENT
+                if current > 0:
+                    current = abs(current) * INA226_POSITIVE_CURRENT_COEFFICIENT
+                else:
+                    current = abs(current) * INA226_NEGATIVE_CURRENT_COEFFICIENT
+                voltage = powerIc.bus_voltage
                 power = voltage * current
                 mWh += power * (LOAD_INA226_INTERVAL / 1000) * 1000 / 3600
+                mWh = mWh if mWh < 99999 else 99999
 
             if screenDisplayMode == 2 and time.ticks_diff(time.ticks_ms(), animationLastRefreshTime) >= animationRefreshInterval:
                 if lastScreenDisplayMode != 2:
@@ -1090,25 +1095,19 @@ async def main():
             if time.ticks_diff(time.ticks_ms(), screenLastRefreshTime) >= SCREEN_REFRESH_INTERVAL and screenDisplayMode != 2:
                 screenLastRefreshTime = time.ticks_ms()
                 if lastScreenDisplayMode == 2:      #避免播放動畫後無法顯示
-                    screen = ssd1306.SSD1306_I2C(128, 64, machine.I2C(1, scl=machine.Pin(15), sda=machine.Pin(14), freq=400000))
+                    screen = ssd1306.SSD1306_I2C(128, 64, externalI2c)
                 screen.fill(0)
                 if screenDisplayMode == 0:
                     lastScreenDisplayMode = 0
                     if screenDisplay:
-                        sec = (time.ticks_diff(time.ticks_ms(), startTime)) // 1000
-                        vBat = 0
-                        for i in range(5):
-                            vBat += vBatAdc.read_u16()
-                        vBat = (vBat/5/65535*3+PICO_ADC_SINK_CURRENT/100)*1.5
+                        if not lastNtpSyncTime:
+                            sec = (time.ticks_diff(time.ticks_ms(), startTime)) // 1000
                         if currentDirection:
-                            screen.text("TYPE-C  OUT", 24, 0)
+                            screen.text("USB-C  OUT", 24, 0)
                         else:
-                            screen.text("TYPE-C IN", 24, 0)
-                        screen.text("VOLTAGE {:>7.3f}V".format(round(voltage, 3)), 0, 8)
-                        screen.text("CURRENT {:>7.3f}A".format(round(current, 3)), 0, 16)
-                        screen.text("POWER {:>9.3f}W".format(round(power, 3)), 0, 24)
-                        screen.text("TOTAL {:>7d}mWh".format(int(round(mWh, 0))), 0, 32)
-                        screen.text("BATTERY {:>7.3f}V".format(round(vBat, 3)), 0, 48)
+                            screen.text("USB-C   IN", 24, 0)
+                        screen.text("{:>5.3f}V    {:>5.3f}A".format(round(voltage, 3), round(current, 3)), 0, 16)
+                        screen.text("{:>06.3f}W {:>5d}mWh".format(round(power, 3), int(round(mWh, 0))), 0, 32)
                         if lastNtpSyncTime:
                             screen.text('{:02d}/{:02d}   {:02d}:{:02d}:{:02d}'.format(time.localtime()[1], time.localtime()[2], time.localtime()[3], time.localtime()[4], time.localtime()[5]), 0, 56)
                         else:
@@ -1142,6 +1141,10 @@ async def main():
                 elif screenDisplayMode == 3:
                     lastScreenDisplayMode = 3
                     if screenDisplay:
+                        vBat = 0
+                        for i in range(5):
+                            vBat += vBatAdc.read_u16()
+                        vBat = (vBat/5/65535*3+PICO_ADC_SINK_CURRENT/100)*1.5
                         if wifi.isconnected() or wifi.active():
                             middleDotPos = wifi.ifconfig()[0].find(".")
                             middleDotPos = wifi.ifconfig()[0][middleDotPos + 1:].find(".") + middleDotPos + 2
@@ -1149,10 +1152,10 @@ async def main():
                             screen.text("{:>15} ".format(wifi.ifconfig()[0][middleDotPos:]), 0, 8)
                         else:
                             screen.text("IP           N/A", 0, 0)
-                        screen.text("MAC    " + MACAddress[0:9], 0, 16)
-                        screen.text("       " + MACAddress[9:], 0, 24)
-                        screen.text(" software by DPX", 0, 48)
-                        screen.text("{:>16}".format(PROGRAM_VERSION), 0, 56)
+                        screen.text("MAC    "+MACAddress[0:9], 0, 16)
+                        screen.text("       "+MACAddress[9:], 0, 24)
+                        screen.text("BAT       {:>5.3f}V".format(round(vBat, 3)), 0, 40)
+                        screen.text("FW ver  "+PROGRAM_VERSION, 0, 56)
                     else:
                         screen.fill(0)
                 screen.show()

@@ -1,9 +1,10 @@
 # 八卦流光爐☆
 這是個開源的八卦爐DA☆ZE  
 <table>
-<tr><td align="center"><img src="./readme_files/01.jpg"><br></td><td align="center"><img src="./readme_files/02.jpg">（待補）<br></td></tr>
-<tr><td align="center"><img src="./readme_files/03.jpg"><br></td><td align="center"><img src="./readme_files/04.jpg"><br></td></tr>
-<tr><td align="center" colspan="2"><img src="./readme_files/06.jpg"><br></td></tr>
+<tr><td align="center"><img src="./readme_files/01.jpg"><br></td></tr>
+<tr><td align="center"><img src="./readme_files/02.jpg"><br></td></tr>
+<tr><td align="center"><img src="./readme_files/03.jpg"><br></td></tr>
+<tr><td align="center"><img src="./readme_files/04.jpg"><br></td></tr>
 </table> 
 
 ## 功能介紹
@@ -24,27 +25,27 @@
 <br>
 
 螢幕顯示模式：  
-- 電源相關、網路時鐘
+- 充放電相關資訊、網路時鐘
 - 充放電功率
 - BadApple動畫
-- 連網資訊
+- 系統資訊
 
 不安裝螢幕也可運作，請在關機狀態下插拔螢幕<br>
 <br>
 網頁控制功能，連線到此裝置的Wi-Fi後，在瀏覽器輸入螢幕上的IP位址，即可進入控制頁面：<br>
-<img src="./readme_files/07.png">
+<img src="./readme_files/10.png">
 <br>
 AP為裝置自成Wi-Fi基地台（預設值），STA則為連線至別的Wi-Fi<br>
 設置完成後需要手動重新開機<br>
 <br>
 預設SSID為「BaGuaLu」，密碼為「bagualu123」<br>
 若設定連線到其他Wi-Fi，成功連上網際網路後，螢幕狀態顯示畫面最下面一欄會變為網路時鐘<br>
-<img src="./readme_files/08.jpg">
+<img src="./readme_files/11.jpg">
 <br>
 <br>
 
 ## 展示影片
-（待補）
+[![video](https://img.youtube.com/vi/FzJJwNSfWdE/0.jpg)](https://www.youtube.com/watch?v=FzJJwNSfWdE)
 
 ## 製造&組裝教學
 本專案提供製造教學，請至<a href="https://github.com/DeePingXian/BaGuaLiuGuangLu/wiki">Wiki頁面</a>查看
